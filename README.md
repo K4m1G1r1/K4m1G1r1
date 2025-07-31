@@ -4,7 +4,7 @@
 ---
 
 ## 👾 **About Me**
-- **Codename:** `K4m1G1r1` → "Defying malicious gods, one exploit at a time." //「悪神に立ち向かう者、K4m1G1r1」 
+- **Codename:** `K4m1G1r1` → Defying malicious gods, one exploit at a time. //「悪神に立ち向かう者、K4m1G1r1」 
 - **Focus:** Red Team Operations & Digital Forensics  
 - **Goal:** Work and collaborate with the **Japanese Government** in cybersecurity operations.  
 - **Philosophy:** “Defend, Attack, Evolve”  
