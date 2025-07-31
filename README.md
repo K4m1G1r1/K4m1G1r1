@@ -4,7 +4,7 @@
 ---
 
 ## 👾 **About Me**
-- **Codename:** `K4m1G1r1` → *No hay dios malvado que pueda ante mí*  
+- **Codename:** `K4m1G1r1` → "Defying malicious gods, one exploit at a time." //「悪神に立ち向かう者、K4m1G1r1」 
 - **Focus:** Red Team Operations & Digital Forensics  
 - **Goal:** Work and collaborate with the **Japanese Government** in cybersecurity operations.  
 - **Philosophy:** “Defend, Attack, Evolve”  
@@ -21,14 +21,14 @@
 
 ## 🏆 **Labs & Research**
 - **[Pentest Journal](https://github.com/K4m1G1r1/Pentest-Journal)** → Practical notes & walkthroughs  
-- **OverTheWire Progress:** Levels 1-8 documented  
+- **OverTheWire**
 - **Custom labs:** VirtualBox (Metasploit2, Metasploit3, Mutillidae)  
 
 ---
 
 ## 📫 **Contact**
-- [LinkedIn](TU-LINKEDIN-AQUI)  
-- [X (Twitter)](https://x.com/TU-USUARIO)  
+- [LinkedIn](https://www.linkedin.com/in/david-alejandro-meyer-romero-678699256/)  
+- [X (Twitter)](https://x.com/K4m1G1r1)  
 
 ---
 
