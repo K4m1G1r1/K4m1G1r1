@@ -1,13 +1,36 @@
-# ¡Hola, soy David Alejandro Meyer Romero 👋
-## Red Team & Offensive Security Enthusiast
-- 🌐 Apasionado por Ciberseguridad Ofensiva (Red Team, Purple Team, Forense)
-- 🔭 En aprendizaje continuo (Pentesting, OSINT, scripting en Bash & PowerShell)
-- 📂 [Mis proyectos](https://github.com/K4m1G1r1)
-- "Hack the system, secure the future"
+# ![Banner](https://dummyimage.com/1200x300/111111/ff0000&text=K4m1G1r1)  
+### **Red Team & Forensic Specialist (日本国旗)**  
 
-- # Hi, I'm David Alejandro Meyer Romero 👋
-## Red Team & Offensive Security Enthusiast
-- 🌐 Passionate about Offensive Cybersecurity (Red Team, Purple Team, Forensics)
-- 🔭 Continuous learning (Pentesting, OSINT, Bash & PowerShell scripting)
-- 📂 [My projects](https://github.com/K4m1G1r1)
-- "Hack the system, secure the future"
+---
+
+## 👾 **About Me**
+- **Codename:** `K4m1G1r1` → *No hay dios malvado que pueda ante mí*  
+- **Focus:** Red Team Operations & Digital Forensics  
+- **Goal:** Work and collaborate with the **Japanese Government** in cybersecurity operations.  
+- **Philosophy:** “Defend, Attack, Evolve”  
+
+---
+
+## 🛠 **Skills**
+- Offensive Security: Penetration Testing, Red Team Simulations  
+- Forensic Analysis: Incident Response & Evidence Handling  
+- Scripting: Bash, Python  
+- Environments: Kali Linux, WSL2, Metasploit, Mutillidae  
+
+---
+
+## 🏆 **Labs & Research**
+- **[Pentest Journal](https://github.com/K4m1G1r1/Pentest-Journal)** → Practical notes & walkthroughs  
+- **OverTheWire Progress:** Levels 1-8 documented  
+- **Custom labs:** VirtualBox (Metasploit2, Metasploit3, Mutillidae)  
+
+---
+
+## 📫 **Contact**
+- [LinkedIn](TU-LINKEDIN-AQUI)  
+- [X (Twitter)](https://x.com/TU-USUARIO)  
+
+---
+
+### **K4m1G1r1**
+**Red Team & Forensic** | *未来を守る* (Protecting the Future)
