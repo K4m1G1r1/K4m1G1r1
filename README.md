@@ -1,28 +1,40 @@
 # ![Banner](https://dummyimage.com/1200x300/111111/ff0000&text=K4m1G1r1)  
-### **Red Team & Forensic Specialist (日本国旗)**  
+### **Bug Bounty Hunter & Offensive Security Researcher (日本国旗)**  
 
 ---
 
 # 👋 Hola, soy **K4m1G1r1**
 
-**Red Team & Forensics Enthusiast**  
+**Bug Bounty Hunter | Web・Mobile・Cloud・IoT・Hardware**  
 *Defying malicious gods, one exploit at a time.*  
 「悪神に立ち向かう者」
 
 ---
 
 ## 🚀 Sobre mí
-- 🔴 **Red Team**: Pentesting, explotación de vulnerabilidades y simulación de amenazas.  
-- 🧩 **Forense Digital**: Análisis de memoria, disco y respuesta a incidentes.  
-- 📚 **Aprendizaje Autodidacta**: Laboratorios, CTFs y scripting (Bash, Python).  
-- 🎯 Enfoque: *Gobierno Japonés, investigación ofensiva y respuesta forense.*
+- 🐛 **Bug Bounty Hunter**: Cazador de vulnerabilidades críticas en entornos Web, Mobile, Cloud, IoT y Hardware.  
+- 🤖 **Automation & Tooling**: Desarrollo de scripts y pipelines para reconocimiento y explotación avanzada.  
+- 📱 **Mobile & API Security**: Análisis ofensivo de aplicaciones Android/iOS y APIs modernas.  
+- ☁️ **Cloud & IoT**: Investigación en entornos AWS, IoT devices y hardware hacking.  
+- 🎯 **Visión Internacional (Japón incluido)**: Contribuyendo a un ecosistema de ciberseguridad global.
 
 ---
 
 ## 🛠️ Stack de Herramientas
-**Lenguajes:** ![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash) ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
-**Entornos:** ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-blue?style=flat&logo=linux) ![WSL2](https://img.shields.io/badge/-WSL2-lightgrey?style=flat&logo=windows)  
-**Hacking Tools:** ![Metasploit](https://img.shields.io/badge/-Metasploit-purple?style=flat&logo=metasploit) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange?style=flat)
+**Lenguajes:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash) ![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=flat&logo=powershell)  
+**Sistemas:** ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-blue?style=flat&logo=linux) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=ubuntu) ![Windows](https://img.shields.io/badge/-Windows-lightgrey?style=flat&logo=windows)  
+**Hacking Tools:** ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange?style=flat&logo=burp-suite) ![Nuclei](https://img.shields.io/badge/-Nuclei-blue?style=flat&logo=appveyor) ![FFuF](https://img.shields.io/badge/-FFuF-yellow?style=flat&logo=fastapi) ![Frida](https://img.shields.io/badge/-Frida-green?style=flat&logo=android)  
+**Cloud & IoT:** ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws) ![Pacu](https://img.shields.io/badge/-Pacu-lightgrey?style=flat) ![Binwalk](https://img.shields.io/badge/-Binwalk-blue?style=flat&logo=linux)
+
+---
+
+## 📚 Roadmap Educativo (en progreso)
+- **Fase 1:** Web Hacking básico, Recon, OSINT  
+- **Fase 2:** Recon avanzado y automatización  
+- **Fase 3:** Vulnerabilidades avanzadas, Mobile & APIs  
+- **Fase 4:** Cloud Security, IoT & Hardware Hacking  
+- **Fase 5:** Reversing y Exploits avanzados  
+- **Fase 6:** Reputación internacional & cultura japonesa
 
 ---
 
@@ -37,7 +49,7 @@
 ## 🌐 Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/david-alejandro-meyer-romero-678699256/)
 - [GitHub](https://github.com/K4m1G1r1)
-- ['X'](https://x.com/K4m1G1r1)
+- [X (Twitter)](https://x.com/K4m1G1r1)
 
 ---
 
