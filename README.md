@@ -1,34 +1,57 @@
-# ![Banner](https://dummyimage.com/1200x300/111111/ff0000&text=K4m1G1r1)  
+# ![Banner](https://dummyimage.com/1200x300/000000/ff0000&text=K4m1G1r1+%7C+Bug+Bounty+Hunter)  
 ### **Bug Bounty Hunter & Offensive Security Researcher (日本国旗)**  
 
 ---
 
-# 👋 Hola, soy **K4m1G1r1**
-
-**Bug Bounty Hunter | Web・Mobile・Cloud・IoT・Hardware**  
-*Defying malicious gods, one exploit at a time.*  
+# 🥷 **K4m1G1r1**  
+*"Defying malicious gods, one exploit at a time."*  
 「悪神に立ち向かう者」
 
 ---
 
-## 🚀 Sobre mí
-- 🐛 **Bug Bounty Hunter**: Cazador de vulnerabilidades críticas en entornos Web, Mobile, Cloud, IoT y Hardware.  
-- 🤖 **Automation & Tooling**: Desarrollo de scripts y pipelines para reconocimiento y explotación avanzada.  
-- 📱 **Mobile & API Security**: Análisis ofensivo de aplicaciones Android/iOS y APIs modernas.  
-- ☁️ **Cloud & IoT**: Investigación en entornos AWS, IoT devices y hardware hacking.  
-- 🎯 **Visión Internacional (Japón incluido)**: Contribuyendo a un ecosistema de ciberseguridad global.
+## 🕶️ **Quién soy**
+- 🐛 **Bug Bounty Hunter** → Web・Mobile・Cloud・IoT・Hardware  
+- ⚡ **Exploit Developer** → Reversing & Fuzzing  
+- 🤖 **Automatizador compulsivo** → Recon pipelines y herramientas personalizadas  
+- 📱 **Mobile Security** → Android & iOS AppSec  
+- ☁️ **Cloud & IoT** → AWS, dispositivos conectados y hardware hacking  
+- 🎯 **Visión internacional (Japón incluido)** → Excelencia técnica global  
 
 ---
 
-## 🛠️ Stack de Herramientas
-**Lenguajes:** ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash) ![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=flat&logo=powershell)  
-**Sistemas:** ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-blue?style=flat&logo=linux) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=ubuntu) ![Windows](https://img.shields.io/badge/-Windows-lightgrey?style=flat&logo=windows)  
-**Hacking Tools:** ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange?style=flat&logo=burp-suite) ![Nuclei](https://img.shields.io/badge/-Nuclei-blue?style=flat&logo=appveyor) ![FFuF](https://img.shields.io/badge/-FFuF-yellow?style=flat&logo=fastapi) ![Frida](https://img.shields.io/badge/-Frida-green?style=flat&logo=android)  
-**Cloud & IoT:** ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws) ![Pacu](https://img.shields.io/badge/-Pacu-lightgrey?style=flat) ![Binwalk](https://img.shields.io/badge/-Binwalk-blue?style=flat&logo=linux)
+## 🛠️ **Arsenal Técnico**
+**Lenguajes (presentes y futuros):**  
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash)  
+![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat&logo=powershell)  
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=database)  
+![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go)  
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)  
+![Assembly x86](https://img.shields.io/badge/-Assembly%20x86-black?style=flat&logo=asm)  
+![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)  
+
+**Sistemas Operativos:**  
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=flat&logo=linux)  
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)  
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat&logo=windows)  
+![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat&logo=apple)  
+![IoT OS](https://img.shields.io/badge/-IoT%20OS-black?style=flat&logo=raspberry-pi)  
+
+**Herramientas de Hacking:**  
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=flat&logo=burp-suite)  
+![Nuclei](https://img.shields.io/badge/-Nuclei-black?style=flat)  
+![FFuF](https://img.shields.io/badge/-FFuF-black?style=flat)  
+![Frida](https://img.shields.io/badge/-Frida-black?style=flat&logo=android)  
+![MobSF](https://img.shields.io/badge/-MobSF-black?style=flat&logo=android)  
+![Ghidra](https://img.shields.io/badge/-Ghidra-black?style=flat&logo=eclipse-ide)  
+![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-black?style=flat)  
+![Binwalk](https://img.shields.io/badge/-Binwalk-black?style=flat)  
+![ScoutSuite](https://img.shields.io/badge/-ScoutSuite-black?style=flat&logo=amazon-aws)  
+![Pacu](https://img.shields.io/badge/-Pacu-black?style=flat&logo=amazon-aws)  
 
 ---
 
-## 📚 Roadmap Educativo (en progreso)
+## 📚 **Roadmap Educativo (en progreso)**
 - **Fase 1:** Web Hacking básico, Recon, OSINT  
 - **Fase 2:** Recon avanzado y automatización  
 - **Fase 3:** Vulnerabilidades avanzadas, Mobile & APIs  
@@ -38,15 +61,15 @@
 
 ---
 
-## 📊 Estadísticas
+## 📊 **Estadísticas**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K4m1G1r1&show_icons=true&theme=radical" alt="Estadísticas de GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4m1G1r1&layout=compact&theme=radical" alt="Lenguajes" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=K4m1G1r1&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4m1G1r1&layout=compact&theme=radical&hide_border=true" alt="Lenguajes" height="150">
 </p>
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 **Conecta conmigo**
 - [LinkedIn](https://www.linkedin.com/in/david-alejandro-meyer-romero-678699256/)
 - [GitHub](https://github.com/K4m1G1r1)
 - [X (Twitter)](https://x.com/K4m1G1r1)
