@@ -1,4 +1,4 @@
-# ![Banner](https://dummyimage.com/1200x300/000000/ff0000&text=K4m1G1r1+%7C+Bug+Bounty+Hunter)  
+# ![Banner](https://dummyimage.com/1200x300/111111/ff0000&text=K4m1G1r1)
 ### **Bug Bounty Hunter & Offensive Security Researcher (日本国旗)**  
 
 ---
