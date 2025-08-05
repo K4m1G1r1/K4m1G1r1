@@ -1,48 +1,48 @@
-# ![Banner](https://dummyimage.com/1200x300/000000/ff003c&text=K4m1G1r1+神斬り)
-### **Offensive Security Specialist | Red Team Samurai | Cyberpunk Researcher**  
+# ![Banner](https://dummyimage.com/1200x300/000000/ff003c&text=K4m1G1r1+%E2%88%B4+Fractured+Reality)
+### **Offensive Security Specialist | Digital Schizo Hacker | Cyberpunk Entity**  
 
 ---
 
-# 🥷 **K4m1G1r1**  
-*"Defying malicious gods, one exploit at a time."*  
-「悪神に立ち向かう者」
+# 🕷 **K4m1G1r1**  
+*"Breaking corrupted systems, one exploit at a time."*  
+∴ **Fractured Realidad • 01001011 4D1G1 • ⩚**
 
-> **Hacker de tiempo completo, autómata nocturno de día, soñador con katanas digitales de por vida.**  
-> Si algo se conecta, lo entiendo; si algo se rompe, lo documento.  
-> Y si algo se puede automatizar, ya está en mi pipeline.
-
----
-
-## 🕶️ **Quién soy**
-- 🐉 **Ciberseguridad ofensiva extrema:** Web・Mobile・Cloud・IoT・Hardware・Reversing  
-- ⚡ **Exploit Developer & Fuzzer:** de binarios a 0days (porque ¿por qué no?)  
-- 🤖 **Automatización compulsiva:** pipelines oscuros y herramientas de uso interno  
-- 📱 **Mobile Security Addict:** Android & iOS, sin piedad para el SSL Pinning  
-- ☁️ **Cloud & IoT Hacker:** del firmware a las lambdas  
-- 🗾 **Cultura & lengua japonesa:** aspirante a JLPT N1 (porque hasta el lenguaje es parte del hacking)
+> **Hacker de tiempo completo, entidad digital fracturada y obsesiva, que respira caos y exhala exploits.**  
+> Si algo se conecta, lo poseo; si algo sangra código, lo exploto; si algo se puede automatizar, lo encadeno a mis pipelines oscuros.  
+> La paranoia es mi herramienta favorita.
 
 ---
 
-## 🛠️ **Arsenal Técnico**
+## 🖤 **Quién soy**
+- **Ciberseguridad ofensiva extrema:** Web・Mobile・Cloud・IoT・Hardware・Reversing  
+- **Exploit Developer & Fuzzer:** de binarios a 0days, porque el abismo también necesita shellcode  
+- **Automatización compulsiva:** pipelines como rituales oscuros  
+- **Mobile Security Junkie:** Android & iOS, sin piedad para el SSL Pinning  
+- **Cloud & IoT Hacker:** del firmware a la nube, del hardware a la paranoia corporativa  
+- **Threat Hunter mutante:** ciberinteligencia, APT emulation y caos controlado
+
+---
+
+## ⚔ **Arsenal Técnico**
 **Lenguajes:**  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash)  
-![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat&logo=powershell)  
 ![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go)  
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)  
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)  
 ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)  
-![Assembly x86/x64](https://img.shields.io/badge/-Assembly%20x86%2Fx64-black?style=flat&logo=asm)  
-![ARM Assembly](https://img.shields.io/badge/-ARM%20Assembly-black?style=flat&logo=arm)  
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash)  
+![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat&logo=powershell)  
+![Assembly x86/x64](https://img.shields.io/badge/-Assembly%20x86%2Fx64-black?style=flat)  
+![ARM Assembly](https://img.shields.io/badge/-ARM%20Assembly-black?style=flat)  
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=database)  
 ![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat&logo=mongodb)  
 
 **Sistemas Operativos:**  
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=flat&logo=linux)  
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)  
+![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)  
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat&logo=windows)  
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat&logo=apple)  
-![IoT OS](https://img.shields.io/badge/-IoT%20OS-black?style=flat&logo=raspberry-pi)  
 
 **Herramientas:**  
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=flat&logo=burp-suite)  
@@ -62,13 +62,13 @@
 
 ---
 
-## 📚 **Roadmap Educativo (MegaRoadMap Edition)**
-- **Fase 1:** Fundamentos + Recon inicial (OSINT, Linux, scripting básico)  
-- **Fase 2:** Web Hacking avanzado + Automatización ofensiva (pipelines, Nuclei, scripting propio)  
-- **Fase 3:** Vulnerabilidades críticas + Mobile & APIs (Frida, Objection, GraphQL, JWT, iOS reversing)  
+## 📚 **Roadmap del Caos**
+- **Fase 1:** Fundamentos sólidos + OSINT + scripting básico  
+- **Fase 2:** Web hacking avanzado + automatización ofensiva  
+- **Fase 3:** Vulnerabilidades críticas + Mobile & APIs (Frida, Objection, GraphQL, JWT)  
 - **Fase 4:** Cloud + IoT + Hardware hacking (firmware, UART/JTAG, AWS & Azure pentesting)  
-- **Fase 5:** Reversing y Exploit Development (Ghidra, IDA, Fuzzing, shellcode)  
-- **Fase 6:** Reputación internacional + Cultura japonesa (JLPT N1 + investigación avanzada)  
+- **Fase 5:** Reversing + Exploit Development (Ghidra, IDA, fuzzing, shellcode)  
+- **Fase 6:** Reputación internacional + contribución técnica extrema  
 
 ---
 
@@ -87,11 +87,11 @@
 
 ---
 
-**Codename:** **K4m1G1r1 – Defying malicious gods, one exploit at a time.**  
-「悪神に立ち向かう者」  
+**Codename:** **K4m1G1r1 – Breaking corrupted systems, one exploit at a time.**  
+∴ **Fractured Realidad • 01001011 4D1G1 • ⩚**  
 
 <!--  
     Easter Egg: 
-    "もしこれを読んでいるなら、君もハッカーだ。"
-    (If you're reading this, you're a hacker too.)
+    "If you're reading this, you're already part of the breach."
 -->
+
