@@ -1,4 +1,4 @@
-# ![Banner](https://dummyimage.com/1200x300/000000/ff003c&text=K4m1G1r1+%E2%88%B4+Fractured+Reality)
+# ![Banner](assets/images/Banner.png)
 ### **Offensive Security Specialist | Digital Schizo Hacker | Cyberpunk Entity**  
 
 ---
