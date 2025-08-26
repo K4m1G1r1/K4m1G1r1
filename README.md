@@ -16,6 +16,7 @@
 ⚠ Entraste al territorio de K4m1G1r1… no hay retorno.
 
 🖤 Quién Soy
+
 🎯 Técnologo en Análisis y Desarrollo de Software – SENA
 
 🔥 Ciberseguridad ofensiva extrema: Web・Mobile・Cloud・IoT・Hardware・Reversing
