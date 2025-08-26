@@ -13,6 +13,7 @@
 ---
 
 🌌 Cada línea de código, cada exploit… está viva, te observa. Bienvenido al caos, humano.
+
 ⚠ Entraste al territorio de K4m1G1r1… no hay retorno.
 
 🖤 Quién Soy
@@ -31,6 +32,8 @@
 
 🧠 Threat Hunter mutante: ciberinteligencia, APT emulation, control absoluto del abismo
 
+---
+
 🕹 Roadmap del Caos
 
 ███████ FΔ$3 1 ─ Fundamentos + 0$INT + $cripting bΔ$ic0
@@ -47,8 +50,12 @@
 
 ⚠ Ruta Hixec Pentesting desde Cero: [HIXEC](https://suites.hixec.com/pentesting-desde-cero/)
 
+---
+
 💀 Stats del Abismo
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=K4m1G1r1&show_icons=true&theme=radical&hide_border=true" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4m1G1r1&layout=compact&theme=radical&hide_border=true" height="150"> </p>
+
+---
 
 🌐 Conecta conmigo
 
@@ -57,6 +64,8 @@
 💻 [GitHub](https://github.com/K4m1G1r1)
 
 🐦 [X (Twitter)](https://x.com/K4m1G1r1)
+
+---
 
 💀☣️░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█
 
@@ -70,9 +79,13 @@
 
 ⚠ Sobrevivir aquí es opcional. Bienvenido al abismo digital de K4m1G1r1.
 
+---
+
 Codename: K4m1G1r1 – I don’t break systems… I consume them.
 
 ∴ FrΔctured RΣΔL1DΔD • 01001011 4D1G1 • ⩚
 
 <!-- ☢ Easter Egg: "If you’re reading this… the glitch has infected you. You are now part of my network. Survival optional." -->
+
+---
 
