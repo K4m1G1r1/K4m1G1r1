@@ -12,24 +12,11 @@
 
 ---
 
-## ⚡ **Matrix Glitch Live – Dashboard del Caos**
-```html
-<svg width="100%" height="200" viewBox="0 0 1000 200">
-  <text x="0" y="30" font-family="monospace" font-size="18" fill="#00ff00">
-    ░▒▓█ K4m1G1r1 ▓▒░ ░▒▓█ Exploits ▓▒░ ░▒▓█ Chaos ▓▒░ ░▒▓█ 01001011 ▓▒░ ░▒▓█ ███ ▓▒░
-  </text>
-  <text x="0" y="60" font-family="monospace" font-size="18" fill="#00ff00">
-    ▒▓███▓░░░░▒▓███▓░░ ░▒▓███▓▒░░ ▓███▒░░▒▓███▓░░░ ░░▒▓███▓▒░
-  </text>
-  <animateTransform attributeName="transform" type="translate" from="0 0" to="1000 0" dur="6s" repeatCount="indefinite"/>
-</svg>
-```
-
 🌌 Cada línea de código, cada exploit… está viva, te observa. Bienvenido al caos, humano.
 ⚠ Entraste al territorio de K4m1G1r1… no hay retorno.
 
 🖤 Quién Soy
-🎯 Técnologo en Análisis y Desarrollo de Software – SENA (2025-2026)
+🎯 Técnologo en Análisis y Desarrollo de Software – SENA
 
 🔥 Ciberseguridad ofensiva extrema: Web・Mobile・Cloud・IoT・Hardware・Reversing
 
@@ -44,31 +31,25 @@
 🧠 Threat Hunter mutante: ciberinteligencia, APT emulation, control absoluto del abismo
 
 🕹 Roadmap del Caos
-text
-Copy
-Edit
+
 ███████ FΔ$3 1 ─ Fundamentos + 0$INT + $cripting bΔ$ic0
 ███░░░░ FΔ$3 2 ─ W3b hacking ΔvΔnzΔd0 + Automatización l3tΔl
 ███░░░░ FΔ$3 3 ─ M0bil3 & ΔPI$ (Frida, Objection, GrΔphQL, JWT)
 ██░░░░░ FΔ$3 4 ─ Cl0ud + I0T + HΔrdware hacking
 ███░░░ FΔ$3 5 ─ R3vers1ng + Exploit D3v3l0pm3nt
 ███░░░ FΔ$3 6 ─ R3putΔci0n int3rnΔci0nΔl + c0ntribución ΔstrΔ + CΔ0$ Δb$oluto
-⚠ Ruta Hixec Pentesting desde Cero: suites.hixec.com
-⚠ Gran Mega RoadMap K4m1G1r1: docs.google.com
+⚠ Ruta Hixec Pentesting desde Cero: [HIXEC](https://suites.hixec.com/pentesting-desde-cero/)
 
 💀 Stats del Abismo
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=K4m1G1r1&show_icons=true&theme=radical&hide_border=true" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4m1G1r1&layout=compact&theme=radical&hide_border=true" height="150"> </p>
+
 🌐 Conecta conmigo
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/david-alejandro-meyer-romero-678699256/)
 
-💻 GitHub
+💻 [GitHub](https://github.com/K4m1G1r1)
 
-🐦 X (Twitter)
+🐦 [X (Twitter)](https://x.com/K4m1G1r1)
 
-⚡ Fondo Glitch Animado
-text
-Copy
-Edit
 💀☣️░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█
 ░▒▓█💀☢░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█
 ▓█░▒▓█💀☣️░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░
