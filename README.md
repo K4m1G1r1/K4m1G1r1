@@ -33,17 +33,24 @@
 🕹 Roadmap del Caos
 
 ███████ FΔ$3 1 ─ Fundamentos + 0$INT + $cripting bΔ$ic0
+
 ███░░░░ FΔ$3 2 ─ W3b hacking ΔvΔnzΔd0 + Automatización l3tΔl
+
 ███░░░░ FΔ$3 3 ─ M0bil3 & ΔPI$ (Frida, Objection, GrΔphQL, JWT)
+
 ██░░░░░ FΔ$3 4 ─ Cl0ud + I0T + HΔrdware hacking
+
 ███░░░ FΔ$3 5 ─ R3vers1ng + Exploit D3v3l0pm3nt
+
 ███░░░ FΔ$3 6 ─ R3putΔci0n int3rnΔci0nΔl + c0ntribución ΔstrΔ + CΔ0$ Δb$oluto
+
 ⚠ Ruta Hixec Pentesting desde Cero: [HIXEC](https://suites.hixec.com/pentesting-desde-cero/)
 
 💀 Stats del Abismo
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=K4m1G1r1&show_icons=true&theme=radical&hide_border=true" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4m1G1r1&layout=compact&theme=radical&hide_border=true" height="150"> </p>
 
 🌐 Conecta conmigo
+
 🔗 [LinkedIn](https://www.linkedin.com/in/david-alejandro-meyer-romero-678699256/)
 
 💻 [GitHub](https://github.com/K4m1G1r1)
@@ -55,7 +62,6 @@
 ▓█░▒▓█💀☣️░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░
 ░▒▓█░▒▓█💀☢░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█
 █░▒▓█░▒▓█💀☣️░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒
-🌌 Cada barra, cada símbolo… simula código cayendo en tu pantalla, como un terminal vivo y peligroso.
 ⚠ Sobrevivir aquí es opcional. Bienvenido al abismo digital de K4m1G1r1.
 
 Codename: K4m1G1r1 – I don’t break systems… I consume them.
