@@ -23,7 +23,7 @@
   </text>
   <animateTransform attributeName="transform" type="translate" from="0 0" to="1000 0" dur="6s" repeatCount="indefinite"/>
 </svg>
-
+```
 
 🌌 Cada línea de código, cada exploit… está viva, te observa. Bienvenido al caos, humano.
 ⚠ Entraste al territorio de K4m1G1r1… no hay retorno.
