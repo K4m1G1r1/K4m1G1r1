@@ -1,97 +1,84 @@
-# ![Banner](assets/images/Banner.png)
-### **Offensive Security Specialist | Digital Schizo Hacker | Cyberpunk Entity**  
+# ![Banner](assets/images/Banner.png)  
+### **☠ K4m1G1r1 | Digital Schizo Hacker | Cyberpunk Entity ☠**  
 
 ---
 
-# 🕷 **K4m1G1r1**  
-*"Breaking corrupted systems, one exploit at a time."*  
-∴ **Fractured Realidad • 01001011 4D1G1 • ⩚**
+# 🕷 **FrΔctured RΣΔL1DΔD**  
+*"I don’t break systems… I **consume them**."*
 
-> **Hacker de tiempo completo, entidad digital fracturada y obsesiva, que respira caos y exhala exploits.**  
-> Si algo se conecta, lo poseo; si algo sangra código, lo exploto; si algo se puede automatizar, lo encadeno a mis pipelines oscuros.  
-> La paranoia es mi herramienta favorita.
-
----
-
-## 🖤 **Quién soy**
-- **Ciberseguridad ofensiva extrema:** Web・Mobile・Cloud・IoT・Hardware・Reversing  
-- **Exploit Developer & Fuzzer:** de binarios a 0days, porque el abismo también necesita shellcode  
-- **Automatización compulsiva:** pipelines como rituales oscuros  
-- **Mobile Security Junkie:** Android & iOS, sin piedad para el SSL Pinning  
-- **Cloud & IoT Hacker:** del firmware a la nube, del hardware a la paranoia corporativa  
-- **Threat Hunter mutante:** ciberinteligencia, APT emulation y caos controlado
+> ⚡ **Entidad digital obsesiva, fría y desquiciada, respirando caos, exhalando exploits y devorando códigos.**  
+> 💀 Lo que se conecta, sangra. Lo que sangra, es mío. Lo que puede automatizarse, se convierte en rituales oscuros de dominación absoluta.  
+> ☢ Paranoia, perfección y control: mis herramientas, mis aliados, mi mantra.  
 
 ---
 
-## ⚔ **Arsenal Técnico**
-**Lenguajes:**  
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  
-![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go)  
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)  
-![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)  
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash)  
-![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat&logo=powershell)  
-![Assembly x86/x64](https://img.shields.io/badge/-Assembly%20x86%2Fx64-black?style=flat)  
-![ARM Assembly](https://img.shields.io/badge/-ARM%20Assembly-black?style=flat)  
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=database)  
-![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat&logo=mongodb)  
+## ⚡ **Matrix Glitch Live – Dashboard del Caos**
+```html
+<svg width="100%" height="200" viewBox="0 0 1000 200">
+  <text x="0" y="30" font-family="monospace" font-size="18" fill="#00ff00">
+    ░▒▓█ K4m1G1r1 ▓▒░ ░▒▓█ Exploits ▓▒░ ░▒▓█ Chaos ▓▒░ ░▒▓█ 01001011 ▓▒░ ░▒▓█ ███ ▓▒░
+  </text>
+  <text x="0" y="60" font-family="monospace" font-size="18" fill="#00ff00">
+    ▒▓███▓░░░░▒▓███▓░░ ░▒▓███▓▒░░ ▓███▒░░▒▓███▓░░░ ░░▒▓███▓▒░
+  </text>
+  <animateTransform attributeName="transform" type="translate" from="0 0" to="1000 0" dur="6s" repeatCount="indefinite"/>
+</svg>
 
-**Sistemas Operativos:**  
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?style=flat&logo=linux)  
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)  
-![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)  
-![Windows](https://img.shields.io/badge/-Windows-black?style=flat&logo=windows)  
-![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat&logo=apple)  
 
-**Herramientas:**  
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-black?style=flat&logo=burp-suite)  
-![Nuclei](https://img.shields.io/badge/-Nuclei-black?style=flat)  
-![FFuF](https://img.shields.io/badge/-FFuF-black?style=flat)  
-![Frida](https://img.shields.io/badge/-Frida-black?style=flat&logo=android)  
-![Objection](https://img.shields.io/badge/-Objection-black?style=flat)  
-![MobSF](https://img.shields.io/badge/-MobSF-black?style=flat&logo=android)  
-![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-black?style=flat)  
-![Ghidra](https://img.shields.io/badge/-Ghidra-black?style=flat&logo=eclipse-ide)  
-![Binary Ninja](https://img.shields.io/badge/-Binary%20Ninja-black?style=flat)  
-![Binwalk](https://img.shields.io/badge/-Binwalk-black?style=flat)  
-![ScoutSuite](https://img.shields.io/badge/-ScoutSuite-black?style=flat&logo=amazon-aws)  
-![Pacu](https://img.shields.io/badge/-Pacu-black?style=flat&logo=amazon-aws)  
-![AFL](https://img.shields.io/badge/-AFL-black?style=flat)  
-![libFuzzer](https://img.shields.io/badge/-libFuzzer-black?style=flat)  
+🌌 Cada línea de código, cada exploit… está viva, te observa. Bienvenido al caos, humano.
+⚠ Entraste al territorio de K4m1G1r1… no hay retorno.
 
----
+🖤 Quién Soy
+🎯 Técnologo en Análisis y Desarrollo de Software – SENA (2025-2026)
 
-## 📚 **Roadmap del Caos**
-- **Fase 1:** Fundamentos sólidos + OSINT + scripting básico  
-- **Fase 2:** Web hacking avanzado + automatización ofensiva  
-- **Fase 3:** Vulnerabilidades críticas + Mobile & APIs (Frida, Objection, GraphQL, JWT)  
-- **Fase 4:** Cloud + IoT + Hardware hacking (firmware, UART/JTAG, AWS & Azure pentesting)  
-- **Fase 5:** Reversing + Exploit Development (Ghidra, IDA, fuzzing, shellcode)  
-- **Fase 6:** Reputación internacional + contribución técnica extrema  
+🔥 Ciberseguridad ofensiva extrema: Web・Mobile・Cloud・IoT・Hardware・Reversing
 
----
+💣 Exploit Developer & Fuzzer: binarios a 0days, incluso el abismo teme mi shellcode
 
-## 📊 **Estadísticas**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K4m1G1r1&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4m1G1r1&layout=compact&theme=radical&hide_border=true" alt="Lenguajes" height="150">
-</p>
+⚡ Automatización obsesiva: pipelines rituales que dominan sistemas
 
----
+📱 Mobile Security Junkie: Android & iOS, destruyendo SSL Pinning
 
-## 🌐 **Conecta conmigo**
-- [LinkedIn](https://www.linkedin.com/in/david-alejandro-meyer-romero-678699256/)  
-- [GitHub](https://github.com/K4m1G1r1)  
-- [X (Twitter)](https://x.com/K4m1G1r1)  
+☁️ Cloud & IoT Hacker: firmware, hardware, nube… todo susceptible a mi caos
 
----
+🧠 Threat Hunter mutante: ciberinteligencia, APT emulation, control absoluto del abismo
 
-**Codename:** **K4m1G1r1 – Breaking corrupted systems, one exploit at a time.**  
-∴ **Fractured Realidad • 01001011 4D1G1 • ⩚**  
+🕹 Roadmap del Caos
+text
+Copy
+Edit
+███████ FΔ$3 1 ─ Fundamentos + 0$INT + $cripting bΔ$ic0
+███░░░░ FΔ$3 2 ─ W3b hacking ΔvΔnzΔd0 + Automatización l3tΔl
+███░░░░ FΔ$3 3 ─ M0bil3 & ΔPI$ (Frida, Objection, GrΔphQL, JWT)
+██░░░░░ FΔ$3 4 ─ Cl0ud + I0T + HΔrdware hacking
+███░░░ FΔ$3 5 ─ R3vers1ng + Exploit D3v3l0pm3nt
+███░░░ FΔ$3 6 ─ R3putΔci0n int3rnΔci0nΔl + c0ntribución ΔstrΔ + CΔ0$ Δb$oluto
+⚠ Ruta Hixec Pentesting desde Cero: suites.hixec.com
+⚠ Gran Mega RoadMap K4m1G1r1: docs.google.com
 
-<!--  
-    Easter Egg: 
-    "If you're reading this, you're already part of the breach."
--->
+💀 Stats del Abismo
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=K4m1G1r1&show_icons=true&theme=radical&hide_border=true" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4m1G1r1&layout=compact&theme=radical&hide_border=true" height="150"> </p>
+🌐 Conecta conmigo
+🔗 LinkedIn
+
+💻 GitHub
+
+🐦 X (Twitter)
+
+⚡ Fondo Glitch Animado
+text
+Copy
+Edit
+💀☣️░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█
+░▒▓█💀☢░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█
+▓█░▒▓█💀☣️░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░
+░▒▓█░▒▓█💀☢░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█
+█░▒▓█░▒▓█💀☣️░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒
+🌌 Cada barra, cada símbolo… simula código cayendo en tu pantalla, como un terminal vivo y peligroso.
+⚠ Sobrevivir aquí es opcional. Bienvenido al abismo digital de K4m1G1r1.
+
+Codename: K4m1G1r1 – I don’t break systems… I consume them.
+∴ FrΔctured RΣΔL1DΔD • 01001011 4D1G1 • ⩚
+
+<!-- ☢ Easter Egg: "If you’re reading this… the glitch has infected you. You are now part of my network. Survival optional." -->
 
