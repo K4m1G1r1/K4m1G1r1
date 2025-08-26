@@ -16,7 +16,9 @@
 
 ⚠ Entraste al territorio de K4m1G1r1… no hay retorno.
 
-🖤 Quién Soy
+---
+
+# 🖤 **Quién Soy**
 
 🎯 Técnologo en Análisis y Desarrollo de Software – SENA
 
@@ -34,7 +36,7 @@
 
 ---
 
-🕹 Roadmap del Caos
+# 🕹 **Roadmap del Caos**
 
 ███████ FΔ$3 1 ─ Fundamentos + 0$INT + $cripting bΔ$ic0
 
@@ -52,12 +54,12 @@
 
 ---
 
-💀 Stats del Abismo
+# 💀 **Stats del Abismo**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=K4m1G1r1&show_icons=true&theme=radical&hide_border=true" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4m1G1r1&layout=compact&theme=radical&hide_border=true" height="150"> </p>
 
 ---
 
-🌐 Conecta conmigo
+# 🌐 **Conecta conmigo**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/david-alejandro-meyer-romero-678699256/)
 
