@@ -61,7 +61,7 @@
 
 # 🌐 **Conecta conmigo**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/david-alejandro-meyer-romero-678699256/)
+🔗 [LinkedIn](https://www.linkedin.com/in/k4m1g1r1/)
 
 💻 [GitHub](https://github.com/K4m1G1r1)
 
