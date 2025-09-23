@@ -17,7 +17,7 @@ Every exploit whispers. Every binary hides secrets. Every system fears dissectio
 ---
 
 ## 🖤 Who I Am
-**Tatsumi Yukiharu** (alias **K4m1G1r1**) — Software Analysis & Development Technologist (SENA) & full-time offensive researcher in training.  
+**Alejandro Meyer** (alias **K4m1G1r1**) — Software Analysis & Development Technologist (SENA) & full-time offensive researcher in training.  
 I specialize in Red Team operations, reverse engineering, exploit development, and high-value vulnerability research. I train daily, publish clean writeups, and forge tools that harden defenders and humble attackers.
 
 **Core focus:**  
@@ -29,12 +29,19 @@ I specialize in Red Team operations, reverse engineering, exploit development, a
 ---
 
 ## 🕹 Chaos Roadmap (high level)
+
 ███████ FΔ$3 0 ─ Forge: Fundamentals, scripting, enumeration
+
 ███░░░░ FΔ$3 1 ─ Web & Automation: Offensive toolchains & pipelines
+
 ███░░░░ FΔ$3 2 ─ Mobile & APIs: Frida, Objection, GraphQL, JWT flows
+
 ██░░░░░ FΔ$3 3 ─ Cloud & IoT: firmware, misconfigs, edge hardware
+
 ███░░░ FΔ$3 4 ─ Reversing & Exploit Dev: PoC -> lab -> responsible disclosure
+
 ███░░░ FΔ$3 5 ─ Research & Reputation: publish, CTF podiums, vendor partnerships
+
 ███░░░ FΔ$3 6 ─ Sanctum: K4m1G1r1 Labs — research org & productization
 
 ---
