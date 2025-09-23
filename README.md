@@ -33,7 +33,7 @@
 
 ## 🔐 Responsible Disclosure & Ethical Stance
 I operate under a strict ethical code: all exploit testing is performed **only** on systems I own or where I have explicit written permission. I practice coordinated disclosure and prioritize defender safety.  
-If you discover an issue related to my work, contact me securely: `security [at] tatsumi-research.example` (PGP available on request).
+If you discover an issue related to my work, contact me securely: `<> [at] <>` (PGP available on request).
 
 ---
 
