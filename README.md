@@ -1,76 +1,61 @@
-# ![Banner](assets/images/Banner.png)
-### **☠ K4m1G1r1 | Offensive Security & Reverse Engineering Entity | Cyberpunk Beast ☠**
 
 ---
 
-# 🕷 **FrΔctured RΣΔL1DΔD**
-*"I don’t break systems… I **consume and transform them**."*
-
-> ⚡ **Obsessive, methodical, and unhinged digital beast, tearing binaries apart, rewriting chaos into new forms.**  
-> 💀 What connects, bleeds. What bleeds, becomes mine. What I reverse, I dominate.  
-> ☢ Research, perfection, and control: my creed, my rituals, my obsession.  
-
----
-
-🌌 Every exploit whispers. Every binary hides secrets. Every system fears dissection.  
-⚠ Welcome to K4m1G1r1’s abyss — there’s no turning back.  
+## 🧠 Skills & Tooling
+**Languages:** Python, C / C++, Assembly (x86/x64), Bash, Java / Smali (Android)  
+**Offensive Stack:** Nmap, Burp Suite, FFuF, sqlmap, Amass, Wireshark, BloodHound, Mimikatz, Sliver  
+**RE & Dev:** Ghidra, IDA, Radare2, Frida, Apktool, Objection, GDB, pwndbg, AFL (fuzzing)  
+**Infra & Labs:** QEMU / KVM, Docker, snapshots, air-gapped VMs, secure logging, PGP for comms  
+**Other:** Threat emulation, malware analysis, Active Directory exploitation, cloud offensive techniques
 
 ---
 
-# 🖤 **Who I Am**
-
-🎯 Software Analysis and Development Technologist – SENA (in progress)  
-
-🔥 **Offensive Cybersecurity:** Web, Mobile, Cloud, IoT, Active Directory, Red Team Ops  
-💣 **Exploit Developer & Reverse Engineer:** 0day seeker, binaries dissected with chaos  
-⚡ **Automation Cultist:** Pipelines and payloads for digital domination  
-📱 **Mobile Reverser:** Frida, Objection, Smali — Android bending to my will  
-☁️ **Cloud & IoT Chaos:** Firmware, hardware, cloud misconfigurations exploited  
-🧠 **Threat Researcher:** Malware analysis, APT emulation, adversary tradecraft  
+## 📚 Selected Reading (for hungry beasts)
+- *Practical Binary Analysis* — Dennis Andriesse  
+- *The Art of Software Security Assessment* — Mark Dowd et al.  
+- *Practical Malware Analysis* — Sikorski & Honig  
+- *Fuzzing: Brute Force Vulnerability Discovery* — Sutton et al.  
+- *Tobira* / *Genki* — Japanese language study (JLPT roadmap)
 
 ---
 
-# 🕹 **Chaos Roadmap**
+## ⚔️ Projects & Artifacts (highlights)
+> _Public, safe, and responsibly redacted work only. For lab PoCs and vendor disclosures, request access through secure channels._
 
-███████ FΔ$3 1 ─ Fundamentals + $cripting + 0$INT  
-███░░░░ FΔ$3 2 ─ W3b Hacking + Lethal Automation  
-███░░░░ FΔ$3 3 ─ M0bil3 & ΔPI$ (Frida, Objection, GrΔphQL, JWT)  
-██░░░░░ FΔ$3 4 ─ Cl0ud + I0T + HΔrdware Hacking  
-███░░░ FΔ$3 5 ─ R3vers1ng + Exploit D3v3l0pm3nt + Malware Analysis  
-███░░░ FΔ$3 6 ─ R3s3arch + Int3rnΔtionΔl R3putΔtion + CTF + Bug Bounty  
-███░░░ FΔ$3 7 ─ B3ast L3g3nd – K4m1G1r1 FeΔr3d GlobΔlly  
+- `k4-recon` — automation for large-scale enumeration (public, non-destructive)  
+- `k4-frida-scripts` — instrumentation helpers for Android reversing (safe, lab use)  
+- `writeups/` — cleaned CTF & lab reports (English + short JP summary)  
+- `research/` — responsibly-sanitized research notes & disclosure templates
 
-⚠ Hixec Pentesting from Zero Route: [HIXEC](https://suites.hixec.com/pentesting-desde-cero/)  
+*(See the `projects/` folder for available public items.)*
 
 ---
 
-# 💀 **Abyss Stats**
+## 🔐 Responsible Disclosure & Ethical Stance
+I operate under a strict ethical code: all exploit testing is performed **only** on systems I own or where I have explicit written permission. I practice coordinated disclosure and prioritize defender safety.  
+If you discover an issue related to my work, contact me securely: `security [at] tatsumi-research.example` (PGP available on request).
+
+---
+
+## 📈 Abyss Stats
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=K4m1G1r1&show_icons=true&theme=radical&hide_border=true" height="150"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4m1G1r1&layout=compact&theme=radical&hide_border=true" height="150"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=K4m1G1r1&show_icons=true&theme=radical&hide_border=true" height="140"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4m1G1r1&layout=compact&theme=radical&hide_border=true" height="140"> 
 </p>
 
 ---
 
-# 🌐 **Connect with me**
-
-🔗 [LinkedIn](https://www.linkedin.com/in/k4m1g1r1/)  
-💻 [GitHub](https://github.com/K4m1G1r1)  
-🐦 [X (Twitter)](https://x.com/K4m1G1r1)  
-
----
-
-💀☣️░▒▓█░▒▓█░▒▓█░▒▓█ ░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█  
-░▒▓█💀☢░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█  
-▓█░▒▓█💀☣️░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░  
-░▒▓█░▒▓█💀☢░▒▓█░▒▓█░▒ ▓█░▒▓█░▒▓█░▒▓█░▒▓█  
-█░▒▓█░▒▓█💀☣️░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒▓█░▒  
-
-⚠ Surviving here is optional. Welcome to the digital abyss of **K4m1G1r1**.  
+## 🌐 Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/k4m1g1r1/)  
+- 💻 [GitHub](https://github.com/K4m1G1r1)  
+- 🐦 [X (Twitter)](https://x.com/K4m1G1r1)  
 
 ---
 
-Codename: **K4m1G1r1 – The Feared Beast**  
-∴ FrΔctured RΣΔL1DΔD • 01001011 4D1G1 • ⩚  
+## 👁‍🗨 Signature
+Codename: **K4m1G1r1 — The Feared Beast**  
+∴ FrΔctured RΣΔL1DΔD • 01001011 4D1G1 • ⩚
 
-<!-- ☢ Easter Egg: \"If you're reading this… the glitch has consumed you. You are now part of my network. Survival optional.\" -->
+---
+
+> ⚠️ *Surviving here is optional. Welcome to the digital abyss of K4m1G1r1.*  
