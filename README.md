@@ -1,3 +1,41 @@
+![Banner](assets/images/Banner.png)
+
+# ☠️ **K4m1G1r1** — Offensive Security & Reverse Engineering Entity | Cyberpunk Beast ☠️
+
+---
+
+## 🕷️ FrΔctured RΣΔL1DΔD  
+*"I don’t break systems… I consume and transform them."*
+
+> ⚡ **Obsessive, methodical, and unhinged digital beast — tearing binaries apart and rewriting chaos into new forms.**  
+> 💀 What connects, bleeds. What bleeds, becomes mine. What I reverse, I dominate.  
+> ☢ Research, perfection, and control: my creed, my rituals, my obsession.
+
+Every exploit whispers. Every binary hides secrets. Every system fears dissection.  
+⚠️ Welcome to K4m1G1r1’s abyss — there’s no turning back.
+
+---
+
+## 🖤 Who I Am
+**Tatsumi Yukiharu** (alias **K4m1G1r1**) — Software Analysis & Development Technologist (SENA) & full-time offensive researcher in training.  
+I specialize in Red Team operations, reverse engineering, exploit development, and high-value vulnerability research. I train daily, publish clean writeups, and forge tools that harden defenders and humble attackers.
+
+**Core focus:**  
+- Offensive Security: Web, Mobile, Cloud, IoT, Active Directory, Red Team ops  
+- Reverse Engineering & RE Tooling: Ghidra, IDA, Frida, dynamic instrumentation  
+- Exploit Development & Zero-Day Research: safe lab PoCs, coordinated disclosure  
+- Automation & Tooling: pipelines, CI for research, reproducible labs
+
+---
+
+## 🕹 Chaos Roadmap (high level)
+███████ FΔ$3 0 ─ Forge: Fundamentals, scripting, enumeration
+███░░░░ FΔ$3 1 ─ Web & Automation: Offensive toolchains & pipelines
+███░░░░ FΔ$3 2 ─ Mobile & APIs: Frida, Objection, GraphQL, JWT flows
+██░░░░░ FΔ$3 3 ─ Cloud & IoT: firmware, misconfigs, edge hardware
+███░░░ FΔ$3 4 ─ Reversing & Exploit Dev: PoC -> lab -> responsible disclosure
+███░░░ FΔ$3 5 ─ Research & Reputation: publish, CTF podiums, vendor partnerships
+███░░░ FΔ$3 6 ─ Sanctum: K4m1G1r1 Labs — research org & productization
 
 ---
 
