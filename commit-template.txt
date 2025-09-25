@@ -1,9 +1,28 @@
-# ===========================
+# ==============================
 # ☠️ K4m1G1r1 Commit Template ☠️
+# ==============================
+# Ritual structure for every commit.
+# Fill in the brackets and erase the comments (#).
+#
+# Example:
+# 2025-09-25 :: LAB :: THM Basic Pentesting writeup finished
 # ===========================
 
 [DATE] :: [CATEGORY] :: [MESSAGE]
 
 DATE: YYYY-MM-DD
-CATEGORY: (JOURNAL | LAB | REVERSING | PROJECT | ROADMAP | LANG | META)
+CATEGORY: (LAB | REVERSING | PROJECT | ROADMAP | LANG | META)
 MESSAGE: short ritual description
+
+# Categories:
+# LAB       → writeups, THM/HTB machines, exercises
+# REVERSING → reversing notes, disassembly, exploit dev
+# PROJECT   → app dev, scripts, tools
+# ROADMAP   → changes in phases, milestones
+# LANG      → English/Japanese progress or resources
+# META      → repo housekeeping (README, structure, assets)
+
+# Reminder:
+# - Be precise, no generic “update/fix”.
+# - Each commit = one scar in the Grimoire.
+# - Discipline over chaos.
