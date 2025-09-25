@@ -14,7 +14,8 @@
  Tools:
      - Bash, Git, ssh/scp, Ghidra (intro), GDB, LinPEAS, Nmap, Burp Suite (basic), JohnTheRipper
  Certifications:
-     -OSCP (plan & labs start)
+     - CompTIA Security+ (Security+)
+     - eJPT (eLearnSecurity Junior Penetration Tester)
  Books:
      - The Web Application Hacker’s Handbook — Stuttard & Pinto
      - Hacking: The Art of Exploitation — Jon Erickson
@@ -34,7 +35,8 @@
  Tools:
      - pwntools, Radare2, Ghidra deeper, Burp Suite, Wireshark, Hashcat, Docker
  Certifications:
-     - OSCP progress (lab completion milestone)
+     - Finish eJPT if not done
+     - Start OSCP (PEN-200) preparation (OffSec labs).
  Books:
      - Practical Reverse Engineering — Bruce Dang
      - The IDA Pro Book — Chris Eagle
@@ -55,7 +57,7 @@
  Tools:
      - GDB (advanced), pwndbg, Frida, IDA advanced, Metasploit (usage), CTF suite
  Certifications:
-     - OSCP complete → begin OSCE prep
+     - OSCP (Offensive Security Certified Professional)
  Books:
      - Practical Malware Analysis — Sikorski & Honig
      - The Art of Software Security Assessment — Mark Dowd
@@ -76,7 +78,11 @@
  Tools:
      -IDA, Ghidra, radare2, Frida, AFL (fuzzing), QEMU, strace, dbus-monitor, Docker/K8s infra
  Certifications:
-     - OSCE, GREM (reverse engineering)
+     - GREM (GIAC Reverse Engineering Malware)
+     - GMOB (GIAC Mobile Device Security Analyst)
+     - SANS FOR610 (Reverse-Engineering Malware course)
+     - OSCE³ / advanced Offensive Security specialist
+     - Keep OSCP cert current
  Books:
      - Practical Binary Analysis — Dennis Andriesse
      - Fuzzing: Brute Force Vulnerability Discovery — Michael Sutton
@@ -97,7 +103,8 @@
  Tools:
      -Air-gapped lab infra, PGP, secure CI/CD, SIEM basics
  Certifications:
-     - OSCE + GREM complete; CISSP/GIAC optional
+     - CISSP (ISC²)
+     - Keep GIAC / OSCE³ / OSCP certs current
  Books:
      - The Lean Startup — Eric Ries
      - Zero to One — Peter Thiel
@@ -118,7 +125,7 @@
  Tools:
      - CI/CD, ELK stack, Kubernetes, secure deployment
  Certifications:
-     - CISSP + GREM/GMOB for trust
+     - Maintain GIAC / OSCE³ / OSCP / CISSP / SOC2 / ISO27001 active and current
  Books:
      - Designing Data-Intensive Applications — Kleppmann
      - Building Microservices — Sam Newman
@@ -139,7 +146,7 @@
  Tools:
      - Investor dashboards, compliance stack, governance
  Certifications:
-     - CISSP + company compliance certifications
+     - Maintain GIAC / OSCE³ / OSCP / CISSP / SOC2 / ISO27001 active and current
  Books:
      - Pitch Anything — Oren Klaff
      - Measure What Matters — John Doerr
@@ -160,7 +167,7 @@
  Tools:
      - Corporate governance, compliance, legal frameworks
  Certifications:
-     - SOC2/compliance for product; maintain OSCE/GREM
+     - Maintain GIAC / OSCE³ / OSCP / CISSP / SOC2 / ISO27001 active and current
  Books:
      - The Hard Thing About Hard Things — Ben Horowitz
      - Good to Great — Jim Collins
