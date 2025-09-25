@@ -20,7 +20,7 @@
   - The Web Application Hacker’s Handbook — Stuttard & Pinto
   - Hacking: The Art of Exploitation — Jon Erickson
   - Genki I — Beginner Japanese
- Final Projects:
+- Final Projects:
   - 3 public safe writeups on GitHub
   - Japan-Portfolio folder with screenshots & reports
 
@@ -34,7 +34,7 @@
   - Japanese: JLPT N3 study (daily Anki, vocab drilling)
 - Tools:
   - pwntools, Radare2, Ghidra deeper, Burp Suite, Wireshark, Hashcat, Docker
- Certifications:
+- Certifications:
   - Finish eJPT if not done
   - Start OSCP (PEN-200) preparation (OffSec labs).
 - Books:
@@ -56,7 +56,7 @@
   - Japanese: JLPT N3→N2 transition
 - Tools:
   - GDB (advanced), pwndbg, Frida, IDA advanced, Metasploit (usage), CTF suite
- Certifications:
+- Certifications:
   - OSCP (Offensive Security Certified Professional)
 - Books:
   - Practical Malware Analysis — Sikorski & Honig
@@ -76,7 +76,7 @@
   - English: Technical disclosures & vendor comms
   - Japanese: JLPT N2
 - Tools:
-  -IDA, Ghidra, radare2, Frida, AFL (fuzzing), QEMU, strace, dbus-monitor, Docker/K8s infra
+  - IDA, Ghidra, radare2, Frida, AFL (fuzzing), QEMU, strace, dbus-monitor, Docker/K8s infra
 - Certifications:
   - GREM (GIAC Reverse Engineering Malware)
   - GMOB (GIAC Mobile Device Security Analyst)
@@ -101,7 +101,7 @@
   - English: Executive memos, investor comms
   - Japanese: JLPT N2→N1 bridge (business keigo)
 - Tools:
-  -Air-gapped lab infra, PGP, secure CI/CD, SIEM basics
+  - Air-gapped lab infra, PGP, secure CI/CD, SIEM basics
 - Certifications:
   - CISSP (ISC²)
   - Keep GIAC / OSCE³ / OSCP certs current
