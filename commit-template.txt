@@ -1,0 +1,9 @@
+[TYPE] Short summary (max 50 chars)
+
+Longer description (50–72 chars per line). What changed, why, and any refs.
+
+Files:
+- path/to/file1.md
+- path/to/file2.md
+
+Journal: YYYY-MM-DD — mood: X

@@ -1,0 +1,22 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Node / JS
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Binary/artifacts (sensitive)
+Labs/THM/artifacts/
+Labs/HTB/artifacts/
+Reversing/artifacts/
+*.apk

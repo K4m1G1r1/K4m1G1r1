@@ -1,103 +1,167 @@
-![Banner](assets/images/Banner.png)
+# ![Banner](assets/images/Banner.png)
 
-# ☠️ **K4m1G1r1** — Offensive Security & Reverse Engineering Entity | Cyberpunk Beast ☠️
-
----
-
-## 🕷️ FrΔctured RΣΔL1DΔD  
-*"I don’t break systems… I consume and transform them."*
-
-> ⚡ **Obsessive, methodical, and unhinged digital beast — tearing binaries apart and rewriting chaos into new forms.**  
-> 💀 What connects, bleeds. What bleeds, becomes mine. What I reverse, I dominate.  
-> ☢ Research, perfection, and control: my creed, my rituals, my obsession.
-
-Every exploit whispers. Every binary hides secrets. Every system fears dissection.  
-⚠️ Welcome to K4m1G1r1’s abyss — there’s no turning back.
+## ☠️ K4m1G1r1 — The Living Grimoire of Offensive Security & Reverse Engineering ☠️
 
 ---
 
-## 🖤 Who I Am
-**Alejandro Meyer** (alias **K4m1G1r1**) — Software Analysis & Development Technologist (SENA) & full-time offensive researcher in training.  
-I specialize in Red Team operations, reverse engineering, exploit development, and high-value vulnerability research. I train daily, publish clean writeups, and forge tools that harden defenders and humble attackers.
+## 🕸 FrΔctured RΣΔL1DΔD — Manifesto
 
-**Core focus:**  
-- Offensive Security: Web, Mobile, Cloud, IoT, Active Directory, Red Team ops  
-- Reverse Engineering & RE Tooling: Ghidra, IDA, Frida, dynamic instrumentation  
-- Exploit Development & Zero-Day Research: safe lab PoCs, coordinated disclosure  
-- Automation & Tooling: pipelines, CI for research, reproducible labs
+*I don’t break systems… I consume and transform them.*
 
----
+⚡ Obsessive, methodical, unhinged: I tear binaries apart and rewrite chaos into new forms.  
+💀 What connects, bleeds. What bleeds, becomes mine. What I reverse, I dominate.  
+☢ Research, perfection and control — my creed, my rituals, my obsession.
 
-## 🕹 Chaos Roadmap (high level)
-
-███████ FΔ$3 0 ─ Forge: Fundamentals, scripting, enumeration
-
-███░░░░ FΔ$3 1 ─ Web & Automation: Offensive toolchains & pipelines
-
-███░░░░ FΔ$3 2 ─ Mobile & APIs: Frida, Objection, GraphQL, JWT flows
-
-██░░░░░ FΔ$3 3 ─ Cloud & IoT: firmware, misconfigs, edge hardware
-
-███░░░ FΔ$3 4 ─ Reversing & Exploit Dev: PoC -> lab -> responsible disclosure
-
-███░░░ FΔ$3 5 ─ Research & Reputation: publish, CTF podiums, vendor partnerships
-
-███░░░ FΔ$3 6 ─ Sanctum: K4m1G1r1 Labs — research org & productization
+This repository is not a portfolio for applause.  
+It is a **living grimoire**: a public chronicle of my transformation into K4m1G1r1 — part human, part machine, one purpose.
 
 ---
 
-## 🧠 Skills & Tooling
-**Languages:** Python, C / C++, Assembly (x86/x64), Bash, Java / Smali (Android)  
-**Offensive Stack:** Nmap, Burp Suite, FFuF, sqlmap, Amass, Wireshark, BloodHound, Mimikatz, Sliver  
-**RE & Dev:** Ghidra, IDA, Radare2, Frida, Apktool, Objection, GDB, pwndbg, AFL (fuzzing)  
-**Infra & Labs:** QEMU / KVM, Docker, snapshots, air-gapped VMs, secure logging, PGP for comms  
-**Other:** Threat emulation, malware analysis, Active Directory exploitation, cloud offensive techniques
+## 🎯 Purpose of this Repo
+
+This repository is the **single source of truth** for everything I do on the Roadmap:
+
+- Daily logs and rituals (Journal/)  
+- Lab writeups and forensic artifacts (Labs/)  
+- Reverse-engineering experiments (Reversing/)  
+- Language progress and cultural absorption (Languages/)  
+- Readings, notes and actionable summaries (Readings/)  
+- Projects aligned only to the Roadmap (Projects/)  
+- The Roadmap itself and its iterative updates (Roadmap/)
+
+Everything here documents the **process**, not just the result. Anybody can read it; few will understand. Survival is optional.
 
 ---
 
-## 📚 Selected Reading (for hungry beasts)
+## 📂 Repo structure (quick map)
+
+- ![README](/README.md) # This file — the scripture
+- ![Roadmap](/Roadmap/)
+  - ![roadmap.md](/Roadmap/roadmap.md)
+- ![Labs](/Labs/)
+  - ![README.md](/Labs/README.md)
+  - ![THM](/Labs/THM/) # TryHackMe writeups
+  - ![HTB](/Labs/HTB/) # HackTheBox writeups
+- ![Reversing](/Reversing/)
+  - ![README.md](/Reversing/README.md)
+  - ![android](/Reversing/android/) # apks, smali notes, frida scripts
+  - ![elf_pe](/Reversing/elf_pe/) # binarios Linux/Windows, gdb notes
+  - ![firmware](/Reversing/firmware/) # dumps, binwalk results
+  - ![tools](/Reversing/tools/) — scripts útiles (frida snippets, patchers)
+  - ![CVE-studies](/Reversing/CVE_studies/) # CVEs encontrados y estudiados
+- ![Languages](/Languages/)
+  - ![english_journal.md](/Languages/english_journal.md)
+  - ![japanese_journal.md](/Languages/japanese_journal.md)
+  - ![progress.md](/Languages/progress.md)
+- ![Readings](/Readings/)
+  - ![README.md](/Readings/README.md)
+- ![Journal](/Journal/)
+  - ![entry-template.md](/Journal/entry-template.md)
+  - ![labs-writeup-template.md](/Journal/labs-writeup-template.md)
+- ![Projects](/Projects/)
+  - ![README.md](/Projects/README.md)
+
+---
+
+## 🔧 How to use this Grimoire
+
+- **If you are me (Yukiharu):** use it as a daily ritual. Create a new `Journal/YYYY-MM-DD.md` entry every night. Push small commits — each is proof of discipline.  
+- **If you are a curious soul:** read `Roadmap/roadmap.md` first to understand context, then pick a lane (Labs, Reversing, or Journal).  
+- **If you are a defender or vendor:** contact me for responsibly redacted PoCs or coordinated disclosure. See Responsible Disclosure below.
+
+---
+
+## 🧠 What goes in each major folder (rules)
+
+- **Roadmap/** — canonical plan. Every modification must be versioned and dated.  
+- **Labs/** — writeups must follow the `labs-writeup-template.md` (metadata, recon, exploitation, post-exploitation, remediations, reflections). Keep `artifacts/` local.  
+- **Reversing/** — experiments, notes, Frida scripts, Ghidra findings. Never commit raw APKs or firmware with secrets.  
+- **Languages/** — raw practice logs (English/Japanese). Track minutes and retention.  
+- **Journal/** — raw, uncensored logs (emotion, ritual, results). Not polished; honest.  
+- **Projects/** — only projects aligned with the Roadmap. No side-money hacks that distract from the path.
+
+---
+
+## 🧾 Templates & standards (use them)
+
+- `Journal/entry-template.md` — daily entry format (mood, hours, labs, reflections).  
+- `Labs/labs-writeup-template.md` — canonical format for writeups.  
+- `Projects/README.md` — each project must have a `plan.md` with MVP, stack, sprints, and metrics.
+
+Use the templates to maintain consistency and credibility.
+
+---
+
+## 🛡 Ethics & Responsible Disclosure (non-negotiable)
+
+I operate under strict ethical rules:
+
+- All testing is performed **only** on systems I own, in controlled labs, or where I have **explicit, documented permission**.  
+- PoCs in this repo are **redacted** and sanitized. If you need full technical details for remediation, contact me and we will coordinate responsibly. PGP public key is available on request.  
+- I will always aim for coordinated disclosure and victim protection.
+
+If you find something risky in this repo or in my work, contact me securely. I will respond.
+
+---
+
+## 🧪 Skills, Tools & Focus (short)
+
+**Primary focus:** Offensive security, reverse engineering, exploit development, research, and reproducible tooling.
+
+**Languages:** Python, C/C++, Assembly, Bash, Java/Smali, Dart (for companion tooling)  
+**Tools:** Ghidra, Frida, Nmap, Burp, LinPEAS, John, pwndbg, Docker, QEMU/KVM  
+**Infra:** air-gapped VMs, secure logs, PGP + YubiKey for keys
+
+---
+
+## 📈 Metrics & Ritual KPIs (what I measure weekly)
+
+- commits/week (goal ≥ 10)  
+- lab-sessions/week (goal ≥ 6)  
+- minutes English / Japanese per day (record in `Languages/progress.md`)  
+- writeups published (goal ≥ 1/week)  
+- proposals/applications sent (if job-hunting) (goal ≥ 20/week)
+
+Update `Roadmap/roadmap.md` weekly and log KPI snapshots.
+
+---
+
+## 📚 Selected Reading & Resources
+
 - *Practical Binary Analysis* — Dennis Andriesse  
 - *The Art of Software Security Assessment* — Mark Dowd et al.  
 - *Practical Malware Analysis* — Sikorski & Honig  
 - *Fuzzing: Brute Force Vulnerability Discovery* — Sutton et al.  
-- *Tobira* / *Genki* — Japanese language study (JLPT roadmap)
+- *Tobira* / *Genki* — JLPT study materials
+
+(See `Readings/` for notes and action items from each book.)
 
 ---
 
-## ⚔️ Projects & Artifacts (highlights)
-> _Public, safe, and responsibly redacted work only. For lab PoCs and vendor disclosures, request access through secure channels._
+## 🤝 Contact & Collaboration
 
-- `k4-recon` — automation for large-scale enumeration (public, non-destructive)  
-- `k4-frida-scripts` — instrumentation helpers for Android reversing (safe, lab use)  
-- `writeups/` — cleaned CTF & lab reports (English + short JP summary)  
-- `research/` — responsibly-sanitized research notes & disclosure templates
+This is a public record of a private ritual. If you wish to collaborate, report a vulnerability, or sponsor research:
 
-*(See the `projects/` folder for available public items.)*
+- Preferred: Encrypted email (PGP) — request key via GitHub profile or DM.  
+- LinkedIn / GitHub / X links in repository header.
 
----
-
-## 🔐 Responsible Disclosure & Ethical Stance
-I operate under a strict ethical code: all exploit testing is performed **only** on systems I own or where I have explicit written permission. I practice coordinated disclosure and prioritize defender safety.  
-If you discover an issue related to my work, contact me securely: `<> [at] <>` (PGP available on request).
+No DMs asking for illegal favors. I do not accept or enable wrongdoing.
 
 ---
 
-## 📈 Abyss Stats
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=K4m1G1r1&show_icons=true&theme=radical&hide_border=true" height="140"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4m1G1r1&layout=compact&theme=radical&hide_border=true" height="140"> 
-</p>
+## 📝 Commit style & contribution (for me)
+
+- Use short, precise commit messages.  
+- Follow `commit-template.txt` for journal-style commits.  
+- Small frequent commits > big monoliths.
 
 ---
 
-## 🌐 Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/k4m1g1r1/)  
-- 💻 [GitHub](https://github.com/K4m1G1r1)  
-- 🐦 [X (Twitter)](https://x.com/K4m1G1r1)  
+## ⚠ Final Warning (aesthetic & legal)
 
----
+This is a GRIMOIRE — dark, methodical, and public by design.  
+You read it at your own risk. Understanding is optional. Surviving is harder.
 
-## 👁‍🗨 Signature
 Codename: **K4m1G1r1 — The Feared Beast**  
 ∴ FrΔctured RΣΔL1DΔD • 01001011 4D1G1 • ⩚
 
