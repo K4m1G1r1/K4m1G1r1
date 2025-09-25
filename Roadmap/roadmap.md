@@ -13,7 +13,7 @@
   - Japanese: JLPT N4 → begin N3 study (kana, basic grammar, keigo basics)
 - Tools:
   - Bash, Git, ssh/scp, Ghidra (intro), GDB, LinPEAS, Nmap, Burp Suite (basic), JohnTheRipper
- Certifications:
+- Certifications:
   - CompTIA Security+ (Security+)
   - eJPT (eLearnSecurity Junior Penetration Tester)
 - Books:
