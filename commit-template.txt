@@ -1,9 +1,9 @@
-[TYPE] Short summary (max 50 chars)
+# ===========================
+# ☠️ K4m1G1r1 Commit Template ☠️
+# ===========================
 
-Longer description (50–72 chars per line). What changed, why, and any refs.
+[DATE] :: [CATEGORY] :: [MESSAGE]
 
-Files:
-- path/to/file1.md
-- path/to/file2.md
-
-Journal: YYYY-MM-DD — mood: X
+DATE: YYYY-MM-DD
+CATEGORY: (JOURNAL | LAB | REVERSING | PROJECT | ROADMAP | LANG | META)
+MESSAGE: short ritual description
