@@ -129,7 +129,7 @@ Update `Roadmap/roadmap.md` weekly and log KPI snapshots.
 - *Practical Binary Analysis* — Dennis Andriesse  
 - *The Art of Software Security Assessment* — Mark Dowd et al.  
 - *Practical Malware Analysis* — Sikorski & Honig  
-- *Fuzzing: Brute Force Vulnerability Discovery* — Sutton et al. 
+- *Fuzzing: Brute Force Vulnerability Discovery* — Sutton et al.
 
 (See `Readings/` for notes and action items from each book.)
 

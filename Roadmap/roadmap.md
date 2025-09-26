@@ -138,8 +138,6 @@
   - Measure What Matters — John Doerr
 - Final Projects:
   - Investor pitch deck
-  - Osaka office lease/ops plan
-  - Asuka residency budget & paperwork
 
 ### PHASE 7 (60–72 months) — Sanctum: Unicorn & Citizenship Path 👑🗝️🌌
 
