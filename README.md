@@ -51,7 +51,6 @@ Everything here documents the **process**, not just the result. Anybody can read
   - ![CVE-studies](/Reversing/CVE_studies/) # CVEs encontrados y estudiados
 - ![Languages](/Languages/)
   - ![english_journal.md](/Languages/english_journal.md)
-  - ![japanese_journal.md](/Languages/japanese_journal.md)
   - ![progress.md](/Languages/progress.md)
 - ![Readings](/Readings/)
   - ![README.md](/Readings/README.md)
@@ -76,7 +75,7 @@ Everything here documents the **process**, not just the result. Anybody can read
 - **Roadmap/** — canonical plan. Every modification must be versioned and dated.  
 - **Labs/** — writeups must follow the `labs-writeup-template.md` (metadata, recon, exploitation, post-exploitation, remediations, reflections). Keep `artifacts/` local.  
 - **Reversing/** — experiments, notes, Frida scripts, Ghidra findings. Never commit raw APKs or firmware with secrets.  
-- **Languages/** — raw practice logs (English/Japanese). Track minutes and retention.  
+- **Languages/** — raw practice logs (English). Track minutes and retention.  
 - **Journal/** — raw, uncensored logs (emotion, ritual, results). Not polished; honest.  
 - **Projects/** — only projects aligned with the Roadmap. No side-money hacks that distract from the path.
 
@@ -107,7 +106,6 @@ If you find something risky in this repo or in my work, contact me securely. I w
 ## 🧪 Skills, Tools & Focus (short)
 
 **Primary focus:** Offensive security, reverse engineering, exploit development, research, and reproducible tooling.
-
 **Languages:** Python, C/C++, Assembly, Bash, Java/Smali, Dart (for companion tooling)  
 **Tools:** Ghidra, Frida, Nmap, Burp, LinPEAS, John, pwndbg, Docker, QEMU/KVM  
 **Infra:** air-gapped VMs, secure logs, PGP + YubiKey for keys
@@ -118,7 +116,7 @@ If you find something risky in this repo or in my work, contact me securely. I w
 
 - commits/week (goal ≥ 10)  
 - lab-sessions/week (goal ≥ 6)  
-- minutes English / Japanese per day (record in `Languages/progress.md`)  
+- English progress per week (record in `Languages/english_journal.md`)  
 - writeups published (goal ≥ 1/week)  
 - proposals/applications sent (if job-hunting) (goal ≥ 20/week)
 
@@ -131,8 +129,7 @@ Update `Roadmap/roadmap.md` weekly and log KPI snapshots.
 - *Practical Binary Analysis* — Dennis Andriesse  
 - *The Art of Software Security Assessment* — Mark Dowd et al.  
 - *Practical Malware Analysis* — Sikorski & Honig  
-- *Fuzzing: Brute Force Vulnerability Discovery* — Sutton et al.  
-- *Tobira* / *Genki* — JLPT study materials
+- *Fuzzing: Brute Force Vulnerability Discovery* — Sutton et al. 
 
 (See `Readings/` for notes and action items from each book.)
 
