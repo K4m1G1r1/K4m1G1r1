@@ -9,3 +9,7 @@ Cada writeup aquí es un **ritual de disección**. No busco trofeos; busco cicat
 - ![THM](/Labs/THM/) — TryHackMe writeups (entrenamiento controlado)
 - ![HTB](/Labs/HTB/) — HackTheBox writeups (campo de guerra)
 - ![archive](/Labs/archive/) — máquinas antiguas, notas rápidas, scraps
+
+## Disclaimer
+
+Las Flags encontradas en cada laboratorio no se mostraran por compleo para evitar spoilear la respuesta.
