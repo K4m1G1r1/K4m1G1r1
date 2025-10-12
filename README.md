@@ -1,19 +1,26 @@
 # ![Banner](assets/images/Banner.png)
 
-## ☠️ K4m1G1r1 — The Living Grimoire of Offensive Security & Reverse Engineering ☠️
+## 🩸👑「K4M1G1R1: The Eternal Path🏯⚙️ 「TENSHI NO SŌZŌ: El Arquitecto del Zero Control」 ⚙️🏯
 
 ---
 
-## 🕸 FrΔctured RΣΔL1DΔD — Manifesto
+## 🏗️ Ingeniería de la Sombra — Manifiesto del Arquitecto
 
-*I don’t break systems… I consume and transform them.*
+I don’t just break systems; I engineer the physics of their failure and the architecture of their unbreakability. I create. I control.
 
-⚡ Obsessive, methodical, unhinged: I tear binaries apart and rewrite chaos into new forms.  
-💀 What connects, bleeds. What bleeds, becomes mine. What I reverse, I dominate.  
-☢ Research, perfection and control — my creed, my rituals, my obsession.
+⚡ Arquitecto
 
-This repository is not a portfolio for applause.  
-It is a **living grimoire**: a public chronicle of my transformation into K4m1G1r1 — part human, part machine, one purpose.
+- Mi obsesión es la concurrencia, el bajo nivel (C/Rust/Go) y la arquitectura modular. Diseño el malware con la misma disciplina que diseño la defensa.
+
+💀 Control
+
+- Cada payload es un experimento, cada exploit un informe de ingeniería. Mis creaciones son IP (Propiedad Intelectual), nunca caos.
+
+🇯🇵 Visión
+
+- Mi código es mi cimiento; mi destino, el liderazgo en Tokio.
+
+Este repositorio es la bitácora de mi transformación: `de tecnólogo de bases a Arquitecto de Amenazas.` Es un registro público de la ingeniería necesaria para fundar el Unicornio de Ciberseguridad más avanzado.
 
 ---
 
@@ -75,7 +82,7 @@ Everything here documents the **process**, not just the result. Anybody can read
 - **Roadmap/** — canonical plan. Every modification must be versioned and dated.  
 - **Labs/** — writeups must follow the `labs-writeup-template.md` (metadata, recon, exploitation, post-exploitation, remediations, reflections). Keep `artifacts/` local.  
 - **Reversing/** — experiments, notes, Frida scripts, Ghidra findings. Never commit raw APKs or firmware with secrets.  
-- **Languages/** — raw practice logs (English). Track minutes and retention.  
+- **Languages/** — raw practice logs. Track minutes and retention.  
 - **Journal/** — raw, uncensored logs (emotion, ritual, results). Not polished; honest.  
 - **Projects/** — only projects aligned with the Roadmap. No side-money hacks that distract from the path.
 
@@ -91,77 +98,25 @@ Use the templates to maintain consistency and credibility.
 
 ---
 
-## 🛡 Ethics & Responsible Disclosure (non-negotiable)
-
-I operate under strict ethical rules:
-
-- All testing is performed **only** on systems I own, in controlled labs, or where I have **explicit, documented permission**.  
-- PoCs in this repo are **redacted** and sanitized. If you need full technical details for remediation, contact me and we will coordinate responsibly. PGP public key is available on request.  
-- I will always aim for coordinated disclosure and victim protection.
-
-If you find something risky in this repo or in my work, contact me securely. I will respond.
+`Todo aquí documenta la disciplina de ingeniería y el rigor científico del proceso, más allá del resultado final.`
 
 ---
 
-## 🧪 Skills, Tools & Focus (short)
+## 🛡 Ética y Divulgación de Propiedad Intelectual (No Negociable)
 
-**Primary focus:** Offensive security, reverse engineering, exploit development, research, and reproducible tooling.
-**Languages:** Python, C/C++, Assembly, Bash, Java/Smali, Dart (for companion tooling)  
-**Tools:** Ghidra, Frida, Nmap, Burp, LinPEAS, John, pwndbg, Docker, QEMU/KVM  
-**Infra:** air-gapped VMs, secure logs, PGP + YubiKey for keys
+- Mi ambición de Unicornio se basa en la confianza y el control.
 
----
+  - Todos los experimentos de Malware Controlled y Exploit PoCs se realizan en laboratorios privados, aislados (air-gapped) y bajo mi control legal.
 
-## 📈 Metrics & Ritual KPIs (what I measure weekly)
+  - La IP ofensiva se utiliza para diseñar productos de defensa insuperables y para la venta exclusiva a entidades gubernamentales aliadas (Japón).
 
-- commits/week (goal ≥ 10)  
-- lab-sessions/week (goal ≥ 6)  
-- English progress per week (record in `Languages/english_journal.md`)  
-- writeups published (goal ≥ 1/week)  
-- proposals/applications sent (if job-hunting) (goal ≥ 20/week)
-
-Update `Roadmap/roadmap.md` weekly and log KPI snapshots.
+  - Se mantiene la estricta Divulgación Responsable (Responsible Disclosure) para todas las vulnerabilidades encontradas en vendors. PGP public key disponible.
 
 ---
 
-## 📚 Selected Reading & Resources
+## 🚨 Advertencia Final (Legal y Existencial)
 
-- *Practical Binary Analysis* — Dennis Andriesse  
-- *The Art of Software Security Assessment* — Mark Dowd et al.  
-- *Practical Malware Analysis* — Sikorski & Honig  
-- *Fuzzing: Brute Force Vulnerability Discovery* — Sutton et al.
+**Este es un GRIMOIRE DE INGENIERÍA — metódico, disciplinado y diseñado para la dominación del mercado. No se lee, se estudia.**
 
-(See `Readings/` for notes and action items from each book.)
-
----
-
-## 🤝 Contact & Collaboration
-
-This is a public record of a private ritual. If you wish to collaborate, report a vulnerability, or sponsor research:
-
-- Preferred: Encrypted email (PGP) — request key via GitHub profile or DM.  
-- LinkedIn / GitHub / X links in repository header.
-
-No DMs asking for illegal favors. I do not accept or enable wrongdoing.
-
----
-
-## 📝 Commit style & contribution (for me)
-
-- Use short, precise commit messages.  
-- Follow `commit-template.txt` for journal-style commits.  
-- Small frequent commits > big monoliths.
-
----
-
-## ⚠ Final Warning (aesthetic & legal)
-
-This is a GRIMOIRE — dark, methodical, and public by design.  
-You read it at your own risk. Understanding is optional. Surviving is harder.
-
-Codename: **K4m1G1r1 — The Feared Beast**  
-∴ FrΔctured RΣΔL1DΔD • 01001011 4D1G1 • ⩚
-
----
-
-> ⚠️ *Surviving here is optional. Welcome to the digital abyss of K4m1G1r1.*  
+`Codename: TENSHI NO SŌZŌ (天使の創造) — El Arquitecto.`
+∴ FrΔctured RΣΔL1DΔD • C2 Protocolo 0.1 • TOKYO H.Q. PENDING

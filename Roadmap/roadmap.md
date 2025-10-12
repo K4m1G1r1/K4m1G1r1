@@ -1,158 +1,220 @@
 
-# 🩸👑「K4M1G1R1: The Eternal Path to Darkness, Glory」👑🩸
+# 🩸👑「K4M1G1R1: The Eternal Path🏯⚙️ 「TENSHI NO SŌZŌ: El Arquitecto del Zero Control」 ⚙️🏯
 
-## The Roadmap of Tatsumi Yukiharu — Beast of Zero-Days, CTF Overlord, and CEO of the Unbreakable Cybersecurity Unicorn
+## The Roadmap of Tatsumi Yukiharu — Sentinel Engineer, Master of Controlled Malware, and Founder of the Global Cyber-IP Unicorn, HQ Tokyo
 
-### PHASE 0 (0–3 months) — Forge the Foundation 🔥🖤⚡👁️‍🗨️
+### 🚀 PHASE 0 — Forge the Foundation & First Revenue
 
- `Goal: Lock daily discipline, publish 3 clean writeups, and organize Portfolio.`
+`META: Bloquear disciplina diaria, publicar 3 productos vendibles/donables y asegurar los primeros $200.000 COP/mes de ingreso.`
 
-- Languages (target level):
-  - Dev: Python (basic→intermediate), Bash (scripting basics)
-  - English: Professional technical writing (tight, CV-ready)
-- Tools:
-  - Bash, Git, ssh/scp, Ghidra (intro), GDB, LinPEAS, Nmap, Burp Suite (basic), JohnTheRipper
-- Certifications:
-  - CompTIA Security+ (Security+)
-  - eJPT (eLearnSecurity Junior Penetration Tester)
-- Books:
-  - The Web Application Hacker’s Handbook — Stuttard & Pinto
-  - Hacking: The Art of Exploitation — Jon Erickson
-- Final Projects:
-  - 3 public safe writeups on GitHub
+- **Lenguajes & Habilidades**
+  - Python (VITAL)
+    - JavaScript
+    - Bash
+    - SQL
+    - Git
+    - ssh/scp
+    - Patrones de diseño de software (Introducción).
+- **Proyectos Vendibles/Donables**
+  - Python VENDIBLE
+    - Automatizador de Tareas Contables.
+  - JS VENDIBLE
+    - Landing Page Generator para micro-empresas.
+  - Bash VENDIBLE
+    - Script de Hardening/Chequeo de Servidor Linux (Mini-Servicio).
+  - PowerShell DONABLE
+    - Script de Monitoreo de Integridad de Archivos (FIM Básico).
+- **Ciberseguridad & Blue**
+  - Wireshark
+  - ELK (mínimo)
+  - Nmap
+  - Burp Suite (basic).
+  - Cada proyecto ofensivo incluye su propia Sigma Rule básica para detección.
+- **Certificación & Marca**
+  - Technical Writing professional (CV-ready).
+  - Labs eJPT completados.
+  - Inicio de estudio de japonés (Nivel N5).
+- **Métrica de Éxito**
+  - FINANCIERA
+    - $200.000 de ingresos generados.
+  - TÉCNICA
+    - 3 proyectos funcionales publicados en GitHub.
+  - ADSO
+    - Arquitectura modular simple.
 
-### PHASE 1 (3–6 months) — Prove Consistency & First Revenue 🗡️🖤💾🕳️
+### 🛠️ PHASE 1 — Ingeniería de Sistemas y Propiedad Intelectual (IP) 1.0
 
- `Goal: Place in a regional CTF/top-10 finishes and earn first bug-bounty or freelance gig.`
+`META: Primer ingreso significativo, iniciar desarrollo de IP de bajo nivel (Malware Controlado). Inicio de Pregrado Ingeniería de Sistemas.`
 
-- Languages (target level):
-  - Dev: Python (intermediate, exploit scripts), C basics (buffer concepts)
-  - English: Technical blog posts and outreach
-- Tools:
-  - pwntools, Radare2, Ghidra deeper, Burp Suite, Wireshark, Hashcat, Docker
-- Certifications:
-  - Finish eJPT if not done
-  - Start OSCP (PEN-200) preparation (OffSec labs).
-- Books:
-  - Practical Reverse Engineering — Bruce Dang
-  - The IDA Pro Book — Chris Eagle
-- Final Projects:
-  - 1 paid bug-bounty/freelance invoice
-  - 1 CTF team placement (documented)
-  - 3 polished RE writeups
+- **Lenguajes & Habilidades**
+  - C (CRÍTICO)
+  - Go/Rust (Introducción a concurrencia)
+  - pwntools
+  - Radare2
+  - Ghidra (deep).
+- **Proyectos Vendibles/Donables**
+  - C IP 1.0
+    - Keylogger Básico Cifrado (con fines de estudio).
+  - Go DONABLE
+    - Escáner de Puertos Ultrarrápido usando concurrencia.
+  - SQL VENDIBLE
+    - Dashboard de Análisis de Logs.
+- **Ciberseguridad & Blue**
+  - 3+ Sigma Rules públicas enfocadas en la detección de ataques de Active Directory.
+  - mini-curso DFIR / Elastic detection (Evidencia).
+- Certificación & Marca
+  - 3 RE writeups pulidos (documentación del Keylogger).
+- Métrica de Éxito
+  - FINANCIERA
+    - Ingreso de Opción 2 supera el umbral de $300.000 y financia la matrícula universitaria.
+  - TÉCNICA
+    - Publicación del Keylogger (IP 1.0) y el Escáner Rápido.
+  - ADSO
+    - Aplicación de C para control directo de memoria.
 
-### PHASE 2 (6–12 months) — OSCP & Mentor Network 🧪😈🔐📜
+### 🔬 PHASE 2 — Arquitectura de Amenazas y Escalabilidad
 
- `Goal: Earn OSCP, secure paid mentorship, scale published work & public visibility.`
+`META: Obtener el OSCP, construir un C2 Básico Funcional, y sentar las bases del sistema de defensa.`
 
-- Languages (target level):
-  - Dev: Python (advanced scripting), C (intermediate), Assembly (x86 intro)
-  - English: Publishable research-level writeups
-- Tools:
-  - GDB (advanced), pwndbg, Frida, IDA advanced, Metasploit (usage), CTF suite
-- Certifications:
-  - OSCP (Offensive Security Certified Professional)
-- Books:
-  - Practical Malware Analysis — Sikorski & Honig
-  - The Art of Software Security Assessment — Mark Dowd
-- Final Projects:
-  - OSCP certificate
-  - 6+ RE/CTF writeups (EN)
-  - Mentor contract (3 months)
+- **Lenguajes & Habilidades**
+  - Go/Rust (para concurrencia y velocidad)
+  - C/C++ (deep)
+  - Diseño de Arquitectura C2.
+- **Proyectos Vendibles/Donables**
+  - IP 2.0 (C2 Controlado)
+    - Desarrollo de un C2 Básico funcional en Go.
+  - Final Project Red
+    - 1 Exploit PoC documentado (solo para laboratorio).
+  - Final Project Blue
+    - pipeline de detección (Sigma/YARA) que mapee las TTPs usadas por tu propio C2.
+- **Ciberseguridad & Blue**
+  - Volatility
+  - YARA
+  - Sigma rules CI-ready
+  - Enfoque en MITRE ATT&CK.
+- **Certificación & Marca**
+  - OSCP.
+  - Curso de MITRE ATT&CK avanzado.
+  - Contrato de mentoría (mentoring) formalizado (3 meses).
+  - Japonés Nivel N4.
+- **Métrica de Éxito**
+  - FINANCIERA
+    - Certificado OSCP financiado.
+  - TÉCNICA
+    - C2 Básico funcional.
+  - ADSO
+    - Aplicación de principios de Arquitectura de Microservicios y control de memoria.
 
-### PHASE 3 (12–24 months) — Armory: Exploit Dev & Lab Infrastructure 🪓🕷️💣🔬
+### 💥 PHASE 3 — Armory: Diseño OPSEC de Lab & Responsible Disclosure
 
- `Goal: Build reliable exploit-dev skills, design lab OPSEC, and produce first responsible disclosure.`
+`META: Perfeccionar exploit-dev, diseñar el Lab de "Científico Loco" (air-gapped), y generar Propiedad Intelectual Valiosa (Vulnerabilidades). Pregrado de Ingeniería de Sistemas a mitad de curso.`
 
-- Languages (target level):
-  - Dev: C/C++ (intermediate), Python (frameworks), Assembly (x86/x64)
-  - English: Technical disclosures & vendor comms
-- Tools:
-  - IDA, Ghidra, radare2, Frida, AFL (fuzzing), QEMU, strace, dbus-monitor, Docker/K8s infra
-- Certifications:
-  - GREM (GIAC Reverse Engineering Malware)
-  - GMOB (GIAC Mobile Device Security Analyst)
-  - SANS FOR610 (Reverse-Engineering Malware course)
-  - OSCE³ / advanced Offensive Security specialist
-  - Keep OSCP cert current
-- Books:
-  - Practical Binary Analysis — Dennis Andriesse
-  - Fuzzing: Brute Force Vulnerability Discovery — Michael Sutton
-- Final Projects:
-  - 2 responsibly disclosed vulns (vendor coordination)
-  - Full Lab OPSEC blueprint (snapshots, PGP, logs)
-  - Documented exploit PoC (lab only)
+- **Lenguajes & Habilidades**
+  - C/C++
+  - PHP (para auditoría)
+  - IDA
+  - AFL
+  - QEMU
+  - Diseño OPSEC de Lab.
+- **Proyectos Vendibles/Donables**
+  - IP 3.0 (Malware de Investigación)
+  - Herramienta que explota discos duros con cbucles.
+  - Full Lab OPSEC blueprint documentado.
+  - 2 Responsible Disclosures (coordinación con el vendedor).
+  - Para cada disclosure, publicar el paquete de mitigación
+    - Sigma/YARA/IR playbook.
+- **Ciberseguridad & Blue**
+  - ELK "production-ish" lab
+  - Sigma/YARA con CI.
+  - Pipeline de detección/respuesta comercializable.
+- **Certificación & Marca**
+  - Certificación de Ingeniería Inversa (GREM/OSCE³).
+  - Mantener OSCP.
+  - 2 publicaciones de vulnerabilidades.
+- **Métrica de Éxito**
+  - FINANCIERA
+    - Ingreso suficiente para financiar los vouchers avanzados y la matrícula universitaria.
+  - TÉCNICA
+    - 2 vulnerabilidades publicadas.
+    - Lab air-gapped funcional.
+  - ADSO
+    - Aplicación de Fuzzing automatizado para pruebas de seguridad.
 
-### PHASE 4 (24–36 months) — Formalize Company & Team 👹🏴‍☠️🏢🧾
+### 🏛️ PHASE 4 — Formalizar Empresa & Graduación
 
- `Goal: Incorporate company, hire senior RE & OPSEC engineer, secure first paid vendor contract.`
+`META: Obtener el título de Ingeniero de Sistemas. Constituir la empresa de Ciberseguridad, primer contrato vendor y ahorrar para el postgrado.`
 
-- Languages (target level):
-  - Dev: C/C++ & Python (comfortable building tools), some Go
-  - English: Executive memos, investor comms
-- Tools:
-  - Air-gapped lab infra, PGP, secure CI/CD, SIEM basics
-- Certifications:
-  - CISSP (ISC²)
-  - Keep GIAC / OSCE³ / OSCP certs current
-- Books:
-  - The Lean Startup — Eric Ries
-  - Zero to One — Peter Thiel
-- Final Projects:
-  - Company incorporation docs
-  - First paid pilot/research contract
-  - 2 hires onboarded
+- **Lenguajes & Habilidades**
+  - Go
+  - Rust
+  - Air-gapped lab
+  - PGP
+  - Secure CI/CD
+  - Go for C2.
+- **Proyectos Vendibles/Donables**
+  - MVP de detección/respuesta para clientes
+    - (Servicio piloto: dashboard, 30 días tuning, reporte comercial).
+- **Ciberseguridad & Blue**
+  - SIEM multi-tenant (diseño)
+  - Playbooks IR estandarizados.
+  - Plantillas Sigma/YARA para clientes.
+- **Certificación & Marca**
+  - GRADUACIÓN
+    - Título de Ingeniero de Sistemas.
+  - CISSP
+  - GXPN
+  - Japonés Nivel N3 (Intermedio).
+- **Métrica de Éxito**
+  - FINANCIERA
+    - Capital de la empresa formalizado.
+    - Ahorro equivalente a 1 año de postgrado en el extranjero.
+  - TÉCNICA
+    - Incorporación de la empresa.
+    - Primer contrato piloto pagado.
+  - ADSO
+    - Diseño de servicios en la nube (CI/CD, K8s).
 
-### PHASE 5 (36–48 months) — Scale Research & Productize 🛠️🖤🚀📡
+### 🌍 PHASE 5 — Postgrado y Traslado a Japón
 
- `Goal: Ship a defensible MVP (detection/hardening), sign recurring contracts, build research cadence.`
+`META: Postgrado en Ciberseguridad fuera de Colombia. Lanzar MVP defensable (detección/hardening), contratos recurrentes.`
 
-- Languages (target level):
-  - Dev: Rust/Go for product, Python for tooling
-  - English: Conference papers, talks
-- Tools:
-  - CI/CD, ELK stack, Kubernetes, secure deployment
-- Certifications:
-  - Maintain GIAC / OSCE³ / OSCP / CISSP / SOC2 / ISO27001 active and current
-- Books:
-  - Designing Data-Intensive Applications — Kleppmann
-  - Building Microservices — Sam Newman
-- Final Projects:
-  - MVP product pilot with clients
-  - 6+ research pieces/year
-  - Recognized vendor partnership
+- **Lenguajes & Habilidades:**
+  - Assembly x86/x64.
+  - Enfoque en Research y Product Design.
+- **Proyectos Vendibles/Donables**
+  - MVP Product Pilot con clientes.
+  - MVP incluye detección automatizada
+  - paquete mitigación
+  - Playbooks.
+  - 6+ research pieces/año.
+- **Ciberseguridad & Blue**
+  - Pipelines Sigma → SIEM automatizadas.
+  - Monitoring SLAs y métricas.
+  - Evidencia SOC2 readiness.
+- **Certificación & Marca**
+  - POSTGRADO
+    - Maestría o Especialización en Ciberseguridad
+  - Mantener GIAC / OSCP / CISSP.
+- **Métrica de Éxito**
+  - FINANCIERA
+    - Contratos recurrentes que pagan la operación.
+  - TÉCNICA
+    - MVP producto piloto.
+  - ADSO
+    - Demostración de liderazgo técnico y gobernanza de seguridad.
 
-### PHASE 6 (48–60 months) — Fundraise HQ 🏯💴⚔️📈
+### 🇯🇵 FASES AVANZADAS — Fundraise, HQ & Ciudadanía Japonesa
 
- `Goal: Prepare Series A, establish Osaka HQ + Asuka base.`
+`META: Preparar Serie A, establecer Headquarters (HQ) en Japón, escalar a Unicornio y obtener la ciudadanía japonesa.`
 
-- Languages (target level):
-  - Dev: Product oversight, architecture
-  - English: Investor pitches, global comms
-- Tools:
-  - Investor dashboards, compliance stack, governance
-- Certifications:
-  - Maintain GIAC / OSCE³ / OSCP / CISSP / SOC2 / ISO27001 active and current
-- Books:
-  - Pitch Anything — Oren Klaff
-  - Measure What Matters — John Doerr
-- Final Projects:
-  - Investor pitch deck
-
-### PHASE 7 (60–72 months) — Sanctum: Unicorn & Citizenship Path 👑🗝️🌌
-
- `Goal: Scale to unicorn, advance naturalization.`
-
-- Languages (target level):
-  - Dev: High-level oversight & architecture
-  - English: Global exec presence
-- Tools:
-  - Corporate governance, compliance, legal frameworks
-- Certifications:
-  - Maintain GIAC / OSCE³ / OSCP / CISSP / SOC2 / ISO27001 active and current
-- Books:
-  - The Hard Thing About Hard Things — Ben Horowitz
-  - Good to Great — Jim Collins
-- Final Projects:
-  - Series A (or revenue dominance) closed
-  - Lab recognized as global standard in responsible disclosure
+- **Estrategia Corporativa**
+  - Enfocado en Corporate Governance y Security Governance global para inversores.
+- **Métrica de Éxito**
+  - NEGOCIO
+    - Preparación de Serie A (capitalización de Unicornio).
+  - GEOPOLÍTICA
+    - Establecimiento de Sede Principal de la Empresa en Japón.
+  - PERSONAL
+    - Solicitud y renuncia a la nacionalidad colombiana para adopción de la ciudadanía japonesa.
+  - MARCA
+    - Repositorio público de Sigma/YARA/Dashboards como muestra de liderazgo técnico y aporte a la comunidad global.
