@@ -1,6 +1,6 @@
 # ![Banner](assets/images/Banner.png)
 
-## 🩸👑「K4M1G1R1: The Eternal Path🏯⚙️ 「TENSHI NO SŌZŌ: El Arquitecto del Zero Control」 ⚙️🏯
+## 🩸👑「K4M1G1R1: The Eternal Path」⚙️ 「TENSHI NO SŌZŌ: El Arquitecto del Zero Control」 ⚙️
 
 ---
 
@@ -16,9 +16,9 @@ I don’t just break systems; I engineer the physics of their failure and the ar
 
 - Cada payload es un experimento, cada exploit un informe de ingeniería. Mis creaciones son IP (Propiedad Intelectual), nunca caos.
 
-🇯🇵 Visión
+Visión
 
-- Mi código es mi cimiento; mi destino, el liderazgo en Tokio.
+- Mi código es mi cimiento; mi destino, el liderazgo.
 
 Este repositorio es la bitácora de mi transformación: `de tecnólogo de bases a Arquitecto de Amenazas.` Es un registro público de la ingeniería necesaria para fundar el Unicornio de Ciberseguridad más avanzado.
 
@@ -108,7 +108,7 @@ Use the templates to maintain consistency and credibility.
 
   - Todos los experimentos de Malware Controlled y Exploit PoCs se realizan en laboratorios privados, aislados (air-gapped) y bajo mi control legal.
 
-  - La IP ofensiva se utiliza para diseñar productos de defensa insuperables y para la venta exclusiva a entidades gubernamentales aliadas (Japón).
+  - La IP ofensiva se utiliza para diseñar productos de defensa insuperables y para la venta exclusiva a entidades gubernamentales aliadas.
 
   - Se mantiene la estricta Divulgación Responsable (Responsible Disclosure) para todas las vulnerabilidades encontradas en vendors. PGP public key disponible.
 
@@ -120,4 +120,4 @@ Use the templates to maintain consistency and credibility.
 
 `Codename: TENSHI NO SŌZŌ (天使の創造) — El Arquitecto.`
 
-∴ FrΔctured RΣΔL1DΔD • C2 Protocolo 0.1 • TOKYO H.Q. PENDING
+∴ FrΔctured RΣΔL1DΔD • C2 Protocolo 0.1 • H.Q. PENDING
