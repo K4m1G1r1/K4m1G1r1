@@ -71,7 +71,7 @@ Everything here documents the **process**, not just the result. Anybody can read
 
 ## 🔧 How to use this Grimoire
 
-- **If you are me (Yukiharu):** use it as a daily ritual. Create a new `Journal/YYYY-MM-DD.md` entry every night. Push small commits — each is proof of discipline.  
+- **If you are me (Alejandro):** use it as a daily ritual. Create a new `Journal/YYYY-MM-DD.md` entry every night. Push small commits — each is proof of discipline.  
 - **If you are a curious soul:** read `Roadmap/roadmap.md` first to understand context, then pick a lane (Labs, Reversing, or Journal).  
 - **If you are a defender or vendor:** contact me for responsibly redacted PoCs or coordinated disclosure. See Responsible Disclosure below.
 
