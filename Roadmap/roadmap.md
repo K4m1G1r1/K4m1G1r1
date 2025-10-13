@@ -1,6 +1,6 @@
 # 🩸👑「K4M1G1R1: The Eternal Path」⚙️ 「TENSHI NO SŌZŌ: El Arquitecto del Zero Control」 ⚙️
 
-## The Roadmap of Tatsumi Yukiharu — Sentinel Engineer, Master of Controlled Malware, and Founder of the Global Cyber-IP Unicorn, HQ Pending
+## The Roadmap of Alejandro Meyer — Sentinel Engineer, Master of Controlled Malware, and Founder of the Global Cyber-IP Unicorn, HQ Pending
 
 ### 🚀 PHASE 0 — Forge the Foundation & First Revenue
 
