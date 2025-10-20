@@ -4,119 +4,118 @@
 
 ---
 
-## 🏗️ Ingeniería de la Sombra — Manifiesto del Arquitecto
+## 🏗️ Ingeniería del Control — Manifiesto del Arquitecto Purple
 
-I don’t just break systems; I engineer the physics of their failure and the architecture of their unbreakability. I create. I control.
+I don’t just break systems; I engineer the physics of their failure and **the architecture of their unbreakability**. I create. I **control**.
 
-⚡ Arquitecto
+⚡ **Arquitecto Purple**
 
-- Mi obsesión es la concurrencia, el bajo nivel (C/Rust/Go) y la arquitectura modular. Diseño el malware con la misma disciplina que diseño la defensa.
+- Mi obsesión es la **concurrencia**, el bajo nivel (C/Rust/Go) y la arquitectura modular. Diseño el malware con la misma disciplina que diseño la **detección y la defensa**.
 
-💀 Control
+💀 **Control & IP**
 
-- Cada payload es un experimento, cada exploit un informe de ingeniería. Mis creaciones son IP (Propiedad Intelectual), nunca caos.
+- Cada payload es un experimento, cada exploit un informe de ingeniería. Mis creaciones son **IP (Propiedad Intelectual)** y siempre incluyen su **pipeline de mitigación Sigma/YARA**. Nunca caos.
 
-Visión
+🛡️ **Visión**
 
-- Mi código es mi cimiento; mi destino, el liderazgo.
+- Mi código es mi cimiento; mi destino, el **liderazgo técnico global** en ciberseguridad defensiva y ofensiva.
 
-Este repositorio es la bitácora de mi transformación: `de tecnólogo de bases a Arquitecto de Amenazas.` Es un registro público de la ingeniería necesaria para fundar el Unicornio de Ciberseguridad más avanzado.
+Este repositorio es la bitácora de mi transformación: `de tecnólogo de bases a Arquitecto de Zero Control y Fundador.` Es un registro público de la ingeniería **Purple Team** necesaria para fundar el Unicornio de Ciberseguridad más avanzado.
 
 ---
 
-## 🎯 Purpose of this Repo
+## 🎯 Purpose of this Repo: The Single Source of Truth (Purple Team Focus)
 
-This repository is the **single source of truth** for everything I do on the Roadmap:
+This repository is the **single source of truth** for everything I do on the Roadmap, documentando el ciclo completo de ataque, detección y respuesta:
 
-- Daily logs and rituals (Journal/)  
-- Lab writeups and forensic artifacts (Labs/)  
-- Reverse-engineering experiments (Reversing/)  
-- Language progress and cultural absorption (Languages/)  
-- Readings, notes and actionable summaries (Readings/)  
-- Projects aligned only to the Roadmap (Projects/)  
-- The Roadmap itself and its iterative updates (Roadmap/)
+- Daily logs and rituals (**Journal/**)
 
-Everything here documents the **process**, not just the result. Anybody can read it; few will understand. Survival is optional.
+- Lab writeups and forensic artifacts (**Labs/**)
+
+- Reverse-engineering experiments & IP generation (**Reversing/**)
+
+- **Detection Engineering: Blue Team artifacts** (Artifacts/BlueTeam/)
+
+- Language progress and cultural absorption (**Languages/**)
+
+- Readings, notes and actionable summaries (**Readings/**)
+
+- Projects aligned only to the Roadmap (**Projects/**)
+
+- The Roadmap itself and its iterative updates (**Roadmap/**)
+
+Everything here documents the **process**— la disciplina **Purple** de ingeniería — not just the result. Anybody can read it; few will understand. Survival is optional.
 
 ---
 
 ## 📂 Repo structure (quick map)
 
 - ![README](/README.md) # This file — the scripture
+
 - ![Roadmap](/Roadmap/)
   - ![roadmap.md](/Roadmap/roadmap.md)
+
 - ![Labs](/Labs/)
   - ![README.md](/Labs/README.md)
-  - ![THM](/Labs/THM/) # TryHackMe writeups
-  - ![HTB](/Labs/HTB/) # HackTheBox writeups
+  - ![THM](/Labs/THM/) # TryHackMe writeups (SOC/Pentesting)
+  - ![HTB](/Labs/HTB/) # HackTheBox writeups (Máquinas Red & Blue)
+  
+- ![Artifacts](/Artifacts/)
+  - ![BlueTeam](/Artifacts/BlueTeam/) # **Sigma Rules, YARA Signatures y Playbooks IR.**
+  - ![PurpleTeam](/Artifacts/PurpleTeam/) # C2 TTPs con su pipeline de detección.
+
 - ![Reversing](/Reversing/)
   - ![README.md](/Reversing/README.md)
-  - ![android](/Reversing/android/) # apks, smali notes, frida scripts
-  - ![elf_pe](/Reversing/elf_pe/) # binarios Linux/Windows, gdb notes
-  - ![firmware](/Reversing/firmware/) # dumps, binwalk results
   - ![tools](/Reversing/tools/) — scripts útiles (frida snippets, patchers)
-  - ![CVE-studies](/Reversing/CVE_studies/) # CVEs encontrados y estudiados
-- ![Languages](/Languages/)
-  - ![english_journal.md](/Languages/english_journal.md)
-  - ![progress.md](/Languages/progress.md)
-- ![Readings](/Readings/)
-  - ![README.md](/Readings/README.md)
-- ![Journal](/Journal/)
-  - ![entry-template.md](/Journal/entry-template.md)
-  - ![labs-writeup-template.md](/Journal/labs-writeup-template.md)
+  - ![CVE-IP](/Reversing/CVE_IP/) # **Vulnerabilidades (IP) y sus paquetes de mitigación completos.**
+
 - ![Projects](/Projects/)
   - ![README.md](/Projects/README.md)
+  - ![IP_Controlled](/Projects/IP_Controlled/) # **Malware Controlado (IP 1.0, 2.0, 3.0).**
 
 ---
 
 ## 🔧 How to use this Grimoire
 
-- **If you are me (Alejandro):** use it as a daily ritual. Create a new `Journal/YYYY-MM-DD.md` entry every night. Push small commits — each is proof of discipline.  
-- **If you are a curious soul:** read `Roadmap/roadmap.md` first to understand context, then pick a lane (Labs, Reversing, or Journal).  
-- **If you are a defender or vendor:** contact me for responsibly redacted PoCs or coordinated disclosure. See Responsible Disclosure below.
+- **If you are me (Alejandro):** use it as a daily ritual. Create a new `Journal/YYYY-MM-DD.md` entry every night. Push small commits — each is proof of discipline.
+
+- **If you are a curious soul:** read `Roadmap/roadmap.md` first to understand context, then pick a lane (**Labs**, **Reversing**, or **Artifacts/BlueTeam**).
+
+- **If you are a defender or vendor:** contact me for responsibly redacted PoCs or coordinated disclosure. See **Responsible Disclosure** below.
 
 ---
 
-## 🧠 What goes in each major folder (rules)
+## 🧠 What goes in each major folder (Purple Team Rules)
 
-- **Roadmap/** — canonical plan. Every modification must be versioned and dated.  
-- **Labs/** — writeups must follow the `labs-writeup-template.md` (metadata, recon, exploitation, post-exploitation, remediations, reflections). Keep `artifacts/` local.  
-- **Reversing/** — experiments, notes, Frida scripts, Ghidra findings. Never commit raw APKs or firmware with secrets.  
-- **Languages/** — raw practice logs. Track minutes and retention.  
-- **Journal/** — raw, uncensored logs (emotion, ritual, results). Not polished; honest.  
-- **Projects/** — only projects aligned with the Roadmap. No side-money hacks that distract from the path.
+- **Roadmap/** — canonical plan. Every modification must ser versioned and dated.
 
----
+- **Labs/** — writeups must follow the `labs-writeup-template.md` (metadata, recon, exploitation, post-exploitation, **remediations**, **detecciones**). Keep `artifacts/` local.
 
-## 🧾 Templates & standards (use them)
+- **Reversing/** — experimentos, notas, Frida scripts, Ghidra findings. **La nueva carpeta CVE-IP es exclusiva para la IP valiosa con su mitigación.**
 
-- `Journal/entry-template.md` — daily entry format (mood, hours, labs, reflections).  
-- `Labs/labs-writeup-template.md` — canonical format for writeups.  
-- `Projects/README.md` — each project must have a `plan.md` with MVP, stack, sprints, and metrics.
+- **Artifacts/** — **Corazón del Purple Team.** Aquí residen las reglas de detección (`Sigma/YARA`) y los `Playbooks IR` desarrollados.
 
-Use the templates to maintain consistency and credibility.
+- **Journal/** — raw, uncensored logs (emotion, ritual, results). Not polished; honest.
 
----
-
-`Todo aquí documenta la disciplina de ingeniería y el rigor científico del proceso, más allá del resultado final.`
+- **Projects/** — solo proyectos alineados con la IP del Roadmap. Incluye los desarrollos de **Malware Controlado**.
 
 ---
 
 ## 🛡 Ética y Divulgación de Propiedad Intelectual (No Negociable)
 
-- Mi ambición de Unicornio se basa en la confianza y el control.
+- Mi ambición de Unicornio se basa en la **confianza**, el **control** y el **rigor científico**.
 
-  - Todos los experimentos de Malware Controlled y Exploit PoCs se realizan en laboratorios privados, aislados (air-gapped) y bajo mi control legal.
+  - Todos los experimentos de Malware Controlled y Exploit PoCs se realizan en laboratorios privados, aislados (**air-gapped**) y bajo mi control legal.
 
-  - La IP ofensiva se utiliza para diseñar productos de defensa insuperables y para la venta exclusiva a entidades gubernamentales aliadas.
-
-  - Se mantiene la estricta Divulgación Responsable (Responsible Disclosure) para todas las vulnerabilidades encontradas en vendors. PGP public key disponible.
+  - La IP ofensiva se utiliza para diseñar productos de **defensa insuperables** y para la venta exclusiva a entidades gubernamentales aliadas.
+  
+  - Se mantiene la estricta **Divulgación Responsable (Responsible Disclosure)** para todas las vulnerabilidades encontradas en *vendors*. PGP public key disponible.
 
 ---
 
 ## 🚨 Advertencia Final (Legal y Existencial)
 
-**Este es un GRIMOIRE DE INGENIERÍA — metódico, disciplinado y diseñado para la dominación del mercado. No se lee, se estudia.**
+**Este es un GRIMOIRE DE INGENIERÍA — metódico, disciplinado y diseñado para la dominación del mercado mediante el ciclo Purple Team. No se lee, se estudia.**
 
 `Codename: TENSHI NO SŌZŌ (天使の創造) — El Arquitecto.`
 

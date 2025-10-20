@@ -1,252 +1,342 @@
-# 🩸👑「K4M1G1R1: The Eternal Path」⚙️ 「TENSHI NO SŌZŌ: El Arquitecto del Zero Control」 ⚙️
 
-## The Roadmap of Alejandro Meyer — Sentinel Engineer, Master of Controlled Malware, and Founder of the Global Cyber-IP Unicorn, HQ Pending
+# 👑🩸 「TENSHI NO SŌZŌ: The Zero Control Architect」 ⚙️
 
-### 🚀 PHASE 0 — Forge the Foundation & First Revenue
+## The Purple Team Engineer Roadmap of Tatsumi Yukiharu
 
-`META: Bloquear disciplina diaria, publicar 3 productos vendibles/donables y asegurar los primeros $200.000 COP/mes de ingreso.`
+---
 
-> **Lenguajes & Habilidades**
+### 🚀 PHASE 0 — Forge the Foundation & First Revenue (Purple Team Mindset)
+
+`META: Bloquear disciplina diaria, asegurar los primeros ingresos y establecer la base de Blue/Red/Dev.`
+
+> **Development & Habilidades**
 
 - Python (VITAL)
 - JavaScript
 - Bash
 - SQL
 - Git
-- ssh/scp
-- Patrones de diseño de software (Introducción).
+- Patrones de diseño de software (Introducción)
 
-> **Proyectos Vendibles/Donables**
+> **Purple/Red & Herramientas**
 
-- Python VENDIBLE
-  - Automatizador de Tareas Contables.
-- JS VENDIBLE
-  - Landing Page Generator para micro-empresas.
-- Bash VENDIBLE
-  - Script de Hardening/Chequeo de Servidor Linux (Mini-Servicio).
-- PowerShell DONABLE
-  - Script de Monitoreo de Integridad de Archivos (FIM Básico).
+- Nmap
+- Burp Suite (basic)
+- Linux Hardening
 
-> **Ciberseguridad & Blue**
+> **Purple/Blue & Herramientas**
 
 - Wireshark
 - ELK (mínimo)
-- Nmap
-- Burp Suite (basic).
-- Cada proyecto ofensivo incluye su propia Sigma Rule básica para detección.
+- Introducción a Forenses
 
-> **Certificación & Marca**
+> **Certificaciones & Labs (CV-Ready)**
 
-- Technical Writing professional (CV-ready).
-- Labs eJPT completados.
+- SOC 1 (TryHackMe)
+- PRACTICAL PENTESTING (TryHackMe)
+- Technical Writing professional
 
-> **Métrica de Éxito**
+> **Purple Focus & Propiedad Intelectual (IP)**
 
-- FINANCIERA
-  - $200.000 de ingresos generados.
-- TÉCNICA
-  - 3 proyectos funcionales publicados en GitHub.
-- ADSO
-  - Arquitectura modular simple.
+- Automatizador de Tareas Contables
+- Script FIM Básico
+  - **Debe integrarse con ELK**
+- Mecanismo Purple
+  - Cada proyecto ofensivo incluye su propia **Sigma Rule básica.**
 
-### 🛠️ PHASE 1 — Ingeniería de Sistemas y Propiedad Intelectual (IP) 1.0
+> **📚 Lectura Técnica y Libros CRÍTICO**
 
-`META: Primer ingreso significativo, iniciar desarrollo de IP de bajo nivel (Malware Controlado). Inicio de Pregrado Ingeniería de Sistemas (inscripción financiada por ingresos de Opción 2).`
+- The Hacker Playbook 3 (Peter Kim)
+- Practical Packet Analysis (Chris Sanders)
+- **Artículos**
+  - Introducción al MITRE ATT&CK
+  - Cyber Kill Chain.
+- **Lectura Diaria**
+  - 1 artículo técnico en inglés sobre Python o Linux.
 
-> **Lenguajes & Habilidades**
+> **🌐 Inglés (Lenguaje)**
+
+- **Nivel Meta**
+  - B1 (Conversacional Básico).
+- **Foco**
+  - Gramática y pronunciación fundamental.
+- **Hábito**
+  - 30 min. de práctica diaria (Journal/Languages).
+
+---
+
+### 🛠️ PHASE 1 — Ingeniería de Sistemas y Propiedad Intelectual (IP) 1.0 (Purple)
+
+`META: Primer ingreso significativo, iniciar desarrollo de Malware Controlado (IP 1.0). Preparación para el primer trabajo.`
+
+> **Development & Habilidades**
 
 - C (CRÍTICO)
-- Go/Rust (Introducción a concurrencia)
-- pwntools
+- Go/Rust (Introducción)
+- Ghidra (deep)
 - Radare2
-- Ghidra (deep).
+- pwntools
 
-> **Proyectos Vendibles/Donables**
+> **Purple/Red & Herramientas**
 
-- C IP 1.0
-  - Keylogger Básico Cifrado (con fines de estudio).
-- Go DONABLE
-  - Escáner de Puertos Ultrarrápido usando concurrencia.
-- SQL VENDIBLE
-  - Dashboard de Análisis de Logs.
+- Active Directory Exploitation (TryHackMe)
 
-> **Ciberseguridad & Blue**
+> **Purple/Blue & Herramientas**
 
-- 3+ Sigma Rules públicas enfocadas en la detección de ataques de Active Directory.
-- mini-curso DFIR / Elastic detection (Evidencia).
+- mini-curso DFIR / Elastic detection
+- 3+ **Sigma Rules** públicas enfocadas en **detección de Active Directory attacks**
 
-> **Certificación & Marca**
+> **Certificaciones & Labs (CV-Ready)**
 
-- 3 RE writeups pulidos (documentación del Keylogger).
+- HackTheBox Tier 1 Red/Blue (5 completadas)
+- 3 RE writeups pulidos
 
-> **Métrica de Éxito**
+> **Purple Focus & Propiedad Intelectual (IP)**
 
-- FINANCIERA
-  - Ingreso de Opción 2 supera el umbral de $300.000 y financia la matrícula universitaria.
-- TÉCNICA
-  - Publicación del Keylogger (IP 1.0) y el Escáner Rápido.
-- ADSO
-  - Aplicación de C para control directo de memoria.
+- **Keylogger Cifrado (IP 1.0)**
+- Dashboard de Análisis de Logs (SQL/ELK)
+- Mecanismo Purple
+  - IP 1.0 con su Sigma/YARA para su detección.
 
-### 🔬 PHASE 2 — Arquitectura de Amenazas y Escalabilidad
+> **📚 Lectura Técnica y Libros CRÍTICO**
 
-`META: Obtener el OSCP, construir un C2 Básico Funcional, y sentar las bases del sistema de defensa.`
+- Hacking: The Art of Exploitation, 2nd Edition (Jon Erickson).
+- Reverse Engineering for Beginners (Eldad Eilam).
+- **Artículos**
+  - Conceptos de Low-Level (Punteros en C, Stack/Heap).
+- **Lectura diaria**
+  - Documentación técnica de Ghidra o pwntools.
 
-> **Lenguajes & Habilidades**
+> **🌐 Inglés (Lenguaje)**
+
+- **Nivel Meta**
+  - B2 (Fluidez Intermedia).
+- **Foco**
+  - Conversación técnica y comprensión auditiva de talks de seguridad.
+- **Hábito**
+  - Consumir 1 talk de conferencia (Black Hat/Def Con) en inglés con subtítulos a la semana.
+
+---
+
+### 🔬 PHASE 2 — Arquitectura de Amenazas y Escalabilidad (Purple Focus: C2 & Pipeline)
+
+`META: Obtener el OSCP, construir un C2 Básico Funcional (IP 2.0), e integrar una Pipeline de detección continua.`
+
+> **Development & Habilidades**
 
 - Go/Rust (para concurrencia y velocidad)
 - C/C++ (deep)
-- Diseño de Arquitectura C2.
+- Diseño de Arquitectura C2 (Microservicios)
 
-> **Proyectos Vendibles/Donables**
+> **Purple/Red & Herramientas**
 
-- IP 2.0 (C2 Controlado)
-  - Desarrollo de un C2 Básico funcional en Go.
-- Final Project Red
-  - 1 Exploit PoC documentado (sólo para laboratorio).
-- Final Project Blue
-  - pipeline de detección (Sigma/YARA) que mapee las TTPs usadas por tu propio C2.
+- Exploit PoC documentado
+- Enfoque en **MITRE ATT&CK TTPs** de Red Team
 
-> **Ciberseguridad & Blue**
+> **Purple/Blue & Herramientas**
 
 - Volatility
-- YARA
-- Sigma
-- rules CI-ready
-- Enfoque en MITRE ATT&CK.
+- **YARA/Sigma rules CI-ready**
+- **Threat Hunting avanzado**
 
-> **Certificación & Marca**
+> **Certificaciones & Labs (CV-Ready)**
 
-- OSCP.
-- Curso de MITRE ATT&CK avanzado.
-- Contrato de mentoría (mentoring) formalizado (3 meses).
+- **OSCP**
+- Cyber Threat Hunter (CTH)
+- Certified SOC Analyst (CSOC)
+- HackTheBox Pro Labs (uno completado)
 
-> **Métrica de Éxito**
+> **Purple Focus & Propiedad Intelectual (IP)**
 
-- FINANCIERA
-  - Certificado OSCP financiado.
-- TÉCNICA
-  - C2 Básico funcional.
-- ADSO
-  - Aplicación de principios de Arquitectura de Microservicios y control de memoria.
+- **C2 Básico funcional (IP 2.0)** en Go, diseñado para la ofuscación.
+- Mecanismo Purple
+  - **Pipeline de detección (Sigma/YARA) que mapee las TTPs usadas por tu propio C2.**
 
-### 💥 PHASE 3 — Armory: Diseño OPSEC de Lab & Responsible Disclosure
+> **📚 Lectura Técnica y Libros CRÍTICO**
 
-`META: Perfeccionar exploit-dev, diseñar el Lab de "Científico Loco" (air-gapped), y generar Propiedad Intelectual Valiosa (Vulnerabilidades). Pregrado de Ingeniería de Sistemas a mitad de curso.`
+- Red Team Field Manual (RTFM) (Ben Clark).
+- Security Engineering (Ross Anderson) - Enfoque en arquitectura.
+- **Artículos**
+  - Implementación de protocolos C2 y ofuscación de red
+- **Lectura Diaria**
+  - Estudios de caso (Writeups OSCP/HTB) en inglés.
 
-> **Lenguajes & Habilidades**
+> **🌐 Inglés (Lenguaje)**
 
+- **Nivel Meta**
+  - C1 (Profesional Competente).
+- **Foco**
+  - Technical Writing pulido (para writeups y artículos).
+- **Hábito**
+  - Escribir todos los writeups de Labs y el Journal en inglés.
+
+---
+
+### 💥 PHASE 3 — Armory: Diseño OPSEC de Lab & Propiedad Intelectual Valiosa (Purple: Research)
+
+`META: Perfeccionar exploit-dev y Reverse Engineering, diseñar el Lab de "Científico Loco" (air-gapped), y generar Propiedad Intelectual Valiosa (Vulnerabilidades).`
+
+> **Development & Habilidades**
+
+- IDA
+- **AFL/Fuzzing**
+- QEMU
 - C/C++
 - PHP (para auditoría)
-- IDA
-- AFL
-- QEMU
-- Diseño OPSEC de Lab.
+- Diseño OPSEC de Lab
 
-> **Proyectos Vendibles/Donables**
+> **Purple/Red & Herramientas**
 
-- IP 3.0 (Malware de Investigación)
-  - Herramienta que explota discos duros con cbucles.
-- Full Lab OPSEC blueprint documentado.
-- 2 Responsible Disclosures (coordinación con el vendedor).
-- Para cada disclosure, publicar el paquete de mitigación Sigma/YARA/IR playbook.
+- **Exploit-dev avanzado**
+- **Fuzzing automatizado**
 
-> **Ciberseguridad & Blue**
+> **Purple/Blue & Herramientas**
 
-- ELK "production-ish" lab
-- Sigma/YARA con CI.
-- Pipeline de detección/respuesta comercializable.
+- **ELK "production-ish" lab**
+- **Pipeline de detección/respuesta comercializable**
+- **Threat Intelligence** avanzada
 
-> **Certificación & Marca**
+> **Certificaciones & Labs (CV-Ready)**
 
-- Certificación de Ingeniería Inversa (GREM/OSCE³).
-- Mantener OSCP.
-- 2 publicaciones de vulnerabilidades.
+- **OSCE3**
+- **GREM**
+- **GIAC GCIH**
+- 2 publicaciones de vulnerabilidades (CVE)
 
-> **Métrica de Éxito**
+> **Purple Focus & Propiedad Intelectual (IP)**
 
-- FINANCIERA
-  - Ingreso suficiente para financiar los vouchers avanzados y la matrícula universitaria.
-- TÉCNICA
-  - 2 vulnerabilidades publicadas.
-  - Lab air-gapped funcional.
-- ADSO
-  - Aplicación de Fuzzing automatizado para pruebas de seguridad.
+- **Malware de Investigación (IP 3.0)**
+- Full Lab OPSEC blueprint
+- **2 Responsible Disclosures**
+- Mecanismo Purple
+  - Para cada disclosure, publicar el **paquete de mitigación completo (Sigma/YARA/IR playbook).**
 
-### 🏛️ PHASE 4 — Formalizar Empresa & Graduación
+> **📚 Lectura Técnica y Libros CRÍTICO**
 
-`META: Obtener el título de Ingeniero de Sistemas. Constituir la empresa de Ciberseguridad, primer contrato vendor y ahorrar para el postgrado.`
+- The Shellcoder's Handbook (Chris Anley et al.).
+- Rootkits: Subverting the Windows Kernel (Greg Hoglund & Jamie Butler).
+- **Artículos**
+  - Investigación de Fuzzing y Explotación de Kernel.
+- **Lectura Diaria**
+  - Papers académicos sobre seguridad de sistemas operativos o publicaciones de CVEs.
 
-> **Lenguajes & Habilidades**
+> **🌐 Inglés (Lenguaje)**
+
+- **Nivel Meta**
+  - C2 (Dominio Total).
+- **Foco**
+  - Presentaciones técnicas formales y Negociación.
+- **Hábito**
+  - Practicar la presentación formal de tu Responsible Disclosure en inglés (simulación de una talk de conferencia).
+
+---
+
+### 🏛️ PHASE 4 — Formalizar Empresa & Graduación (Purple: Gobernanza y Diseño)
+
+`META: Obtener el título. Constituir la empresa, primer contrato vendor y ahorrar para el postgrado.`
+
+> **Development & Habilidades**
 
 - Go
 - Rust
-- Air-gapped lab
-- PGP
 - Secure CI/CD
-- Go for C2.
+- K8s
+- Diseño de servicios en la nube (CI/CD, K8s)
 
-> **Proyectos Vendibles/Donables**
+> **Purple/Red & Gobernanza**
 
-- MVP de detección/respuesta para clientes
-(Servicio piloto: dashboard, 30 días tuning, reporte comercial).
-- Ciberseguridad & Blue
-- SIEM multi-tenant (diseño)
+- **Red Teaming OPSEC a nivel empresarial**
+- Go for C2
+
+> **Purple/Blue & Gobernanza**
+
+- **SIEM multi-tenant (diseño)**
 - Playbooks IR estandarizados.
-- Plantillas Sigma/YARA para clientes.
 
-> **Certificación & Marca**
+> **Certificaciones & Labs (CV-Ready)**
 
-- GRADUACIÓN
-  - Título de Ingeniero de Sistemas.
-- CISSP
-- GXPN.
+- **GRADUACIÓN**
+  - **Título de Ingeniero de Sistemas**
+- **CISSP**
+- **GXPN**
+- **CKS**
 
-> **Métrica de Éxito**
+> **Purple Focus & Propiedad Intelectual (IP)**
 
-- FINANCIERA
-  - Capital de la empresa formalizado.
-  - Ahorro equivalente a 1 año de postgrado.
-- TÉCNICA
-  - Incorporación de la empresa.
-  - Primer contrato piloto pagado.
-- ADSO
-  - Diseño de servicios en la nube (CI/CD, K8s).
+- **MVP de detección/respuesta para clientes** (Servicio piloto)
+- Diseño de un servicio de C2/Malware Controlado que se integra con el SIEM del cliente
+- Mecanismo Purple
+  - **Plantillas Sigma/YARA para clientes y Diseño de Arquitectura de Seguridad Empresarial.**
 
-### 🌍 PHASE 5 — Postgrado y Lanzamiento
+> **📚 Lectura Técnica y Libros CRÍTICO**
 
-`META: Postgrado en Ciberseguridad fuera de Colombia. Lanzar MVP defensable (detección/hardening), contratos recurrentes.`
+- The Practice of Cloud Security (Google/Microsoft whitepapers avanzados).
+- Official (ISC)² CISSP Common Body of Knowledge (CBK) - Referencia de Gobernanza.
+- **Artículos**
+  - Marco de Cumplimiento (SOC 2, ISO 27001) y Gobernanza de Riesgo.
+- **Lectura Diaria**
+- Leer y comprender un contrato de seguridad (NDA/SLA) en inglés.
 
-> **Lenguajes & Habilidades**
+> **🌐 Inglés (Lenguaje)**
 
-- Assembly x86/x64.
-- Enfoque en Research y Product Design.
+- **Nivel Meta**
+  - C2 Refinado (Uso Ejecutivo).
+- **Foco**
+  - Business English y términos de Gobernanza/Riesgo.
+- **Hábito**
+  - Liderar simulacros de **Incident Response** con reportes ejecutivos escritos 100% en inglés.
 
-> **Proyectos Vendibles/Donables**
+---
 
-- MVP Product Pilot con clientes
-- MVP incluye detección automatizada
-- paquete mitigación
-- Playbooks.
-- 6+ research pieces/año.
+### 🌍 PHASE 5 — Postgrado y Lanzamiento (Purple: Liderazgo y Research)
 
-> **Ciberseguridad & Blue**
+`META: Postgrado en Ciberseguridad. Lanzar MVP defensable (detección/hardening), contratos recurrentes.`
 
-- Pipelines Sigma → SIEM automatizadas.
-- Monitoring SLAs y métricas.
-- Evidencia SOC2 readiness.
+> **Development & Habilidades**
 
-> **Certificación & Marca**
+- Assembly x86/x64
+- Enfoque en Research y **Product Design/UX de Seguridad**
 
-- POSTGRADO
-  - Maestría o Especialización en Ciberseguridad
-- Mantener GIAC / OSCP / CISSP.
+> **Purple/Red & Research**
 
-> **Métrica de Éxito**
+- **Advanced TTPs Research**
+- **Malware Development para Defensa**
 
-- FINANCIERA
-  - Contratos recurrentes que pagan la operación.
-- TÉCNICA
-  - MVP producto piloto.
-- ADSO
-  - Demostración de liderazgo técnico y gobernanza de seguridad.
+> **Purple/Blue & Gobernanza**
+
+- **Evidencia SOC2 readiness**
+- **Monitoring SLAs y métricas**
+- **Liderazgo Técnico y Gobernanza**
+
+> Certificaciones & Labs (CV-Ready)
+
+- **POSTGRADO**
+  - **Maestría y/o Especialización**
+    - **Ciberseguridad**
+- **CISM**
+Mantener GIAC / OSCP / CISSP
+
+> **Purple Focus & Propiedad Intelectual (IP)**
+
+- **MVP Product Pilot con clientes** (incluye **detección automatizada** y paquete de mitigación)
+- **6+ research pieces/año**
+- Mecanismo Purple
+  - **Pipelines Sigma → SIEM automatizadas** con un SLA de detección
+
+> **📚 Lectura Técnica y Libros CRÍTICO**
+
+- Management of Information Security (Stephen Northcutt, Michael E. Whitman) - Enfocado en CISM.
+- Advanced Penetration Testing: Hacking Windows, Android, and IoT Systems (Willey).
+- **Artículos**
+  - Research Papers avanzados sobre nuevas arquitecturas de seguridad y ofuscación a nivel kernel.
+- **Lectura diaria**
+  - Artículos sobre Product Management y Venture Capital (en inglés).
+
+> **🌐 Inglés (Lenguaje)**
+
+- **Nivel Meta**
+  - Mantenimiento C2.
+- **Foco**
+  - Comunicación C-Level y Negociación de contratos internacionales.
+- **Hábito**
+  - Leer las noticias de ciberseguridad y tecnología (ej. Ars Technica, Wired) exclusivamente en inglés.
