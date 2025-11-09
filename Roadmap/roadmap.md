@@ -1,342 +1,367 @@
+# 🩸⚙️ 「TENSHI NO SHINPAN」
 
-# 👑🩸 「TENSHI NO SŌZŌ: The Zero Control Architect」 ⚙️
+## The Forensic Architect of Justice
 
-## The Purple Team Engineer Roadmap of Tatsumi Yukiharu
+## The Cyber-Forensic & Legal Purple Roadmap of K4m1G1r1
 
----
+- Propósito Final
 
-### 🚀 PHASE 0 — Forge the Foundation & First Revenue (Purple Team Mindset)
+ `Convertirme en Ingeniero Forense-Cibernético de élite, colaborar con la justicia japonesa y alcanzar la ciudadanía japonesa mediante mérito, aporte técnico y servicio.`
 
-`META: Bloquear disciplina diaria, asegurar los primeros ingresos y establecer la base de Blue/Red/Dev.`
+### 🌸 ESTRUCTURA DE FASES
 
-> **Development & Habilidades**
+- Cada fase contiene
+  - 🎯 Objetivo
+  - 📈 Resultados Medibles
+  - 🔧 Herramientas / Temas
+  - 📁 Proyectos
+  - 🧩 Habilidades (Lenguajes incluidos)
+  - 🗂️ Entregables
+  - 📚 Lectura
+  - 🎓 Certificaciones
+  - 🌐 Idiomas
+  - ⏱️ Duración
 
-- Python (VITAL)
-- JavaScript
-- Bash
-- SQL
-- Git
-- Patrones de diseño de software (Introducción)
+### ⚔️ PHASE 0 — FUNDACIÓN RÍGIDA (0–3 meses)
 
-> **Purple/Red & Herramientas**
+> 🎯 Objetivo
 
-- Nmap
-- Burp Suite (basic)
-- Linux Hardening
+- Establecer disciplina diaria, crear el home lab base y generar tu primera evidencia técnica pública.
 
-> **Purple/Blue & Herramientas**
+> 📈 Resultados Medibles
 
-- Wireshark
-- ELK (mínimo)
-- Introducción a Forenses
+- Home-lab operativo (VM Windows víctima + VM Linux analista + red).
+- 3 mini-writeups reproducibles.
+- README profesional + CV actualizado.
+- Journal técnico diario (mín. 5 commits/semana).
 
-> **Certificaciones & Labs (CV-Ready)**
+> 🔧 Herramientas / Temas
 
-- SOC 1 (TryHackMe)
-- PRACTICAL PENTESTING (TryHackMe)
-- Technical Writing professional
+- VirtualBox / VMware.
+- FTK Imager.
+- Autopsy.
+- Wireshark.
+- tcpdump.
+- Git.
+- Python básico.
+- Hashing (SHA256).
 
-> **Purple Focus & Propiedad Intelectual (IP)**
+> 📁 Proyectos Clave
 
-- Automatizador de Tareas Contables
-- Script FIM Básico
-  - **Debe integrarse con ELK**
-- Mecanismo Purple
-  - Cada proyecto ofensivo incluye su propia **Sigma Rule básica.**
+- Mini-Caso A → Imagen USB → Recuperación + Informe.
+- Mini-Caso B → PCAP → Transferencia sospechosa.
+- Mini-Caso C → Script Python (parser de logs).
 
-> **📚 Lectura Técnica y Libros CRÍTICO**
+> 🧩 Habilidades / Lenguajes
 
-- The Hacker Playbook 3 (Peter Kim)
-- Practical Packet Analysis (Chris Sanders)
-- **Artículos**
-  - Introducción al MITRE ATT&CK
-  - Cyber Kill Chain.
-- **Lectura Diaria**
-  - 1 artículo técnico en inglés sobre Python o Linux.
+- Python (básico).
+- Bash.
+- Markdown.
 
-> **🌐 Inglés (Lenguaje)**
+> 🗂️ Entregables
 
-- **Nivel Meta**
-  - B1 (Conversacional Básico).
-- **Foco**
-  - Gramática y pronunciación fundamental.
-- **Hábito**
-  - 30 min. de práctica diaria (Journal/Languages).
+- 3 Writeups (Labs/).
+- Journal técnico (30 entradas mínimas).
 
----
+> 📚 Lectura Recomendada
 
-### 🛠️ PHASE 1 — Ingeniería de Sistemas y Propiedad Intelectual (IP) 1.0 (Purple)
+- Practical Packet Analysis — Chris Sanders.
 
-`META: Primer ingreso significativo, iniciar desarrollo de Malware Controlado (IP 1.0). Preparación para el primer trabajo.`
+> 🎓 Certificación
 
-> **Development & Habilidades**
+- TryHackMe — SOC1 Path.
 
-- C (CRÍTICO)
-- Go/Rust (Introducción)
-- Ghidra (deep)
-- Radare2
-- pwntools
+> 🌐 Idiomas
 
-> **Purple/Red & Herramientas**
+- Inglés
+  - Nivel B1 → lectura técnica diaria.
+- Japonés
+  - Inicio suave — hiragana/katakana (10–15 min diarios).
 
-- Active Directory Exploitation (TryHackMe)
+### ⚙️ PHASE 1 — PORTAFOLIO FORENSE & CONTACTO LOCAL (3–9 meses)
 
-> **Purple/Blue & Herramientas**
+> 🎯 Objetivo
 
-- mini-curso DFIR / Elastic detection
-- 3+ **Sigma Rules** públicas enfocadas en **detección de Active Directory attacks**
+- Crear portafolio reproducible y lograr primera experiencia real (freelance o pro-bono).
 
-> **Certificaciones & Labs (CV-Ready)**
+> 📈 Resultados Medibles
 
-- HackTheBox Tier 1 Red/Blue (5 completadas)
-- 3 RE writeups pulidos
+- 3 peritajes técnicos completos.
+- Plantillas
+  - Informe Forense + Chain of Custody.
+- Primer pago o colaboración profesional.
 
-> **Purple Focus & Propiedad Intelectual (IP)**
-
-- **Keylogger Cifrado (IP 1.0)**
-- Dashboard de Análisis de Logs (SQL/ELK)
-- Mecanismo Purple
-  - IP 1.0 con su Sigma/YARA para su detección.
-
-> **📚 Lectura Técnica y Libros CRÍTICO**
-
-- Hacking: The Art of Exploitation, 2nd Edition (Jon Erickson).
-- Reverse Engineering for Beginners (Eldad Eilam).
-- **Artículos**
-  - Conceptos de Low-Level (Punteros en C, Stack/Heap).
-- **Lectura diaria**
-  - Documentación técnica de Ghidra o pwntools.
-
-> **🌐 Inglés (Lenguaje)**
-
-- **Nivel Meta**
-  - B2 (Fluidez Intermedia).
-- **Foco**
-  - Conversación técnica y comprensión auditiva de talks de seguridad.
-- **Hábito**
-  - Consumir 1 talk de conferencia (Black Hat/Def Con) en inglés con subtítulos a la semana.
-
----
-
-### 🔬 PHASE 2 — Arquitectura de Amenazas y Escalabilidad (Purple Focus: C2 & Pipeline)
-
-`META: Obtener el OSCP, construir un C2 Básico Funcional (IP 2.0), e integrar una Pipeline de detección continua.`
-
-> **Development & Habilidades**
-
-- Go/Rust (para concurrencia y velocidad)
-- C/C++ (deep)
-- Diseño de Arquitectura C2 (Microservicios)
-
-> **Purple/Red & Herramientas**
-
-- Exploit PoC documentado
-- Enfoque en **MITRE ATT&CK TTPs** de Red Team
-
-> **Purple/Blue & Herramientas**
+> 🔧 Herramientas / Temas
 
 - Volatility
-- **YARA/Sigma rules CI-ready**
-- **Threat Hunting avanzado**
+- Autopsy
+- FTK Imager
+- ELK Stack
+- YARA
+- Wireshark avanzado
+- Timesketch.
 
-> **Certificaciones & Labs (CV-Ready)**
+> 📁 Proyectos Clave
 
-- **OSCP**
-- Cyber Threat Hunter (CTH)
-- Certified SOC Analyst (CSOC)
-- HackTheBox Pro Labs (uno completado)
+- Caso DFIR End-to-End.
+- OSINT Mini-Case (dominio de phishing).
+- Detector Sigma + Dashboard.
 
-> **Purple Focus & Propiedad Intelectual (IP)**
+> 🧩 Habilidades / Lenguajes
 
-- **C2 Básico funcional (IP 2.0)** en Go, diseñado para la ofuscación.
-- Mecanismo Purple
-  - **Pipeline de detección (Sigma/YARA) que mapee las TTPs usadas por tu propio C2.**
+- Python (intermedio)
+- SQL
+- PowerShell (básico).
 
-> **📚 Lectura Técnica y Libros CRÍTICO**
+> 🗂️ Entregables
 
-- Red Team Field Manual (RTFM) (Ben Clark).
-- Security Engineering (Ross Anderson) - Enfoque en arquitectura.
-- **Artículos**
-  - Implementación de protocolos C2 y ofuscación de red
-- **Lectura Diaria**
-  - Estudios de caso (Writeups OSCP/HTB) en inglés.
+- 3 peritajes (con anexos y hashes)
+- Templates en Templates/.
 
-> **🌐 Inglés (Lenguaje)**
+>📚 Lectura Recomendada
 
-- **Nivel Meta**
-  - C1 (Profesional Competente).
-- **Foco**
-  - Technical Writing pulido (para writeups y artículos).
-- **Hábito**
-  - Escribir todos los writeups de Labs y el Journal en inglés.
+- Network Security Monitoring — Richard Bejtlich.
 
----
+> 🎓 Certificación
 
-### 💥 PHASE 3 — Armory: Diseño OPSEC de Lab & Propiedad Intelectual Valiosa (Purple: Research)
+- Preparación para GCFA / GREM.
 
-`META: Perfeccionar exploit-dev y Reverse Engineering, diseñar el Lab de "Científico Loco" (air-gapped), y generar Propiedad Intelectual Valiosa (Vulnerabilidades).`
+> 🌐 Idiomas
 
-> **Development & Habilidades**
+- Inglés
+  - B1→B2 — escribir un writeup semanal.
+- Japonés
+  - 20–30 min × 3/semana (vocabulario técnico).
 
-- IDA
-- **AFL/Fuzzing**
-- QEMU
-- C/C++
-- PHP (para auditoría)
-- Diseño OPSEC de Lab
+### 🕯️ PHASE 2 — ESPECIALIZACIÓN TÉCNICA & LENGUAJES (9–24 meses)
 
-> **Purple/Red & Herramientas**
+> 🎯 Objetivo
 
-- **Exploit-dev avanzado**
-- **Fuzzing automatizado**
+- Dominar análisis de memoria y malware, y comenzar japonés formal (comunicación profesional básica).
 
-> **Purple/Blue & Herramientas**
+> 📈 Resultados Medibles
 
-- **ELK "production-ish" lab**
-- **Pipeline de detección/respuesta comercializable**
-- **Threat Intelligence** avanzada
+- 1 investigación de malware (YARA + Sigma).
+- 1 caso OSINT de atribución.
+- Fondo para certificación (GCFA/GREM).
 
-> **Certificaciones & Labs (CV-Ready)**
+> 🔧 Herramientas / Temas
 
-- **OSCE3**
-- **GREM**
-- **GIAC GCIH**
-- 2 publicaciones de vulnerabilidades (CVE)
+- Volatility avanzado
+- Ghidra
+- IDA Free
+- x64dbg
+- YARA
+- Sigma
+- Velociraptor
+- KAPE.
 
-> **Purple Focus & Propiedad Intelectual (IP)**
+> 📁 Proyectos Clave
 
-- **Malware de Investigación (IP 3.0)**
-- Full Lab OPSEC blueprint
-- **2 Responsible Disclosures**
-- Mecanismo Purple
-  - Para cada disclosure, publicar el **paquete de mitigación completo (Sigma/YARA/IR playbook).**
+- Malware Analysis Report (estático + dinámico).
+- Memory Forensics con extracción de credenciales.
+- OSINT Attribution Pack (timeline y presentación ejecutiva).
 
-> **📚 Lectura Técnica y Libros CRÍTICO**
+> 🧩 Habilidades / Lenguajes
 
-- The Shellcoder's Handbook (Chris Anley et al.).
-- Rootkits: Subverting the Windows Kernel (Greg Hoglund & Jamie Butler).
-- **Artículos**
-  - Investigación de Fuzzing y Explotación de Kernel.
-- **Lectura Diaria**
-  - Papers académicos sobre seguridad de sistemas operativos o publicaciones de CVEs.
+- C (fundamentos)
+- Python (avanzado)
+- Go o Rust (introductorio)
+- SQL / Elastic DSL.
 
-> **🌐 Inglés (Lenguaje)**
+> 🗂️ Entregables
 
-- **Nivel Meta**
-  - C2 (Dominio Total).
-- **Foco**
-  - Presentaciones técnicas formales y Negociación.
-- **Hábito**
-  - Practicar la presentación formal de tu Responsible Disclosure en inglés (simulación de una talk de conferencia).
+- Malware report + scripts reproducibles.
 
----
+> 📚 Lectura Recomendada
 
-### 🏛️ PHASE 4 — Formalizar Empresa & Graduación (Purple: Gobernanza y Diseño)
+- Reverse Engineering for Beginners — Eldad Eilam.
+- The Art of Memory Forensics — Ligh et al.
 
-`META: Obtener el título. Constituir la empresa, primer contrato vendor y ahorrar para el postgrado.`
+> 🎓 Certificación
 
-> **Development & Habilidades**
+- GCFA o GREM (según enfoque técnico).
 
-- Go
+> 🌐 Idiomas:
+
+- Inglés
+  - B2→C1 — redacción técnica y presentaciones.
+- Japonés
+  - JLPT N5→N4 (45 min diarios).
+
+### 🩸 PHASE 3 — VALIDACIÓN JUDICIAL & NETWORKING INTERNACIONAL (24–48 meses)
+
+> 🎯 Objetivo
+
+- Ejercer como perito certificado y abrir conexiones institucionales con Japón.
+
+> 📈 Resultados Medibles:
+
+- 3 peritajes con cadena de custodia completa.
+- 2 publicaciones en inglés, 1 resumen en japonés.
+- Dossier institucional (inglés/japonés).
+
+> 🔧 Herramientas / Temas
+
+- Rekall
+- Velociraptor
+- KAPE
+- MISP
+- TheHive
+- Maltego
+- Procedimientos legales internacionales.
+
+> 📁 Proyectos Clave
+
+- Peritaje formal (pro bono o remunerado).
+- Whitepaper de atribución.
+- Dossier institucional + firma PGP.
+
+> 🧩 Habilidades / Lenguajes
+
+- C (intermedio)
+- Python/SQL
+- PowerShell avanzado.
+
+> 🗂️ Entregables
+
+- Dossier JP/EN, informes y repositorio reproducible.
+
+> 📚 Lectura Recomendada
+
+- Casos CERT / publicaciones legales forenses.
+
+> 🎓 Certificación
+
+- GCFA + curso legal (evidence handling).
+
+> 🌐 Idiomas
+
+- Inglés
+  - C1 (defensa de hallazgos).
+- Japonés
+  - JLPT N3→N2 (60 min diarios).
+
+### 🏯 PHASE 4 — EXPANSIÓN PROFESIONAL EN JAPÓN (48–84 meses)
+
+> 🎯 Objetivo
+
+- Colaborar oficialmente con instituciones japonesas y preparar la transición migratoria.
+
+> 📈 Resultados Medibles:
+
+- Contrato con cliente japonés.
+- Publicación o training conjunto.
+- CV y dossier japonés completos.
+
+> 🔧 Herramientas / Temas
+
+- NISC / JPCERT guidelines
+- Splunk / ELK productivo
+- NDAs y contratos bilingües.
+
+> 📁 Proyectos Clave:
+
+- Pilot engagement con empresa japonesa.
+- Workshop bilingüe.
+- Caso de estudio conjunto.
+
+> 🧩 Habilidades / Lenguajes
+
+- Go / Rust (según proyecto)
+- Python avanzado
+- habilidades comerciales.
+
+> 🗂️ Entregables
+
+- Contrato piloto + case study + CV JP.
+
+> 📚 Lectura Recomendada
+
+- Reportes NISC/JPCERT, ISO27001, SOC2.
+
+> 🎓 Certificación
+
+- CISSP.
+
+> 🌐 Idiomas
+
+- Inglés
+  - C2 ejecutivo.
+- Japonés
+  - JLPT N2 (lectura contractual y negociación).
+
+### 🕊️ PHASE 5 — CONSOLIDACIÓN, EMPRESA Y CIUDADANÍA (84–120+ meses)
+
+> 🎯 Objetivo
+
+- Fundar empresa o puesto estable en Japón y obtener la ciudadanía japonesa por mérito profesional.
+
+> 📈 Resultados Medibles
+
+- Empresa / posición estable con clientes japoneses.
+- MVP técnico operativo.
+- Publicaciones continuas y disclosure anual.
+- Progreso legal documentado hacía ciudadanía.
+
+> 🔧 Herramientas / Temas
+
+- SIEM multi-tenant
+- SOAR
+- Kernel analysis
+- Governance y SLA.
+
+> 📁 Proyectos Clave
+
+- MVP productivo + métricas.
+- Programa de formación para fuerzas japonesas.
+- Research universitario / CERT JP.
+
+> 🧩 Habilidades / Lenguajes
+
+- Assembly
 - Rust
-- Secure CI/CD
-- K8s
-- Diseño de servicios en la nube (CI/CD, K8s)
+- gestión ejecutiva.
 
-> **Purple/Red & Gobernanza**
+> 🗂️ Entregables
 
-- **Red Teaming OPSEC a nivel empresarial**
-- Go for C2
+- MVP
+- Contratos
+- Documentación de residencia.
 
-> **Purple/Blue & Gobernanza**
+> 📚 Lectura Recomendada
 
-- **SIEM multi-tenant (diseño)**
-- Playbooks IR estandarizados.
+- Management of Information Security — Northcutt & Whitman.
+- Publicaciones japonesas sobre derecho penal y cibercrimen.
 
-> **Certificaciones & Labs (CV-Ready)**
+> 🎓 Certificación
 
-- **GRADUACIÓN**
-  - **Título de Ingeniero de Sistemas**
-- **CISSP**
-- **GXPN**
-- **CKS**
+- CISM / Postgrado en Ciberseguridad (Japón).
 
-> **Purple Focus & Propiedad Intelectual (IP)**
+> 🌐 Idiomas
 
-- **MVP de detección/respuesta para clientes** (Servicio piloto)
-- Diseño de un servicio de C2/Malware Controlado que se integra con el SIEM del cliente
-- Mecanismo Purple
-  - **Plantillas Sigma/YARA para clientes y Diseño de Arquitectura de Seguridad Empresarial.**
+- Inglés
+  - C2 (publicación).
+- Japonés
+  - JLPT N1 (legal, formal, completo).
 
-> **📚 Lectura Técnica y Libros CRÍTICO**
+#### 🕰️ KPIs DE PROGRESO
 
-- The Practice of Cloud Security (Google/Microsoft whitepapers avanzados).
-- Official (ISC)² CISSP Common Body of Knowledge (CBK) - Referencia de Gobernanza.
-- **Artículos**
-  - Marco de Cumplimiento (SOC 2, ISO 27001) y Gobernanza de Riesgo.
-- **Lectura Diaria**
-- Leer y comprender un contrato de seguridad (NDA/SLA) en inglés.
+- 📓 Journal: mínimo 5 entradas/semana.
+- 🧾 Writeups: 1 mini por semana (Phase 0); 1 peritaje/mes (Phase 1).
+- 💰 Ingresos: primer pago (Phase 1); contrato JP (Phase 4).
+- 🗣 ️ Idiomas: simulacros cada 6 meses (Inglés/Japonés).
+- 🎯 Certificaciones: plan financiero por fase.
 
-> **🌐 Inglés (Lenguaje)**
+#### 📜 PLANTILLAS DISPONIBLES
 
-- **Nivel Meta**
-  - C2 Refinado (Uso Ejecutivo).
-- **Foco**
-  - Business English y términos de Gobernanza/Riesgo.
-- **Hábito**
-  - Liderar simulacros de **Incident Response** con reportes ejecutivos escritos 100% en inglés.
+- 🧩 Informe Forense
+- 🔗 Chain of Custody
+- 🛰️ OSINT Brief
 
----
+#### 🌠 REFLEXIÓN FINAL
 
-### 🌍 PHASE 5 — Postgrado y Lanzamiento (Purple: Liderazgo y Research)
-
-`META: Postgrado en Ciberseguridad. Lanzar MVP defensable (detección/hardening), contratos recurrentes.`
-
-> **Development & Habilidades**
-
-- Assembly x86/x64
-- Enfoque en Research y **Product Design/UX de Seguridad**
-
-> **Purple/Red & Research**
-
-- **Advanced TTPs Research**
-- **Malware Development para Defensa**
-
-> **Purple/Blue & Gobernanza**
-
-- **Evidencia SOC2 readiness**
-- **Monitoring SLAs y métricas**
-- **Liderazgo Técnico y Gobernanza**
-
-> Certificaciones & Labs (CV-Ready)
-
-- **POSTGRADO**
-  - **Maestría y/o Especialización**
-    - **Ciberseguridad**
-- **CISM**
-Mantener GIAC / OSCP / CISSP
-
-> **Purple Focus & Propiedad Intelectual (IP)**
-
-- **MVP Product Pilot con clientes** (incluye **detección automatizada** y paquete de mitigación)
-- **6+ research pieces/año**
-- Mecanismo Purple
-  - **Pipelines Sigma → SIEM automatizadas** con un SLA de detección
-
-> **📚 Lectura Técnica y Libros CRÍTICO**
-
-- Management of Information Security (Stephen Northcutt, Michael E. Whitman) - Enfocado en CISM.
-- Advanced Penetration Testing: Hacking Windows, Android, and IoT Systems (Willey).
-- **Artículos**
-  - Research Papers avanzados sobre nuevas arquitecturas de seguridad y ofuscación a nivel kernel.
-- **Lectura diaria**
-  - Artículos sobre Product Management y Venture Capital (en inglés).
-
-> **🌐 Inglés (Lenguaje)**
-
-- **Nivel Meta**
-  - Mantenimiento C2.
-- **Foco**
-  - Comunicación C-Level y Negociación de contratos internacionales.
-- **Hábito**
-  - Leer las noticias de ciberseguridad y tecnología (ej. Ars Technica, Wired) exclusivamente en inglés.
+`“La justicia no es un ideal lejano; es una precisión técnica.
+ El ingeniero forense no destruye ni castiga: revela.
+ Y en la verdad revelada, se encuentra la paz.”`
+ **— 「Tenshi no Shinpan」, Alejandro Meyer**
