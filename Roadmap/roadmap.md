@@ -1,41 +1,41 @@
 # 🩸⚙️ 「TENSHI NO SHINPAN」
 
-## The Forensic Architect of Justice
+## The Heavenly Judgment
 
 ## The Cyber-Forensic & Legal Purple Roadmap of K4m1G1r1
 
-- Propósito Final
+- Final Purpose
 
- `Convertirme en Ingeniero Forense-Cibernético de élite, colaborar con la justicia japonesa y alcanzar la ciudadanía japonesa mediante mérito, aporte técnico y servicio.`
+ `To become an elite Cyber-Forensic Engineer, collaborate with the Japanese justice system, and achieve Japanese citizenship through merit, technical contribution, and public service.`
 
-### 🌸 ESTRUCTURA DE FASES
+### 🌸 PHASE STRUCTURE
 
-- Cada fase contiene
-  - 🎯 Objetivo
-  - 📈 Resultados Medibles
-  - 🔧 Herramientas / Temas
-  - 📁 Proyectos
-  - 🧩 Habilidades (Lenguajes incluidos)
-  - 🗂️ Entregables
-  - 📚 Lectura
-  - 🎓 Certificaciones
-  - 🌐 Idiomas
-  - ⏱️ Duración
+- Each phase includes:
+  - 🎯 Objective
+  - 📈 Measurable Outcomes
+  - 🔧 Tools / Topics
+  - 📁 Key Projects
+  - 🧩 Skills (Languages Included)
+  - 🗂️ Deliverables
+  - 📚 Reading
+  - 🎓 Certifications
+  - 🌐 Languages
+  - ⏱️ Duration
 
-### ⚔️ PHASE 0 — FUNDACIÓN RÍGIDA (0–3 meses)
+### ⚔️ PHASE 0 — RIGID FOUNDATION (November 2025 - ??)
 
-> 🎯 Objetivo
+> 🎯 Objective
 
-- Establecer disciplina diaria, crear el home lab base y generar tu primera evidencia técnica pública.
+- Establish daily discipline, create the base home lab, and generate your first public technical evidence.
 
-> 📈 Resultados Medibles
+> 📈 Measurable Outcomes
 
-- Home-lab operativo (VM Windows víctima + VM Linux analista + red).
-- 3 mini-writeups reproducibles.
-- README profesional + CV actualizado.
-- Journal técnico diario (mín. 5 commits/semana).
+- Operational home-lab (Victim Windows VM + Analyst Linux VM + network).
+- 3 reproducible mini-writeups with Chain of Custody.
+- Professional README + updated CV.
+- Daily technical journal (min. 5 commits/week).
 
-> 🔧 Herramientas / Temas
+> 🔧 Tools / Topics
 
 - VirtualBox / VMware.
 - FTK Imager.
@@ -43,325 +43,348 @@
 - Wireshark.
 - tcpdump.
 - Git.
-- Python básico.
+- Basic Python.
 - Hashing (SHA256).
 
-> 📁 Proyectos Clave
+> 📁 Key Projects
 
-- Mini-Caso A → Imagen USB → Recuperación + Informe.
-- Mini-Caso B → PCAP → Transferencia sospechosa.
-- Mini-Caso C → Script Python (parser de logs).
+- Mini-Case A → USB Image → Recovery + Report.
+- Mini-Case B → PCAP → Suspicious Transfer Analysis.
+- Mini-Case C → Python Script (log parser).
 
-> 🧩 Habilidades / Lenguajes
+> 🧩 Skills / Languages
 
-- Python (básico).
+- Python (basic).
 - Bash.
 - Markdown.
 
-> 🗂️ Entregables
+> 🗂️ Deliverables
 
 - 3 Writeups (Labs/).
-- Journal técnico (30 entradas mínimas).
+- Technical Journal (min. 30 entries).
 
-> 📚 Lectura Recomendada
+> 📚 Reading Recommended
 
 - Practical Packet Analysis — Chris Sanders.
+- The OSINT Framework — Tool/Structure.
+- The Art of Human Hacking — Christopher Hadnagy.
 
-> 🎓 Certificación
+> 🎓 Certifications
 
 - TryHackMe — SOC1 Path.
+- OSINT Foundation — IntelTechniques/Michael Bazzell.
+- (Social Engineering skills covered by Hadnagy reading).
 
-> 🌐 Idiomas
+> 🌐 Languages
 
-- Inglés
-  - Nivel B1 → lectura técnica diaria.
-- Japonés
-  - Inicio suave — hiragana/katakana (10–15 min diarios).
+- English
+  - B1 Level → daily technical reading.
+- Japanese
+  - Soft start — hiragana/katakana (10–15 min daily).
 
-### ⚙️ PHASE 1 — PORTAFOLIO FORENSE & CONTACTO LOCAL (3–9 meses)
+### ⚙️ PHASE 1 — FORENSIC PORTFOLIO & LOCAL CONTACT
 
-> 🎯 Objetivo
+> 🎯 Objective
 
-- Crear portafolio reproducible y lograr primera experiencia real (freelance o pro-bono).
+- Create a reproducible portfolio and achieve first real experience (freelance or pro-bono).
 
-> 📈 Resultados Medibles
+> 📈 Measurable Outcomes
 
-- 3 peritajes técnicos completos.
-- Plantillas
-  - Informe Forense + Chain of Custody.
-- Primer pago o colaboración profesional.
+- 3 complete technical expert reports.
+- Templates for Forensic Report + Chain of Custody.
+- First professional payment or collaboration.
 
-> 🔧 Herramientas / Temas
+> 🔧 Tools / Topics
 
-- Volatility
-- Autopsy
-- FTK Imager
-- ELK Stack
-- YARA
-- Wireshark avanzado
+- Volatility.
+- Autopsy.
+- FTK Imager.
+- ELK Stack.
+- YARA.
+- Advanced Wireshark.
 - Timesketch.
 
-> 📁 Proyectos Clave
+> 📁 Key Projects
 
-- Caso DFIR End-to-End.
-- OSINT Mini-Case (dominio de phishing).
-- Detector Sigma + Dashboard.
+- End-to-End DFIR Case.
+- OSINT Mini-Case (phishing domain), specifically focused on the threat infrastructure.
+- Sigma Detector + Dashboard implementation.
 
-> 🧩 Habilidades / Lenguajes
+> 🧩 Skills / Languages
 
-- Python (intermedio)
-- SQL
-- PowerShell (básico).
+- Python (intermediate).
+- SQL.
+- PowerShell (basic).
 
-> 🗂️ Entregables
+> 🗂️ Deliverables
 
-- 3 peritajes (con anexos y hashes)
-- Templates en Templates/.
+- 3 Expert Reports (with appendices and hashes).
+- Templates in (Templates/).
 
->📚 Lectura Recomendada
+> 📚 Reading Recommended
 
 - Network Security Monitoring — Richard Bejtlich.
+- Open Source Intelligence Techniques — Michael Bazzell.
+- Social Engineering: The Science of Human Hacking — Christopher Hadnagy.
 
-> 🎓 Certificación
+> 🎓 Certifications
 
-- Preparación para GCFA / GREM.
+- eLearnSecurity — eCIR (Certified Incident Responder).
+- TCM Security — OSINT Professional.
+- Hacker Academy — PIC (Professional Investigator Certification).
 
-> 🌐 Idiomas
+> 🌐 Languages
 
-- Inglés
-  - B1→B2 — escribir un writeup semanal.
-- Japonés
-  - 20–30 min × 3/semana (vocabulario técnico).
+- English
+  - B1→B2 — writing a weekly technical writeup.
+- Japanese
+  - 20–30 min × 3/week (technical vocabulary).
 
-### 🕯️ PHASE 2 — ESPECIALIZACIÓN TÉCNICA & LENGUAJES (9–24 meses)
+### 🕯️ PHASE 2 — TECHNICAL SPECIALIZATION & LANGUAGES
 
-> 🎯 Objetivo
+> 🎯 Objective
 
-- Dominar análisis de memoria y malware, y comenzar japonés formal (comunicación profesional básica).
+- Master memory and malware analysis, and begin formal Japanese (basic professional communication).
 
-> 📈 Resultados Medibles
+> 📈 Measurable Outcomes
 
-- 1 investigación de malware (YARA + Sigma).
-- 1 caso OSINT de atribución.
-- Fondo para certificación (GCFA/GREM).
+- 1 malware investigation (YARA + Sigma).
+- 1 OSINT attribution case.
+- Funds reserved for certification (GCFA/GREM).
 
-> 🔧 Herramientas / Temas
+> 🔧 Tools / Topics
 
-- Volatility avanzado
-- Ghidra
-- IDA Free
-- x64dbg
-- YARA
-- Sigma
-- Velociraptor
+- Advanced Volatility.
+- Ghidra.
+- IDA Free.
+- x64dbg.
+- YARA.
+- Sigma.
+- Velociraptor.
 - KAPE.
+- NTFS, EXT4 File System Forensics.
 
-> 📁 Proyectos Clave
+> 📁 Key Projects
 
-- Malware Analysis Report (estático + dinámico).
-- Memory Forensics con extracción de credenciales.
-- OSINT Attribution Pack (timeline y presentación ejecutiva).
+- Malware Analysis Report (static + dynamic).
+- Memory Forensics with credential extraction.
+- OSINT Attribution Pack (timeline and executive presentation).
 
-> 🧩 Habilidades / Lenguajes
+> 🧩 Skills / Languages
 
-- C (fundamentos)
-- Python (avanzado)
-- Go o Rust (introductorio)
+- C (fundamentals).
+- Python (advanced).
+- Go or Rust (introductory).
 - SQL / Elastic DSL.
 
-> 🗂️ Entregables
+> 🗂️ Deliverables
 
-- Malware report + scripts reproducibles.
+- Malware report + reproducible scripts.
 
-> 📚 Lectura Recomendada
+> 📚 Reading Recommended
 
 - Reverse Engineering for Beginners — Eldad Eilam.
 - The Art of Memory Forensics — Ligh et al.
+- Automating OSINT — Paul Ashley.
+- Advanced Persistent Threat (APT) Reports.
+- Unmasking the Social Engineer — Paul Ashley.
+- Pretexting: The Foundation of Social Engineering.
+- Practical Malware Analysis — Michael Sikorski & Andrew Honig.
 
-> 🎓 Certificación
+> 🎓 Certifications
 
-- GCFA o GREM (según enfoque técnico).
+- GIAC — GREM (GIAC Reverse Engineering Malware).
+- (OSINT skills validated by attribution practice).
+- (Social Engineering skills validated by Hadnagy reading practice).
 
-> 🌐 Idiomas:
+> 🌐 Languages
 
-- Inglés
-  - B2→C1 — redacción técnica y presentaciones.
-- Japonés
-  - JLPT N5→N4 (45 min diarios).
+- English
+  - B2→C1 — technical writing and presentations.
+- Japanese
+  - JLPT N5→N4 (45 min daily).
 
-### 🩸 PHASE 3 — VALIDACIÓN JUDICIAL & NETWORKING INTERNACIONAL (24–48 meses)
+### 🩸 PHASE 3 — JUDICIAL VALIDATION & INTERNATIONAL NETWORKING
 
-> 🎯 Objetivo
+> 🎯 Objective
 
-- Ejercer como perito certificado y abrir conexiones institucionales con Japón.
+- Practice as a certified expert witness and establish institutional connections with Japan.
 
-> 📈 Resultados Medibles:
+> 📈 Measurable Outcomes
 
-- 3 peritajes con cadena de custodia completa.
-- 2 publicaciones en inglés, 1 resumen en japonés.
-- Dossier institucional (inglés/japonés).
+- 3 expert reports with full Chain of Custody.
+- 2 English publications, 1 Japanese summary.
+- Institutional dossier (English/Japanese).
 
-> 🔧 Herramientas / Temas
+> 🔧 Tools / Topics
 
-- Rekall
-- Velociraptor
-- KAPE
-- MISP
-- TheHive
-- Maltego
-- Procedimientos legales internacionales.
+- Rekall.
+- Velociraptor.
+- KAPE.
+- MISP.
+- TheHive.
+- Maltego.
+- International Legal Procedures.
 
-> 📁 Proyectos Clave
+> 📁 Key Projects
 
-- Peritaje formal (pro bono o remunerado).
-- Whitepaper de atribución.
-- Dossier institucional + firma PGP.
+- Formal Expert Witness Report (pro bono or remunerated).
+- Attribution Whitepaper.
+- Institutional Dossier + PGP signature.
 
-> 🧩 Habilidades / Lenguajes
+> 🧩 Skills / Languages
 
-- C (intermedio)
-- Python/SQL
-- PowerShell avanzado.
+- C (intermediate).
+- Python/SQL.
+- Advanced PowerShell.
 
-> 🗂️ Entregables
+> 🗂️ Deliverables
 
-- Dossier JP/EN, informes y repositorio reproducible.
+- JP/EN Dossier, reports, and reproducible repository.
 
-> 📚 Lectura Recomendada
+> 📚 Reading Recommended
 
-- Casos CERT / publicaciones legales forenses.
+- CERT Cases / Forensic Legal Publications.
+- The Field Guide to OSINT — Richard Bejtlich.
+- Influence: The Psychology of Persuasion — Robert Cialdini.
+- (Focus on applying Cialdini's principles to presenting findings).
 
-> 🎓 Certificación
+> 🎓 Certifications
 
-- GCFA + curso legal (evidence handling).
+- GIAC — GCFA (GIAC Certified Forensic Analyst) + legal course.
+- GIAC — GOSI (SANS SEC497: Practical Open-Source Intelligence).
+- Social-Engineer, LLC. — CESE (Certified Ethical Social Engineer).
 
-> 🌐 Idiomas
+> 🌐 Languages
 
-- Inglés
-  - C1 (defensa de hallazgos).
-- Japonés
-  - JLPT N3→N2 (60 min diarios).
+- English
+  - C1 (defending findings).
+- Japanese
+  - JLPT N3→N2 (60 min daily).
 
-### 🏯 PHASE 4 — EXPANSIÓN PROFESIONAL EN JAPÓN (48–84 meses)
+### 🏯 PHASE 4 — PROFESSIONAL EXPANSION IN JAPAN
 
-> 🎯 Objetivo
+> 🎯 Objective
 
-- Colaborar oficialmente con instituciones japonesas y preparar la transición migratoria.
+- Officially collaborate with Japanese institutions and prepare the migratory transition.
 
-> 📈 Resultados Medibles:
+> 📈 Measurable Outcomes
 
-- Contrato con cliente japonés.
-- Publicación o training conjunto.
-- CV y dossier japonés completos.
+- Contract with a Japanese client.
+- Joint publication or training.
+- Complete Japanese CV and dossier.
 
-> 🔧 Herramientas / Temas
+> 🔧 Tools / Topics
 
-- NISC / JPCERT guidelines
-- Splunk / ELK productivo
-- NDAs y contratos bilingües.
+- NISC / JPCERT guidelines.
+- Splunk / ELK productive setup.
+- NDAs and bilingual contracts.
 
-> 📁 Proyectos Clave:
+> 📁 Key Projects
 
-- Pilot engagement con empresa japonesa.
-- Workshop bilingüe.
-- Caso de estudio conjunto.
+- Pilot engagement with a Japanese company.
+- Bilingual Workshop.
+- Joint Case Study.
 
-> 🧩 Habilidades / Lenguajes
+> 🧩 Skills / Languages
 
-- Go / Rust (según proyecto)
-- Python avanzado
-- habilidades comerciales.
+- Go / Rust (project-dependent).
+- Advanced Python.
+- Business Skills, focused on Cross-Cultural Communication.
 
-> 🗂️ Entregables
+> 🗂️ Deliverables
 
-- Contrato piloto + case study + CV JP.
+- Pilot Contract + Case Study + JP CV.
 
-> 📚 Lectura Recomendada
+> 📚 Reading Recommended
 
-- Reportes NISC/JPCERT, ISO27001, SOC2.
+- NISC/JPCERT Reports, ISO27001, SOC2.
+- The Handbook of Open Source Intelligence — Yuri Harlamov.
+- Hacking the Human — Jennifer J. Grannick.
 
-> 🎓 Certificación
+> 🎓 Certifications
 
-- CISSP.
+- (ISC)² — CISSP (Certified Information Systems Security Professional).
+- EC-Council — CTIA (Certified Threat Intelligence Analyst).
+- (Consulting/Awareness skills integrated).
 
-> 🌐 Idiomas
+> 🌐 Languages
 
-- Inglés
-  - C2 ejecutivo.
-- Japonés
-  - JLPT N2 (lectura contractual y negociación).
+- English
+  - C2 Executive.
+- Japanese
+  - JLPT N2 (contractual reading and negotiation).
 
-### 🕊️ PHASE 5 — CONSOLIDACIÓN, EMPRESA Y CIUDADANÍA (84–120+ meses)
+### 🕊️ PHASE 5 — CONSOLIDATION, VENTURE, AND CITIZENSHIP
 
-> 🎯 Objetivo
+> 🎯 Objective
 
-- Fundar empresa o puesto estable en Japón y obtener la ciudadanía japonesa por mérito profesional.
+- Found a company or secure a stable position in Japan and obtain Japanese citizenship through professional merit.
 
-> 📈 Resultados Medibles
+> 📈 Measurable Outcomes
 
-- Empresa / posición estable con clientes japoneses.
-- MVP técnico operativo.
-- Publicaciones continuas y disclosure anual.
-- Progreso legal documentado hacía ciudadanía.
+- Company / stable position with Japanese clients.
+- Operational technical MVP.
+- Continuous publications and annual disclosure.
+- Documented legal progress toward citizenship.
 
-> 🔧 Herramientas / Temas
+> 🔧 Tools / Topics
 
-- SIEM multi-tenant
-- SOAR
-- Kernel analysis
-- Governance y SLA.
+- SIEM multi-tenant.
+- SOAR.
+- Kernel analysis.
+- Governance and SLA.
 
-> 📁 Proyectos Clave
+> 📁 Key Projects
 
-- MVP productivo + métricas.
-- Programa de formación para fuerzas japonesas.
-- Research universitario / CERT JP.
+- Productive MVP + metrics.
+- Training program for Japanese forces.
+- University / CERT JP research collaboration.
 
-> 🧩 Habilidades / Lenguajes
+> 🧩 Skills / Languages
 
-- Assembly
-- Rust
-- gestión ejecutiva.
+- Assembly.
+- Rust.
+- Executive Management.
 
-> 🗂️ Entregables
+> 🗂️ Deliverables
 
-- MVP
-- Contratos
-- Documentación de residencia.
+- MVP, Contracts, Residency Documentation.
 
-> 📚 Lectura Recomendada
+> 📚 Reading Recommended
 
 - Management of Information Security — Northcutt & Whitman.
-- Publicaciones japonesas sobre derecho penal y cibercrimen.
+- The Ultimate Guide to OSINT — Online Resources.
+- The Science of Human Error — Dr. John H. Mueller.
+- Japanese Publications on Cybercrime and Criminal Law.
+- Maltego Casebook Publications and Tools.
+- Global Trends in Social Engineering — Annual Security Reports.
 
-> 🎓 Certificación
+> 🎓 Certifications
 
-- CISM / Postgrado en Ciberseguridad (Japón).
+- ISACA — CISM (Certified Information Security Manager) / Cybersecurity Post-Graduate Degree (Japan).
+- EC-Council — CEH (Footprinting/Recognition Module).
+- (Specialization in psychology/human error via books).
 
-> 🌐 Idiomas
+> 🌐 Languages
 
-- Inglés
-  - C2 (publicación).
-- Japonés
-  - JLPT N1 (legal, formal, completo).
+- English
+  - C2 (publication).
+- Japanese
+  - JLPT N1 (legal, formal, comprehensive).
 
-#### 🕰️ KPIs DE PROGRESO
+> 🕰️ PROGRESS KPIs
 
-- 📓 Journal: mínimo 5 entradas/semana.
-- 🧾 Writeups: 1 mini por semana (Phase 0); 1 peritaje/mes (Phase 1).
-- 💰 Ingresos: primer pago (Phase 1); contrato JP (Phase 4).
-- 🗣 ️ Idiomas: simulacros cada 6 meses (Inglés/Japonés).
-- 🎯 Certificaciones: plan financiero por fase.
-
-#### 📜 PLANTILLAS DISPONIBLES
-
-- 🧩 Informe Forense
+- 📓 Journal: Minimum 5 entries/week.
+- 🧾 Writeups: 1 mini per week (Phase 0); 1 expert report/month (Phase 1).
+- 💰 Income: First payment (Phase 1); JP contract (Phase 4).
+- 🗣 ️ Languages: Simulations every 6 months (English/Japanese).
+- 🎯 Certifications: Financial plan per phase.
+- 📜 AVAILABLE TEMPLATES
+- 🧩 Forensic Report (Markdown/PDF)
 - 🔗 Chain of Custody
 - 🛰️ OSINT Brief
 
-#### 🌠 REFLEXIÓN FINAL
+> 🌠 FINAL REFLECTION
 
-`“La justicia no es un ideal lejano; es una precisión técnica.
- El ingeniero forense no destruye ni castiga: revela.
- Y en la verdad revelada, se encuentra la paz.”`
- **— 「Tenshi no Shinpan」, Alejandro Meyer**
+`“Justice is not a distant ideal; it is a technical precision. The forensic engineer does not destroy or punish: he reveals. And in revealed truth, peace is found.” — 「Tenshi no Shinpan」, Alejandro Meyer`

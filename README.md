@@ -1,118 +1,89 @@
 # ![Banner](assets/images/Banner.png)
 
-## 🩸👑 K4M1G1R1 — *The Eternal Path* ⚙️
+## 🩸👑 K4M1G1R1 — The Forensic Architect of Justice ⚔️
 
-## 「天使の創造 — TENSHI NO SŌZŌ」\
+### 「天使の創造 — TENSHI NO SŌZŌ」
 
-### Investigación Forense Digital · OSINT · Detection Engineering (DFIR / サイバー捜査 / 検出エンジニアリング)
-
----
-
-> **Misión:** Convertir la investigación técnica en evidencia judicial. Mi objetivo es integrar técnicas avanzadas de forense digital y OSINT con detección industrializable — para colaborar con entidades judiciales y de seguridad en Japón y a nivel internacional.
+**Digital Forensics · OSINT · Social Engineering · Industrialized Detection**
+(DFIR / サイバー捜査 / 社会工学 / 検出エンジニアリング)
 
 ---
 
-## 🎯 TL;DR — La cara de a dónde quiero llegar
-
-Soy **Alejandro — Investigador Forense Digital y Arquitecto de Detección**. Este repositorio es la muestra técnica y profesional de mi trayectoria: proyectos reproducibles, artefactos forenses, reglas de detección y procedimientos que cumplen cadena de custodia y buenas prácticas de evidencia.
-
-**Foco:** DFIR + OSINT + Detection Engineering (mentalidad Blue–Purple).
-**Objetivo estratégico:** colaborar con la justicia japonesa (司法) y organismos afines, ofreciendo peritajes técnicos, informes forenses y apoyo en investigaciones cibernéticas transfronterizas.
+> 🎯 **CORE MISSION:** **To convert technical investigation into court-admissible evidence.**
+>
+> My objective is to integrate advanced techniques in **Digital Forensics (DFIR)**, **Open Source Intelligence (OSINT)**, and the **Human Factor (Social Engineering)** with principles of **Industrialized Detection** to collaborate with judicial and security entities in **Japan (司法)** and internationally.
 
 ---
 
-## 🏗️ Manifiesto Profesional
+## 🔎 TL;DR — Professional Profile & Niche
 
-* **Evidencia primero.** Todo hallazgo debe poder sostenerse en corte: trazabilidad, reproducción y documentación clara.
-* **Transparencia técnica.** Repositorio versionado, artefactos con reducted IOCs y mitigaciones incluidas.
-* **Legalidad y ética.** Entornos air‑gapped para experimentación; divulgación responsable y respeto a la cadena de custodia.
-* **Producción de detección.** Cada descubrimiento ofensivo genera una contramedida: Sigma, YARA y playbooks IR listos para industrializar.
+I am **Alejandro**, a **Digital Forensics Investigator and Detection Architect**. This repository serves as my archive of high-rigor technical and professional work, focused on producing:
 
----
+* **Reproducible projects.**
+* **Validated forensic artifacts.**
+* **Applicable detection rules (YARA/Sigma).**
 
-## 📌 Propósito del repositorio — Single Source of Truth
-
-Documentar el ciclo completo de investigación y detección, con énfasis en aplicabilidad judicial:
-
-* `Journal/` — registros diarios y bitácora operativa (raw).
-* `Roadmap/` — plan estratégico hacia peritaje forense y cooperación internacional.
-* `Labs/` — writeups reproducibles, imágenes forenses e instrucciones para replicación en entornos seguros.
-* `Reversing/` — análisis técnicos, Frida/Ghidra snippets y propuestas de detección.
-* `Artifacts/BlueTeam/` — Sigma, YARA, métricas de validación y playbooks IR.
-* `Artifacts/PurpleTeam/` — TTP modelling con pipeline de detección y mitigación.
-* `Projects/` — prototipos y herramientas orientadas al soporte forense y automatización.
+**Niche & Focus:** **DFIR + OSINT + Social Engineering + Detection Engineering** (Blue–Purple Mindset).
+**Strategic Goal:** To support **Japanese justice (警察/司法)** and related organizations by providing **expert technical reports**, forensic findings, and assistance in complex cross-border cyber investigations.
 
 ---
 
-## 📂 Estructura rápida
+## 🏗️ Manifest and Evidence Standards
 
-![README](/README.md)
+This manifesto defines the quality and ethics of my work, which are essential for judicial admissibility.
 
-![Roadmap](/Roadmap/roadmap.md)
-
-![Labs](/Labs/)
-
-![Reversing](/Reversing/)
-
-![Artifacts/BlueTeam/](/Artifacts/BlueTeam/)
-
-![Artifacts/PurpleTeam/](/Artifacts/PurpleTeam/)
-
-![Journal](/Journal/)
-
-![Projects](/Projects/)
-
-![KEYS](/KEYS/) (PGP public key, contacto oficial)
+| Principle | Description | Judicial Relevance |
+| :--- | :--- | :--- |
+| **Evidence First** | Every finding must be documented to stand in court: traceability, reproduction, and clear documentation. | **Irrefutable Chain of Custody (CoC).** |
+| **Focus on the Human** | Study of persuasion psychology to build awareness programs and defense against **fraud/Social Engineering**. | **Internal Risk Mitigation.** |
+| **Detection Production** | Every offensive case generates a countermeasure (Sigma, YARA, IR Playbooks) ready for industrialization. | **From Investigation to Mitigation.** |
+| **Technical Transparency** | Versioned repository, artifacts with **redacted IOCs**, and included mitigations. | **Auditable and Replicable.** |
 
 ---
 
-## 🇯🇵 Por qué Japón — por qué mi objetivo es colaborar con la justicia japonesa
+## 📌 Single Source of Truth — Repository Structure
 
-* Japón combina **rigor técnico** con un profundo respeto institucional por la evidencia y el procedimiento: valores que coinciden con mi ética profesional.
-* Aspiro a aportar peritajes técnicos que cumplan estándares internacionales y locales, facilitando cooperación entre organismos y ayudando en investigaciones complejas que atraviesan jurisdicciones.
-* 日本の司法機関と協力したい — quiero colaborar con instituciones japonesas en investigación y formación técnica.
+The content is designed to document the full investigation and detection lifecycle, with an emphasis on judicial applicability.
 
----
-
-## 🔧 Cómo usar este repositorio (audiencia)
-
-* **Para responsables judiciales / policías / peritos:** revisar `Roadmap/` y `Labs/` para ver metodologías, reproducibilidad y resultados; contactarme por el canal oficial (PGP + email) para solicitudes de peritaje o pruebas técnicas.
-* **Para equipos de seguridad:** usar `Artifacts/BlueTeam/` como base para detección industrializable.
-* **Para mí (rutina):** update diario en `Journal/` + push pequeño cada noche.
-
----
-
-## 🧭 Estándares y prácticas (Investigative Standards)
-
-* **Chain of custody:** cada artefacto documentado (metadatos, hash, origen, procedimiento de adquisición).
-* **Reproducibilidad:** pasos claros para re-ejecutar análisis en entornos controlados.
-* **Mitigación responsable:** para cada PoC o exploit documentado, se incluye paquete de mitigación y reglas de detección.
-* **Privacidad y minimización:** IOCs en `Labs/` y `Artifacts/` estarán redactados o tokenizados cuando existan riesgos legales.
+| Directory | Content | Focus |
+| :--- | :--- | :--- |
+| **`Roadmap/`** | 5-year strategic plan toward forensic expertise and collaboration in Japan. | Strategy |
+| **`Labs/`** | **Reproducible writeups**, forensic images, and secure replication instructions. | Practical DFIR |
+| **`SocialEng/`** | **Pretexting simulations**, analysis of fraud psychology, and awareness materials. | Human Factor |
+| **`Artifacts/BlueTeam/`** | Sigma rules, YARA, validation metrics, and industrialized **IR playbooks**. | Detection (Blue) |
+| **`Artifacts/PurpleTeam/`** | TTP modeling, detection pipeline, and complete mitigation. | Engineering (Purple) |
+| **`Reversing/`** | Malware analysis, *Frida/Ghidra snippets*, and advanced detection proposals. | Malware Analysis |
+| **`Journal/`** | Daily logs and operative logbook of my progress (*raw data*). | Discipline/Progress |
+| **`Projects/`** | Prototypes and tools aimed at forensic support and automation. | Development |
 
 ---
 
-## 🛡 Ética, Legal & Responsible Disclosure (No negociable)
+## 🇯🇵 Why Japan — The International Collaboration
 
-* Experimentos ofensivos únicamente en entornos aislados y controlados.
-* Divulgación responsable a vendors y autoridades; PGP key en `KEYS/`.
-* No se publican PoCs explotables sin mitigación.
-* Mi trabajo está orientado a **soporte judicial y defensivo**, nunca a la explotación criminal.
+My goal is not only to be a technical expert but a **professional and cultural bridge**.
 
----
-
-## 📈 Objetivos a 3 / 12 / 36 meses
-
-* **3 meses:** portfolio básico: 3 casos DFIR reproducibles, 2 reglas Sigma validadas, workflow de captura de evidencia.
-* **12 meses:** trabajar como consultor/analista en casos reales, establecer canal de contacto con una entidad judicial o despacho forense en Japón.
-* **36 meses:** perito reconocido, colaboraciones formales con organismos japoneses y producto/servicio comercial de detección forense.
+* **Institutional Rigor:** Japan combines **technical rigor** with a deep institutional respect for evidence and procedure—values that align perfectly with my professional ethics.
+* **Strategic Contribution:** I aim to provide expert reports that meet international and local standards (**NISC / JPCERT**), facilitating cooperation in complex, cross-jurisdictional investigations.
+* **日本の司法機関と協力したい** — My work is oriented toward collaboration with Japanese institutions in the fields of investigation and technical training.
 
 ---
 
-## 📬 Contacto y divulgación responsable
+## 📬 Contact and Responsible Disclosure (Judicial & Vendors)
 
-* **PGP key:** `Whitout KEY`.
-* **Email para divulgación responsable y solicitudes judiciales:** `Whitout Email`.
-* **Si representas a una entidad judicial japonesa (警察/司法):** indícame el canal preferido y procederé con la documentación legal necesaria.
+**My work is oriented toward judicial and defensive support, never criminal exploitation.**
+
+| Channel | Preferred Use | Details |
+| :--- | :--- | :--- |
+| **PGP Key** | **Identity verification** and secure encryption. | `[Your PGP Key here]` |
+| **Email** | Expert requests and **responsible disclosure** to vendors. | `[Your Email here]` |
+| **JP Judicial Contact** | **If you represent a Japanese entity (警察/司法):** please indicate the preferred official channel (institutional email, phone, etc.) and I will proceed with the necessary legal documentation. | Formal Process |
+
+---
+*Progress and Key Milestones:*
+
+* **3 Months:** 3 Reproducible DFIR cases + 2 Validated Sigma rules.
+* **12 Months:** Establish a communication channel with a Japanese forensic firm or judicial entity.
+* **36 Months:** Recognized expert witness, formal collaborations with Japanese organizations.
 
 ---
 
