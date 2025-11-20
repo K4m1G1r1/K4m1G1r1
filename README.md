@@ -41,23 +41,6 @@ This manifesto defines the quality and ethics of my work, which are essential fo
 
 ---
 
-## 📌 Single Source of Truth — Repository Structure
-
-The content is designed to document the full investigation and detection lifecycle, with an emphasis on judicial applicability.
-
-| Directory | Content | Focus |
-| :--- | :--- | :--- |
-| **`Roadmap/`** | 5-year strategic plan toward forensic expertise and collaboration in Japan. | Strategy |
-| **`Labs/`** | **Reproducible writeups**, forensic images, and secure replication instructions. | Practical DFIR |
-| **`SocialEng/`** | **Pretexting simulations**, analysis of fraud psychology, and awareness materials. | Human Factor |
-| **`Artifacts/BlueTeam/`** | Sigma rules, YARA, validation metrics, and industrialized **IR playbooks**. | Detection (Blue) |
-| **`Artifacts/PurpleTeam/`** | TTP modeling, detection pipeline, and complete mitigation. | Engineering (Purple) |
-| **`Reversing/`** | Malware analysis, *Frida/Ghidra snippets*, and advanced detection proposals. | Malware Analysis |
-| **`Journal/`** | Daily logs and operative logbook of my progress (*raw data*). | Discipline/Progress |
-| **`Projects/`** | Prototypes and tools aimed at forensic support and automation. | Development |
-
----
-
 ## 🇯🇵 Why Japan — The International Collaboration
 
 My goal is not only to be a technical expert but a **professional and cultural bridge**.
@@ -77,13 +60,6 @@ My goal is not only to be a technical expert but a **professional and cultural b
 | **PGP Key** | **Identity verification** and secure encryption. | `[Your PGP Key here]` |
 | **Email** | Expert requests and **responsible disclosure** to vendors. | `[Your Email here]` |
 | **JP Judicial Contact** | **If you represent a Japanese entity (警察/司法):** please indicate the preferred official channel (institutional email, phone, etc.) and I will proceed with the necessary legal documentation. | Formal Process |
-
----
-*Progress and Key Milestones:*
-
-* **3 Months:** 3 Reproducible DFIR cases + 2 Validated Sigma rules.
-* **12 Months:** Establish a communication channel with a Japanese forensic firm or judicial entity.
-* **36 Months:** Recognized expert witness, formal collaborations with Japanese organizations.
 
 ---
 
