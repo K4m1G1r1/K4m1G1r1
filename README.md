@@ -1,73 +1,71 @@
 # ![Banner](assets/images/Banner.png)
 
-## 🩸👑 K4M1G1R1 — The Forensic Architect of Justice ⚔️
+## ⚔️ K4M1G1R1 — El Aspirante a Arquitecto Forense Digital
 
 ### 「天使の創造 — TENSHI NO SŌZŌ」
 
-**Digital Forensics · OSINT · Social Engineering · Industrialized Detection**
-(DFIR / サイバー捜査 / 社会工学 / 検出エンジニアリング)
+**Digital Forensics (Fundamentos) · OSINT (Práctica) · Detección de Amenazas (Principios)**
+(DFIR / サイバー捜査 / 検出エンジニアリング)
 
 ---
 
-> 🎯 **CORE MISSION:** **To convert technical investigation into court-admissible evidence.**
+> 🎯 **MISIÓN CENTRAL:** **Aprender y aplicar la metodología para convertir la investigación técnica en evidencia admisible.**
 >
-> My objective is to integrate advanced techniques in **Digital Forensics (DFIR)**, **Open Source Intelligence (OSINT)**, and the **Human Factor (Social Engineering)** with principles of **Industrialized Detection** to collaborate with judicial and security entities in **Japan (司法)** and internationally.
+> Mi objetivo es integrar los fundamentos de **Digital Forensics (DFIR)** y **Open Source Intelligence (OSINT)** con los principios del desarrollo seguro y la **Ingeniería de Detección**. Busco una formación sólida que me permita, en el futuro, contribuir con entidades judiciales y de seguridad.
 
 ---
 
-## 🔎 TL;DR — Professional Profile & Niche
+## 🔎 Perfil Profesional y Enfoque (Estudiante Activo)
 
-I am **Alejandro**, a **Digital Forensics Investigator and Detection Architect**. This repository serves as my archive of high-rigor technical and professional work, focused on producing:
+Soy **Alejandro Meyer**, estudiante de **Tecnología en Análisis y Desarrollo de Software (SENA)**. Este repositorio sirve como mi archivo de estudio riguroso, laboratorios técnicos y proyectos iniciales, enfocado en la producción de:
 
-* **Reproducible projects.**
-* **Validated forensic artifacts.**
-* **Applicable detection rules (YARA/Sigma).**
+* **Proyectos reproducibles** y con trazabilidad (*Git/GitHub*).
+* **Ejercicios prácticos** de análisis de artefactos forenses (Entornos de prueba).
+* **Fundamentos de reglas de detección** (Estudio de YARA/Sigma).
 
-**Niche & Focus:** **DFIR + OSINT + Social Engineering + Detection Engineering** (Blue–Purple Mindset).
-**Strategic Goal:** To support **Japanese justice (警察/司法)** and related organizations by providing **expert technical reports**, forensic findings, and assistance in complex cross-border cyber investigations.
+**Nicho y Foco Actual:** **DFIR (Principios) + OSINT (Básico) + Desarrollo Seguro** (Mentalidad Blue en formación).
+**Objetivo Estratégico:** Construir una carrera técnica sólida que me permita, a largo plazo, apoyar a la **justicia en Japón (司法)** y organismos internacionales con peritajes digitales y ciberinvestigación.
 
 ---
 
-## 🏗️ Manifest and Evidence Standards
+## 🏗️ Manifiesto y Estándares de Aprendizaje
 
-This manifesto defines the quality and ethics of my work, which are essential for judicial admissibility.
+Este manifiesto define la calidad y ética de mi proceso de aprendizaje y mi trabajo en proyectos, esenciales para el futuro cumplimiento judicial.
 
-| Principle | Description | Judicial Relevance |
+| Principio | Descripción | Relevancia |
 | :--- | :--- | :--- |
-| **Evidence First** | Every finding must be documented to stand in court: traceability, reproduction, and clear documentation. | **Irrefutable Chain of Custody (CoC).** |
-| **Focus on the Human** | Study of persuasion psychology to build awareness programs and defense against **fraud/Social Engineering**. | **Internal Risk Mitigation.** |
-| **Detection Production** | Every offensive case generates a countermeasure (Sigma, YARA, IR Playbooks) ready for industrialization. | **From Investigation to Mitigation.** |
-| **Technical Transparency** | Versioned repository, artifacts with **redacted IOCs**, and included mitigations. | **Auditable and Replicable.** |
+| **Evidencia y Metodología** | Todo hallazgo en laboratorios es documentado: trazabilidad, reproducción y documentación clara. | **Prioridad en la Cadena de Custodia (CoC).** |
+| **Detección Basada en Caso** | El estudio de casos ofensivos genera un ejercicio de contramedida o *playbook* de IR básico. | **Del Estudio a la Mitigación.** |
+| **Transparencia Técnica** | Repositorio versionado, con el compromiso de mantener los artefactos y el código auditable. | **Proceso Replicable y Ético.** |
 
 ---
 
-## 🇯🇵 Why Japan — The International Collaboration
+## 🇯🇵 Mi Visión: Colaboración Internacional con Japón
 
-My goal is not only to be a technical expert but a **professional and cultural bridge**.
+Mi meta es ser un **profesional y un puente cultural**. Esta ambición refleja mi compromiso con la **ética y el rigor técnico** que son fundamentales en las instituciones japonesas.
 
-* **Institutional Rigor:** Japan combines **technical rigor** with a deep institutional respect for evidence and procedure—values that align perfectly with my professional ethics.
-* **Strategic Contribution:** I aim to provide expert reports that meet international and local standards (**NISC / JPCERT**), facilitating cooperation in complex, cross-jurisdictional investigations.
-* **日本の司法機関と協力したい** — My work is oriented toward collaboration with Japanese institutions in the fields of investigation and technical training.
+* **Rigor Institucional:** Me identifico con la alta precisión y el respeto por el procedimiento, valores esenciales para el **Análisis Forense**.
+* **Contribución Futura:** Orientar mi formación para cumplir los estándares de ciberseguridad necesarios para apoyar a entidades como **NISC / JPCERT**, facilitando futuras cooperaciones.
+* **日本の司法機関と協力したい** — Mi trabajo técnico está orientado hacia esa meta de colaboración a largo plazo.
 
 ---
 
-## 📬 Contact and Responsible Disclosure (Judicial & Vendors)
+## 📬 Contacto y Ética Profesional
 
-**My work is oriented toward judicial and defensive support, never criminal exploitation.**
+**Mi trabajo se enfoca en el aprendizaje, el apoyo defensivo y el rigor metodológico, nunca en la explotación criminal.**
 
-| Channel | Preferred Use | Details |
+| Canal | Uso Preferido | Detalle |
 | :--- | :--- | :--- |
-| **PGP Key** | **Identity verification** and secure encryption. | `[Your PGP Key here]` |
-| **Email** | Expert requests and **responsible disclosure** to vendors. | `[Your Email here]` |
-| **JP Judicial Contact** | **If you represent a Japanese entity (警察/司法):** please indicate the preferred official channel (institutional email, phone, etc.) and I will proceed with the necessary legal documentation. | Formal Process |
+| **LinkedIn** | Conexiones profesionales, *networking* y mentoría. | [LinkedIn](https://www.linkedin.com/in/k4m1g1r1) |
+| **Email** | Consultas técnicas y **divulgación responsable** de vulnerabilidades (si aplica). |  |
 
 ---
 
                                          /\
                                         /  \
                                        /_/\_\
-                                      (  ⚖️  )
+                                      (  🎓  )
                              TENSHI NO SŌZŌ — K4M1G1R1
-                          Forensic Craft · Evidence First
-                       DFIR · OSINT · Detection Engineering
+                       Forensic Craft (Fundamentos) · Ambición
+                      DFIR · OSINT · Detection Engineering (Aprendizaje)
                       日本の司法と協力 — Justice through Method
