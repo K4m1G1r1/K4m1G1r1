@@ -1,63 +1,100 @@
-# ![Banner](assets/images/Banner.png)
+# K4M1G1r1 — Aspirante a Arquitecto Forense Digital
 
-## ⚔️ K4M1G1R1 — El Aspirante a Arquitecto Forense Digital
+![Banner](assets/images/Banner.png)
 
-### 「天使の創造 — TENSHI NO SŌZŌ」
+## En formación: Desarrollo de Software | Soporte TI | SOC Analyst Trainee
 
-**Digital Forensics (Fundamentos) · OSINT (Práctica) · Detección de Amenazas (Principios)**
-(DFIR / サイバー捜査 / 検出エンジニアリング)
+### Visión futura: DFIR | Ciberforense | Ingeniería de Detección en Japón
 
----
-
-> 🎯 **MISIÓN CENTRAL:** **Aprender y aplicar la metodología para convertir la investigación técnica en evidencia admisible.**
->
-> Mi objetivo es integrar los fundamentos de **Digital Forensics (DFIR)** y **Open Source Intelligence (OSINT)** con los principios del desarrollo seguro y la **Ingeniería de Detección**. Busco una formación sólida que me permita, en el futuro, contribuir con entidades judiciales y de seguridad.
+> "La ciberseguridad se construye con método, evidencia y trazabilidad."
 
 ---
 
-## 🔎 Perfil Profesional y Enfoque (Estudiante Activo)
+## Proyecto de Grado — ERP Web Empresarial (Para empresa real)
 
-Soy **Alejandro Meyer**, estudiante de **Tecnología en Análisis y Desarrollo de Software (SENA)**. Este repositorio sirve como mi archivo de estudio riguroso, laboratorios técnicos y proyectos iniciales, enfocado en la producción de:
+**Estado:** Desarrollo activo (*Sep 2025 – Dic 2027*)
 
-* **Proyectos reproducibles** y con trazabilidad (*Git/GitHub*).
-* **Ejercicios prácticos** de análisis de artefactos forenses (Entornos de prueba).
-* **Fundamentos de reglas de detección** (Estudio de YARA/Sigma).
+### Módulos implementados o en desarrollo
 
-**Nicho y Foco Actual:** **DFIR (Principios) + OSINT (Básico) + Desarrollo Seguro** (Mentalidad Blue en formación).
-**Objetivo Estratégico:** Construir una carrera técnica sólida que me permita, a largo plazo, apoyar a la **justicia en Japón (司法)** y organismos internacionales con peritajes digitales y ciberinvestigación.
+- Autenticación y gestión de roles
+- Inventarios y lógica de stock
+- Facturación adaptada a procesos reales
+- Dashboard administrativo
+- Sistema de reportes básico
+- APIs REST para integración modular
+- Entornos de pruebas con Docker y VirtualBox
+- Control de versiones con GitHub (commits semanales con propósito)
 
----
+### Stack técnico del proyecto
 
-## 🏗️ Manifiesto y Estándares de Aprendizaje
-
-Este manifiesto define la calidad y ética de mi proceso de aprendizaje y mi trabajo en proyectos, esenciales para el futuro cumplimiento judicial.
-
-| Principio | Descripción | Relevancia |
-| :--- | :--- | :--- |
-| **Evidencia y Metodología** | Todo hallazgo en laboratorios es documentado: trazabilidad, reproducción y documentación clara. | **Prioridad en la Cadena de Custodia (CoC).** |
-| **Detección Basada en Caso** | El estudio de casos ofensivos genera un ejercicio de contramedida o *playbook* de IR básico. | **Del Estudio a la Mitigación.** |
-| **Transparencia Técnica** | Repositorio versionado, con el compromiso de mantener los artefactos y el código auditable. | **Proceso Replicable y Ético.** |
-
----
-
-## 🇯🇵 Mi Visión: Colaboración Internacional con Japón
-
-Mi meta es ser un **profesional y un puente cultural**. Esta ambición refleja mi compromiso con la **ética y el rigor técnico** que son fundamentales en las instituciones japonesas.
-
-* **Rigor Institucional:** Me identifico con la alta precisión y el respeto por el procedimiento, valores esenciales para el **Análisis Forense**.
-* **Contribución Futura:** Orientar mi formación para cumplir los estándares de ciberseguridad necesarios para apoyar a entidades como **NISC / JPCERT**, facilitando futuras cooperaciones.
-* **日本の司法機関と協力したい** — Mi trabajo técnico está orientado hacia esa meta de colaboración a largo plazo.
+- ERP
+- Node.js
+- NestJS
+- React
+- PostgreSQL
+- Prisma ORM
+- Docker
+- VirtualBox
+- Git
+- SDLC
+- API REST
+- lógica empresarial
 
 ---
 
-## 📬 Contacto y Ética Profesional
+## Habilidades técnicas actuales
 
-**Mi trabajo se enfoca en el aprendizaje, el apoyo defensivo y el rigor metodológico, nunca en la explotación criminal.**
+**Sistemas Operativos:** Linux (Kali, Debian) | Windows (básico)  
+**Virtualización:** VirtualBox | Laboratorios locales  
+**Contenedores:** Docker (introductorio)  
+**Redes (Labs):** Nmap | Wireshark | Captura e inspección de paquetes  
+**Scripting:** Bash (básico) | Python (hashing, logs, automatización simple)  
+**Bases de datos:** SQL | PostgreSQL | Prisma ORM  
+**Desarrollo:** SDLC | APIs REST | Modelado lógico | Integración web
 
-| Canal | Uso Preferido | Detalle |
-| :--- | :--- | :--- |
-| **LinkedIn** | Conexiones profesionales, *networking* y mentoría. | [LinkedIn](https://www.linkedin.com/in/k4m1g1r1) |
-| **Email** | Consultas técnicas y **divulgación responsable** de vulnerabilidades (si aplica). |  |
+---
+
+## Certificaciones y entrenamiento completados
+
+- **Introduction to Cybersecurity** — Cisco | 2025  
+- **Fundamentos de Ciberseguridad** — Platzi | 2025  
+- **Iniciación al Hacking Ético** — Hixec | 2025  
+- **IT Essentials** — Cisco | 2017  
+
+> Las rutas formales futuras (SOC1 Path, Inglés C1, Japonés N2→N1, GIAC, CISSP, CISM, Postgrado en Japón) serán abordadas por fases posteriores del roadmap para mantener enfoque y coherencia lineal.
+
+---
+
+## Filosofía de aprendizaje (Estándares personales de calidad)
+
+| Principio | Aplicación práctica |
+|---|---|
+| Reproducibilidad | Entornos controlados y documentación paso a paso |
+| Integridad de datos | Consistencia y validaciones básicas |
+| Trazabilidad | Versionado limpio y commits con propósito |
+| Rigor técnico | Calidad anterior a la automatización |
+| Mentalidad defensiva | Contramedidas documentadas por cada técnica estudiada |
+
+---
+
+## Enfoque ético
+
+- No apoyo actividades ilegales fuera de entornos de estudio.
+- Todo el contenido aquí publicado es para aprendizaje y fortalecimiento defensivo.
+
+---
+
+## Contacto
+
+| Canal | Enlace |
+|---|---|
+| LinkedIn | ![LinkedIn](linkedin.com/in/k4m1g1r1)|
+| GitHub | ![GitHub](github.com/K4m1G1r1) |
+| Correo | ![Gmail](alejomeyerr@gmail.com) |
+
+---
+
+## Firma personal
 
 ---
 
