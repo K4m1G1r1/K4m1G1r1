@@ -88,9 +88,9 @@
 
 | Canal | Enlace |
 |---|---|
-| LinkedIn | ![LinkedIn](linkedin.com/in/k4m1g1r1)|
-| GitHub | ![GitHub](github.com/K4m1G1r1) |
-| Correo | ![Gmail](alejomeyerr@gmail.com) |
+| LinkedIn | ![LinkedIn](https://www.linkedin.com/in/k4m1g1r1)|
+| GitHub | ![GitHub](https://github.com/K4m1G1r1) |
+| Correo | <alejomeyerr@gmail.com> |
 
 ---
 
