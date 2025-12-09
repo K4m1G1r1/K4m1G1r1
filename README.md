@@ -1,100 +1,94 @@
-# K4M1G1r1 — Aspirante a Arquitecto Forense Digital
+# K4M1G1r1 — Aspiring Digital Forensics Architect
 
 ![Banner](assets/images/Banner.png)
 
-## En formación: Desarrollo de Software | Soporte TI | SOC Analyst Trainee
+## In Training: Software Development | IT Support | SOC Analyst Trainee
 
-### Visión futura: DFIR | Ciberforense | Ingeniería de Detección en Japón
+### Future Vision: DFIR | Cyber Forensics | Detection Engineering in Japan
 
-> "La ciberseguridad se construye con método, evidencia y trazabilidad."
-
----
-
-## Proyecto de Grado — ERP Web Empresarial (Para empresa real)
-
-**Estado:** Desarrollo activo (*Sep 2025 – Dic 2027*)
-
-### Módulos implementados o en desarrollo
-
-- Autenticación y gestión de roles
-- Inventarios y lógica de stock
-- Facturación adaptada a procesos reales
-- Dashboard administrativo
-- Sistema de reportes básico
-- APIs REST para integración modular
-- Entornos de pruebas con Docker y VirtualBox
-- Control de versiones con GitHub (commits semanales con propósito)
-
-### Stack técnico del proyecto
-
-- ERP
-- Node.js
-- NestJS
-- React
-- PostgreSQL
-- Prisma ORM
-- Docker
-- VirtualBox
-- Git
-- SDLC
-- API REST
-- lógica empresarial
+> "Cybersecurity is built on method, evidence, and traceability."
 
 ---
 
-## Habilidades técnicas actuales
+## 🎯 Academic & Capstone Project — ERP Web Application (Real Company)
 
-**Sistemas Operativos:** Linux (Kali, Debian) | Windows (básico)  
-**Virtualización:** VirtualBox | Laboratorios locales  
-**Contenedores:** Docker (introductorio)  
-**Redes (Labs):** Nmap | Wireshark | Captura e inspección de paquetes  
-**Scripting:** Bash (básico) | Python (hashing, logs, automatización simple)  
-**Bases de datos:** SQL | PostgreSQL | Prisma ORM  
-**Desarrollo:** SDLC | APIs REST | Modelado lógico | Integración web
+**Status:** Active Development (*Sep 2025 – Dec 2027*)
+
+### Implemented Modules
+
+- Authentication & Role Management
+- Inventory & Stock Logic
+- Billing aligned with real business processes
+- Administrative Dashboard
+- Basic Reporting System
+- Modular REST API integrations
+- Test environments with Docker & VirtualBox
+- Version control via GitHub (purposeful weekly commits)
+
+### Project Tech Stack
+
+- **Backend:** Node.js + NestJS
+- **Frontend:** React + TailwindCSS
+- **Database:** PostgreSQL + Prisma ORM
+- Docker & VirtualBox for environment replication
+- Git & SDLC best practices
+- REST APIs & business logic modeling
 
 ---
 
-## Certificaciones y entrenamiento completados
+## 🛠️ Current Technical Skills
 
-- **Introduction to Cybersecurity** — Cisco | 2025  
-- **Fundamentos de Ciberseguridad** — Platzi | 2025  
-- **Iniciación al Hacking Ético** — Hixec | 2025  
-- **IT Essentials** — Cisco | 2017  
-
-> Las rutas formales futuras (SOC1 Path, Inglés C1, Japonés N2→N1, GIAC, CISSP, CISM, Postgrado en Japón) serán abordadas por fases posteriores del roadmap para mantener enfoque y coherencia lineal.
+- **Operating Systems:** Linux (Kali, Debian) | Windows (basic)
+- **Virtualization:** VirtualBox | Local labs
+- **Containers:** Docker (introductory)
+- **Networking & Labs:** Nmap | Wireshark | Traffic capture & inspection
+- **Scripting & Automation:** Bash (basic) | Python (hashing, log parsing, simple automation)
+- **Databases:** SQL | PostgreSQL | Prisma ORM
+- **Development:** SDLC | REST APIs | Logical modeling | Web integration
 
 ---
 
-## Filosofía de aprendizaje (Estándares personales de calidad)
+## 📜 Certifications & Training
 
-| Principio | Aplicación práctica |
+- **Introduction to Cybersecurity** — Cisco | 2025
+- **Fundamentos de Ciberseguridad** — Platzi | 2025
+- **Iniciación al Hacking Ético** — Hixec | 2025
+- **IT Essentials** — Cisco | 2017
+
+> Future certifications (SOC1 Path, English C1, Japanese N2→N1, GIAC, CISSP, CISM, Postgraduate in Japan) will follow the phased roadmap to maintain focus and sequential learning.
+
+---
+
+## 🔍 Learning Philosophy (Quality Standards)
+
+| Principle | Practical Application |
 |---|---|
-| Reproducibilidad | Entornos controlados y documentación paso a paso |
-| Integridad de datos | Consistencia y validaciones básicas |
-| Trazabilidad | Versionado limpio y commits con propósito |
-| Rigor técnico | Calidad anterior a la automatización |
-| Mentalidad defensiva | Contramedidas documentadas por cada técnica estudiada |
+| Reproducibility | Controlled environments & step-by-step documentation |
+| Data Integrity | Consistency & basic validations |
+| Traceability | Clean versioning & purposeful commits |
+| Technical Rigor | Quality before automation |
+| Defensive Mindset | Documented countermeasures for studied techniques |
 
 ---
 
-## Enfoque ético
+## ⚖️ Ethical Approach
 
-- No apoyo actividades ilegales fuera de entornos de estudio.
-- Todo el contenido aquí publicado es para aprendizaje y fortalecimiento defensivo.
+- No support for illegal activities outside study environments.
+- All published content is for learning and defensive improvement.
 
 ---
 
-## Contacto
+## 📫 Contact
 
-| Canal | Enlace |
+| Channel | Link |
 |---|---|
-| LinkedIn | [LinkedIn](https://www.linkedin.com/in/k4m1g1r1)|
-| GitHub | [GitHub](https://github.com/K4m1G1r1) |
-| Correo | <alejomeyerr@gmail.com> |
+| LinkedIn | [linkedin.com/in/k4m1g1r1](https://www.linkedin.com/in/k4m1g1r1) |
+| GitHub | [github.com/K4m1G1r1](https://github.com/K4m1G1r1) |
+| Email | <alejomeyerr@gmail.com> |
 
 ---
 
-## Firma personal
+## ✒️ Personal Signature
 
 ---
 
